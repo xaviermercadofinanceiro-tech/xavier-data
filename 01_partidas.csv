@@ -1,0 +1,943 @@
+﻿match_id,ano,rodada,data,status,home_team_id,home_team,away_team_id,away_team,home_gols,away_gols,home_gols_1t,away_gols_1t,home_gols_2t,away_gols_2t,vencedor,estadio,cidade,arbitro,tecnico_casa,tecnico_fora,home_pontos,away_pontos,tem_dados
+12116974,2024,1,2024-04-13 18:30,100.0,1966.0,Internacional,1955.0,Bahia,2,1,0,0,2,1,1.0,Estádio Beira-Rio,Porto Alegre,Rodrigo Jose Pereira de Lima,Paulo Pezzolano,Rogério Ceni,3.0,0.0,True
+12116975,2024,1,2024-04-14 17:00,100.0,1954.0,Cruzeiro,1958.0,Botafogo,3,2,1,1,2,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Matheus Delgado Candançan,Artur Jorge,Franclim Carvalho,3.0,0.0,True
+12116976,2024,1,2024-04-14 18:30,100.0,1962.0,Vitória,1963.0,Palmeiras,0,1,0,1,0,0,2.0,Estádio Manoel Barradas,Salvador,Braulio Da Silva Machado,Jair Ventura,Abel Ferreira,0.0,3.0,True
+12116977,2024,1,2024-04-13 21:00,100.0,1961.0,Fluminense,1999.0,Red Bull Bragantino,2,2,1,0,1,2,3.0,Estádio do Maracanã,Rio de Janeiro,Maguielson Lima Barbosa,Luis Zubeldia,Vagner Mancini,1.0,1.0,True
+12116978,2024,1,2024-04-14 16:00,100.0,1974.0,Vasco da Gama,5926.0,Grêmio,2,1,2,0,0,1,1.0,Estádio São Januário,Rio de Janeiro,Flavio Rodrigues De Souza,Renato Portaluppi,Luís Castro,3.0,0.0,True
+12116979,2024,1,2024-04-14 16:00,100.0,1957.0,Corinthians,1977.0,Atlético Mineiro,0,0,0,0,0,0,3.0,Neo Química Arena,Sao Paulo,Yuri Elino Ferreira Da Cruz,Fernando Diniz,Eduardo Dominguez,1.0,1.0,True
+12116980,2024,1,2024-04-13 21:00,100.0,1981.0,São Paulo,2020.0,Fortaleza,1,2,0,0,1,2,2.0,MorumBIS,Sao Paulo,Alex Gomes Stefano,Dorival Júnior,Thiago Carpini,0.0,3.0,True
+12116981,2024,1,2024-04-14 16:00,100.0,1967.0,Athletico,49202.0,Cuiabá,4,0,3,0,1,0,1.0,Arena da Baixada,Curitiba,Jonathan Benkenstein Pinheiro,Odair Hellmann,Eduardo Barros,3.0,0.0,True
+12116982,2024,1,2024-04-14 16:00,100.0,7314.0,Atlético Goianiense,5981.0,Flamengo,1,2,0,1,1,1,2.0,Estádio Antônio Accioly,Goiânia,Andre Luiz Skettino Policarpo Bento,Eduardo Souza,Leonardo Jardim,0.0,3.0,True
+12116983,2024,1,2024-04-13 18:30,100.0,1984.0,Criciúma,1980.0,Juventude,1,1,1,0,0,1,3.0,Estádio Heriberto Hülse,Criciúma,Bruno Pereira Vasconcelos,Eduardo Baptista,Mauricio Barbieri,1.0,1.0,True
+12116984,2024,2,2024-04-17 19:00,100.0,5926.0,Grêmio,1967.0,Athletico,2,0,1,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Marcelo de Lima Henrique,Luís Castro,Odair Hellmann,3.0,0.0,True
+12116985,2024,2,2024-04-17 20:00,100.0,1977.0,Atlético Mineiro,1984.0,Criciúma,1,1,1,0,0,1,3.0,Arena MRV,Belo Horizonte,Paulo Belence Alves Dos Prazeres Filho,Eduardo Dominguez,Eduardo Baptista,1.0,1.0,True
+12116986,2024,2,2024-04-16 21:30,100.0,1955.0,Bahia,1961.0,Fluminense,2,1,1,1,1,0,1.0,Arena Fonte Nova,Salvador,Joao Vitor Gobi,Rogério Ceni,Luis Zubeldia,3.0,0.0,True
+12116988,2024,2,2024-04-18 21:30,100.0,1958.0,Botafogo,7314.0,Atlético Goianiense,1,0,1,0,0,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Luiz Flávio de Oliveira,Franclim Carvalho,Eduardo Souza,3.0,0.0,True
+12116989,2024,2,2024-04-17 20:00,100.0,1963.0,Palmeiras,1966.0,Internacional,0,1,0,1,0,0,2.0,Nubank Parque,Sao Paulo,Lucas Paulo Torezin,Abel Ferreira,Paulo Pezzolano,0.0,3.0,True
+12116990,2024,2,2024-04-17 19:00,100.0,1999.0,Red Bull Bragantino,1974.0,Vasco da Gama,2,1,1,0,1,1,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Paulo Cesar Zanovelli da Silva,Vagner Mancini,Renato Portaluppi,3.0,0.0,True
+12116991,2024,2,2024-04-17 20:00,100.0,2020.0,Fortaleza,1954.0,Cruzeiro,1,1,1,0,0,1,3.0,Estádio Governador Plácido Castelo,Fortaleza,Bruno Mota Correia,Thiago Carpini,Artur Jorge,1.0,1.0,True
+12116992,2024,2,2024-04-17 16:00,60.0,49202.0,Cuiabá,1962.0,Vitória,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,,Eduardo Barros,Jair Ventura,1.0,1.0,False
+12116993,2024,2,2024-04-17 20:00,100.0,1980.0,Juventude,1957.0,Corinthians,2,0,0,0,2,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Bruno Arleu de Araujo,Mauricio Barbieri,Fernando Diniz,3.0,0.0,True
+12116994,2024,3,2024-04-20 18:30,100.0,5926.0,Grêmio,49202.0,Cuiabá,1,0,1,0,0,0,1.0,Arena do Grêmio,Porto Alegre,Bruno Pereira Vasconcelos,Luís Castro,Eduardo Barros,3.0,0.0,True
+12116995,2024,3,2024-04-20 21:00,100.0,1977.0,Atlético Mineiro,1954.0,Cruzeiro,3,0,3,0,0,0,1.0,Arena MRV,Belo Horizonte,Ramon Abatti Abel,Eduardo Dominguez,Artur Jorge,3.0,0.0,True
+12116996,2024,3,2024-04-21 16:00,100.0,1962.0,Vitória,1955.0,Bahia,2,2,1,0,1,2,3.0,Estádio Manoel Barradas,Salvador,Raphael Claus,Jair Ventura,Rogério Ceni,1.0,1.0,True
+12116997,2024,3,2024-04-20 16:00,100.0,1961.0,Fluminense,1974.0,Vasco da Gama,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Luis Zubeldia,Renato Portaluppi,3.0,0.0,True
+12116998,2024,3,2024-04-21 18:30,100.0,1958.0,Botafogo,1980.0,Juventude,5,1,2,0,3,1,1.0,Estádio Nilton Santos,Rio de Janeiro,Arthur Gomes Rabelo,Franclim Carvalho,Mauricio Barbieri,3.0,0.0,True
+12116999,2024,3,2024-04-21 16:00,100.0,1963.0,Palmeiras,5981.0,Flamengo,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Rodrigo Jose Pereira de Lima,Abel Ferreira,Leonardo Jardim,1.0,1.0,True
+12117000,2024,3,2024-04-20 18:30,100.0,1999.0,Red Bull Bragantino,1957.0,Corinthians,1,0,1,0,0,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Rafael Rodrigo Klein,Vagner Mancini,Fernando Diniz,3.0,0.0,True
+12117001,2024,3,2024-04-21 16:00,100.0,1967.0,Athletico,1966.0,Internacional,1,0,0,0,1,0,1.0,Arena da Baixada,Curitiba,Felipe Fernandes de Lima,Odair Hellmann,Paulo Pezzolano,3.0,0.0,True
+12117002,2024,3,2024-04-21 18:30,100.0,7314.0,Atlético Goianiense,1981.0,São Paulo,0,3,0,1,0,2,2.0,Estádio Antônio Accioly,Goiânia,Braulio Da Silva Machado,Eduardo Souza,Dorival Júnior,0.0,3.0,True
+12117004,2024,4,2024-04-28 20:00,100.0,1966.0,Internacional,7314.0,Atlético Goianiense,1,1,0,0,1,1,3.0,Estádio Beira-Rio,Porto Alegre,Edina Alves Batista,Paulo Pezzolano,Eduardo Souza,1.0,1.0,True
+12117005,2024,4,2024-04-28 16:00,100.0,1954.0,Cruzeiro,1962.0,Vitória,3,1,0,0,3,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Fabio Augusto Santos Sa Junior,Artur Jorge,Jair Ventura,3.0,0.0,True
+12117006,2024,4,2024-04-27 21:00,100.0,1955.0,Bahia,5926.0,Grêmio,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Braulio Da Silva Machado,Rogério Ceni,Luís Castro,3.0,0.0,True
+12117007,2024,4,2024-04-28 11:00,100.0,5981.0,Flamengo,1958.0,Botafogo,0,2,0,0,0,2,2.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Leonardo Jardim,Franclim Carvalho,0.0,3.0,True
+12117008,2024,4,2024-04-27 16:00,100.0,1974.0,Vasco da Gama,1984.0,Criciúma,0,4,0,1,0,3,2.0,Estádio São Januário,Rio de Janeiro,Caio Max Augusto Vieira,Renato Portaluppi,Eduardo Baptista,0.0,3.0,True
+12117009,2024,4,2024-04-28 16:00,100.0,1957.0,Corinthians,1961.0,Fluminense,3,0,2,0,1,0,1.0,Neo Química Arena,Sao Paulo,Ramon Abatti Abel,Fernando Diniz,Luis Zubeldia,3.0,0.0,True
+12117010,2024,4,2024-04-29 20:00,100.0,1981.0,São Paulo,1963.0,Palmeiras,0,0,0,0,0,0,3.0,MorumBIS,Sao Paulo,Wilton Pereira Sampaio,Dorival Júnior,Abel Ferreira,1.0,1.0,True
+12117011,2024,4,2024-04-28 18:30,100.0,2020.0,Fortaleza,1999.0,Red Bull Bragantino,1,1,1,1,0,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Vagner Mancini,1.0,1.0,True
+12117012,2024,4,2024-04-27 18:30,100.0,49202.0,Cuiabá,1977.0,Atlético Mineiro,0,3,0,1,0,2,2.0,Arena Pantanal,Cuiabá,Savio Pereira Sampaio,Eduardo Barros,Eduardo Dominguez,0.0,3.0,True
+12117013,2024,4,2024-04-28 18:30,100.0,1980.0,Juventude,1967.0,Athletico,1,1,1,0,0,1,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Alex Gomes Stefano,Mauricio Barbieri,Odair Hellmann,1.0,1.0,True
+12117016,2024,5,2024-05-05 16:00,100.0,1962.0,Vitória,1981.0,São Paulo,1,3,0,1,1,2,2.0,Estádio Manoel Barradas,Salvador,Ramon Abatti Abel,Jair Ventura,Dorival Júnior,0.0,3.0,True
+12117017,2024,5,2024-05-04 16:00,100.0,1961.0,Fluminense,1977.0,Atlético Mineiro,2,2,1,0,1,2,3.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Luis Zubeldia,Eduardo Dominguez,1.0,1.0,True
+12117018,2024,5,2024-05-05 18:30,100.0,1958.0,Botafogo,1955.0,Bahia,1,2,0,1,1,1,2.0,Estádio Nilton Santos,Rio de Janeiro,Rafael Rodrigo Klein,Franclim Carvalho,Rogério Ceni,0.0,3.0,True
+12117019,2024,5,2024-05-04 21:00,100.0,1957.0,Corinthians,2020.0,Fortaleza,0,0,0,0,0,0,3.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Thiago Carpini,1.0,1.0,True
+12117020,2024,5,2024-05-04 18:30,100.0,1999.0,Red Bull Bragantino,5981.0,Flamengo,1,1,1,0,0,1,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Paulo Cesar Zanovelli da Silva,Vagner Mancini,Leonardo Jardim,1.0,1.0,True
+12117021,2024,5,2024-05-05 16:00,100.0,1967.0,Athletico,1974.0,Vasco da Gama,1,0,1,0,0,0,1.0,Arena da Baixada,Curitiba,Anderson Daronco,Odair Hellmann,Renato Portaluppi,3.0,0.0,True
+12117022,2024,5,2024-05-05 18:30,100.0,49202.0,Cuiabá,1963.0,Palmeiras,0,2,0,1,0,1,2.0,Arena Pantanal,Cuiabá,Bruno Arleu de Araujo,Eduardo Barros,Abel Ferreira,0.0,3.0,True
+12117026,2024,6,2024-05-12 18:30,100.0,1955.0,Bahia,1999.0,Red Bull Bragantino,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Gustavo Ervino Bauermann,Rogério Ceni,Vagner Mancini,3.0,0.0,True
+12117027,2024,6,2024-05-11 16:00,100.0,5981.0,Flamengo,1957.0,Corinthians,2,0,1,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Leonardo Jardim,Fernando Diniz,3.0,0.0,True
+12117028,2024,6,2024-05-12 18:30,100.0,1974.0,Vasco da Gama,1962.0,Vitória,2,1,0,0,2,1,1.0,Estádio São Januário,Rio de Janeiro,Raphael Claus,Renato Portaluppi,Jair Ventura,3.0,0.0,True
+12117029,2024,6,2024-05-12 16:00,100.0,1963.0,Palmeiras,1967.0,Athletico,0,2,0,1,0,1,2.0,Nubank Parque,Sao Paulo,Braulio Da Silva Machado,Abel Ferreira,Odair Hellmann,0.0,3.0,True
+12117030,2024,6,2024-05-13 20:00,100.0,1981.0,São Paulo,1961.0,Fluminense,2,1,1,1,1,0,1.0,MorumBIS,Sao Paulo,Anderson Daronco,Dorival Júnior,Luis Zubeldia,3.0,0.0,True
+12117031,2024,6,2024-05-12 16:00,100.0,2020.0,Fortaleza,1958.0,Botafogo,1,1,1,1,0,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Wilton Pereira Sampaio,Thiago Carpini,Franclim Carvalho,1.0,1.0,True
+12117032,2024,6,2024-05-12 16:00,100.0,7314.0,Atlético Goianiense,1954.0,Cruzeiro,0,1,0,0,0,1,2.0,Estádio Antônio Accioly,Goiânia,Rodrigo Jose Pereira de Lima,Eduardo Souza,Artur Jorge,0.0,3.0,True
+12117054,2024,9,2024-06-16 18:30,100.0,5926.0,Grêmio,1958.0,Botafogo,1,2,1,1,0,1,2.0,Estádio Kleber Andrade,Cariacica,Paulo Cesar Zanovelli da Silva,Luís Castro,Franclim Carvalho,0.0,3.0,True
+12117055,2024,9,2024-06-17 20:30,100.0,1977.0,Atlético Mineiro,1963.0,Palmeiras,0,4,0,1,0,3,2.0,Arena MRV,Belo Horizonte,Rodrigo Jose Pereira de Lima,Eduardo Dominguez,Abel Ferreira,0.0,3.0,True
+12117056,2024,9,2024-06-16 16:00,100.0,1962.0,Vitória,1966.0,Internacional,2,1,1,0,1,1,1.0,Estádio Manoel Barradas,Salvador,Bruno Arleu de Araujo,Jair Ventura,Paulo Pezzolano,3.0,0.0,True
+12117057,2024,9,2024-06-15 21:00,100.0,1961.0,Fluminense,7314.0,Atlético Goianiense,1,2,1,0,0,2,2.0,Estádio do Maracanã,Rio de Janeiro,Gustavo Ervino Bauermann,Luis Zubeldia,Eduardo Souza,0.0,3.0,True
+12117058,2024,9,2024-06-16 18:30,100.0,1974.0,Vasco da Gama,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Estádio São Januário,Rio de Janeiro,Rafael Rodrigo Klein,Renato Portaluppi,Artur Jorge,1.0,1.0,True
+12117059,2024,9,2024-06-16 16:00,100.0,1957.0,Corinthians,1981.0,São Paulo,2,2,2,2,0,0,3.0,Neo Química Arena,Sao Paulo,Ramon Abatti Abel,Fernando Diniz,Dorival Júnior,1.0,1.0,True
+12117060,2024,9,2024-06-15 18:30,100.0,1999.0,Red Bull Bragantino,1980.0,Juventude,2,1,1,1,1,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Emerson Ricardo de Almeida Andrade,Vagner Mancini,Mauricio Barbieri,3.0,0.0,True
+12117061,2024,9,2024-06-16 16:00,100.0,1967.0,Athletico,5981.0,Flamengo,1,1,0,0,1,1,3.0,Arena da Baixada,Curitiba,Anderson Daronco,Odair Hellmann,Leonardo Jardim,1.0,1.0,True
+12117062,2024,9,2024-06-16 18:30,100.0,49202.0,Cuiabá,2020.0,Fortaleza,5,0,4,0,1,0,1.0,Arena Pantanal,Cuiabá,Jefferson Ferreira de Moraes,Eduardo Barros,Thiago Carpini,3.0,0.0,True
+12117063,2024,9,2024-06-16 18:30,100.0,1984.0,Criciúma,1955.0,Bahia,2,2,1,0,1,2,3.0,Estádio Heriberto Hülse,Criciúma,Flavio Rodrigues De Souza,Eduardo Baptista,Rogério Ceni,1.0,1.0,True
+12117064,2024,10,2024-06-19 21:30,100.0,1966.0,Internacional,1957.0,Corinthians,1,0,1,0,0,0,1.0,Orlando Scarpelli,Florianópolis,Wagner do Nascimento Magalhaes,Paulo Pezzolano,Fernando Diniz,3.0,0.0,True
+12117065,2024,10,2024-06-19 21:30,100.0,1954.0,Cruzeiro,1961.0,Fluminense,2,0,1,0,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Matheus Delgado Candançan,Artur Jorge,Luis Zubeldia,3.0,0.0,True
+12117066,2024,10,2024-06-20 18:30,100.0,1962.0,Vitória,1977.0,Atlético Mineiro,4,2,2,1,2,1,1.0,Estádio Manoel Barradas,Salvador,Marcelo de Lima Henrique,Jair Ventura,Eduardo Dominguez,3.0,0.0,True
+12117067,2024,10,2024-06-20 20:00,100.0,5981.0,Flamengo,1955.0,Bahia,2,1,1,1,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Braulio Da Silva Machado,Leonardo Jardim,Rogério Ceni,3.0,0.0,True
+12117068,2024,10,2024-06-19 19:00,100.0,1958.0,Botafogo,1967.0,Athletico,1,1,0,0,1,1,3.0,Estádio Nilton Santos,Rio de Janeiro,Ramon Abatti Abel,Franclim Carvalho,Odair Hellmann,1.0,1.0,True
+12117069,2024,10,2024-06-20 21:30,100.0,1963.0,Palmeiras,1999.0,Red Bull Bragantino,2,1,1,0,1,1,1.0,Nubank Parque,Sao Paulo,Anderson Daronco,Abel Ferreira,Vagner Mancini,3.0,0.0,True
+12117070,2024,10,2024-06-19 20:00,100.0,1981.0,São Paulo,49202.0,Cuiabá,0,1,0,0,0,1,2.0,MorumBIS,Sao Paulo,Gustavo Ervino Bauermann,Dorival Júnior,Eduardo Barros,0.0,3.0,True
+12117071,2024,10,2024-06-19 20:00,100.0,2020.0,Fortaleza,5926.0,Grêmio,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Joao Vitor Gobi,Thiago Carpini,Luís Castro,3.0,0.0,True
+12117072,2024,10,2024-06-19 19:00,100.0,7314.0,Atlético Goianiense,1984.0,Criciúma,1,2,1,0,0,2,2.0,Estádio Antônio Accioly,Goiânia,Alex Gomes Stefano,Eduardo Souza,Eduardo Baptista,0.0,3.0,True
+12117073,2024,10,2024-06-19 20:00,100.0,1980.0,Juventude,1974.0,Vasco da Gama,2,0,0,0,2,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Paulo Cesar Zanovelli da Silva,Mauricio Barbieri,Renato Portaluppi,3.0,0.0,True
+12117074,2024,11,2024-06-22 17:30,100.0,5926.0,Grêmio,1966.0,Internacional,0,1,0,0,0,1,2.0,Estádio Major Antônio Couto Pereira,Curitiba,Ramon Abatti Abel,Luís Castro,Paulo Pezzolano,0.0,3.0,True
+12117075,2024,11,2024-06-23 18:30,100.0,1977.0,Atlético Mineiro,2020.0,Fortaleza,1,1,0,1,1,0,3.0,Arena MRV,Belo Horizonte,Flavio Rodrigues De Souza,Eduardo Dominguez,Thiago Carpini,1.0,1.0,True
+12117076,2024,11,2024-06-23 16:00,100.0,1955.0,Bahia,1954.0,Cruzeiro,4,1,1,1,3,0,1.0,Arena Fonte Nova,Salvador,Paulo Belence Alves Dos Prazeres Filho,Rogério Ceni,Artur Jorge,3.0,0.0,True
+12117077,2024,11,2024-06-23 16:00,100.0,1961.0,Fluminense,5981.0,Flamengo,0,1,0,0,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Luis Zubeldia,Leonardo Jardim,0.0,3.0,True
+12117078,2024,11,2024-06-22 21:30,100.0,1974.0,Vasco da Gama,1981.0,São Paulo,4,1,2,1,2,0,1.0,Estádio São Januário,Rio de Janeiro,Caio Max Augusto Vieira,Renato Portaluppi,Dorival Júnior,3.0,0.0,True
+12117079,2024,11,2024-06-23 18:30,100.0,1963.0,Palmeiras,1980.0,Juventude,3,1,0,0,3,1,1.0,Nubank Parque,Sao Paulo,Davi de Oliveira Lacerda,Abel Ferreira,Mauricio Barbieri,3.0,0.0,True
+12117080,2024,11,2024-06-23 18:30,100.0,1999.0,Red Bull Bragantino,1962.0,Vitória,2,1,1,1,1,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Jonathan Benkenstein Pinheiro,Vagner Mancini,Jair Ventura,3.0,0.0,True
+12117081,2024,11,2024-06-23 16:00,100.0,1967.0,Athletico,1957.0,Corinthians,1,1,1,0,0,1,3.0,Arena da Baixada,Curitiba,Felipe Fernandes de Lima,Odair Hellmann,Fernando Diniz,1.0,1.0,True
+12117082,2024,11,2024-06-22 18:30,100.0,49202.0,Cuiabá,7314.0,Atlético Goianiense,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,Bruno Pereira Vasconcelos,Eduardo Barros,Eduardo Souza,1.0,1.0,True
+12117083,2024,11,2024-06-22 16:00,100.0,1984.0,Criciúma,1958.0,Botafogo,2,1,1,0,1,1,1.0,Estádio Heriberto Hülse,Criciúma,Luiz Flávio de Oliveira,Eduardo Baptista,Franclim Carvalho,3.0,0.0,True
+12117084,2024,12,2024-06-26 21:30,100.0,1966.0,Internacional,1977.0,Atlético Mineiro,1,2,0,0,1,2,2.0,Estádio Beira-Rio,Porto Alegre,Luiz Flávio de Oliveira,Paulo Pezzolano,Eduardo Dominguez,0.0,3.0,True
+12117085,2024,12,2024-06-26 19:00,100.0,1954.0,Cruzeiro,1967.0,Athletico,2,0,1,0,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Davi de Oliveira Lacerda,Artur Jorge,Odair Hellmann,3.0,0.0,True
+12117086,2024,12,2024-06-26 21:30,100.0,1955.0,Bahia,1974.0,Vasco da Gama,2,1,1,1,1,0,1.0,Arena Fonte Nova,Salvador,Joao Vitor Gobi,Rogério Ceni,Renato Portaluppi,3.0,0.0,True
+12117087,2024,12,2024-06-27 19:00,100.0,1961.0,Fluminense,1962.0,Vitória,0,1,0,0,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Flavio Rodrigues De Souza,Luis Zubeldia,Jair Ventura,0.0,3.0,True
+12117088,2024,12,2024-06-26 19:00,100.0,1958.0,Botafogo,1999.0,Red Bull Bragantino,2,1,1,1,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Gustavo Ervino Bauermann,Franclim Carvalho,Vagner Mancini,3.0,0.0,True
+12117089,2024,12,2024-06-26 20:00,100.0,1957.0,Corinthians,49202.0,Cuiabá,1,1,0,1,1,0,3.0,Neo Química Arena,Sao Paulo,Fabio Augusto Santos Sa Junior,Fernando Diniz,Eduardo Barros,1.0,1.0,True
+12117090,2024,12,2024-06-27 20:00,100.0,1981.0,São Paulo,1984.0,Criciúma,2,1,2,0,0,1,1.0,MorumBIS,Sao Paulo,Bruno Pereira Vasconcelos,Dorival Júnior,Eduardo Baptista,3.0,0.0,True
+12117091,2024,12,2024-06-26 21:30,100.0,2020.0,Fortaleza,1963.0,Palmeiras,3,0,1,0,2,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Alex Gomes Stefano,Thiago Carpini,Abel Ferreira,3.0,0.0,True
+12117092,2024,12,2024-06-26 20:00,100.0,7314.0,Atlético Goianiense,5926.0,Grêmio,1,1,0,0,1,1,3.0,Estádio Antônio Accioly,Goiânia,Bruno Arleu de Araujo,Eduardo Souza,Luís Castro,1.0,1.0,True
+12117093,2024,12,2024-06-26 20:00,100.0,1980.0,Juventude,5981.0,Flamengo,2,1,1,1,1,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Matheus Delgado Candançan,Mauricio Barbieri,Leonardo Jardim,3.0,0.0,True
+12117094,2024,13,2024-06-30 16:00,100.0,5926.0,Grêmio,1961.0,Fluminense,1,0,0,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Paulo Cesar Zanovelli da Silva,Luís Castro,Luis Zubeldia,3.0,0.0,True
+12117095,2024,13,2024-06-30 11:00,100.0,1977.0,Atlético Mineiro,7314.0,Atlético Goianiense,1,1,1,1,0,0,3.0,Arena MRV,Belo Horizonte,Jonathan Benkenstein Pinheiro,Eduardo Dominguez,Eduardo Souza,1.0,1.0,True
+12117096,2024,13,2024-06-30 18:30,100.0,1962.0,Vitória,1967.0,Athletico,0,1,0,0,0,1,2.0,Estádio Manoel Barradas,Salvador,Bruno Arleu de Araujo,Jair Ventura,Odair Hellmann,0.0,3.0,True
+12117097,2024,13,2024-06-30 18:30,100.0,5981.0,Flamengo,1954.0,Cruzeiro,2,1,1,1,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Braulio Da Silva Machado,Leonardo Jardim,Artur Jorge,3.0,0.0,True
+12117098,2024,13,2024-06-29 18:30,100.0,1974.0,Vasco da Gama,1958.0,Botafogo,1,1,0,0,1,1,3.0,Estádio São Januário,Rio de Janeiro,Ramon Abatti Abel,Renato Portaluppi,Franclim Carvalho,1.0,1.0,True
+12117099,2024,13,2024-07-01 20:00,100.0,1963.0,Palmeiras,1957.0,Corinthians,2,0,0,0,2,0,1.0,Nubank Parque,Sao Paulo,Anderson Daronco,Abel Ferreira,Fernando Diniz,3.0,0.0,True
+12117100,2024,13,2024-06-30 16:00,100.0,1981.0,São Paulo,1955.0,Bahia,3,1,2,0,1,1,1.0,MorumBIS,Sao Paulo,Marcelo de Lima Henrique,Dorival Júnior,Rogério Ceni,3.0,0.0,True
+12117101,2024,13,2024-06-30 16:00,100.0,2020.0,Fortaleza,1980.0,Juventude,2,1,2,0,0,1,1.0,Estádio Governador Plácido Castelo,Fortaleza,Rodrigo Jose Pereira de Lima,Thiago Carpini,Mauricio Barbieri,3.0,0.0,True
+12117102,2024,13,2024-06-29 18:30,100.0,49202.0,Cuiabá,1999.0,Red Bull Bragantino,1,1,1,1,0,0,3.0,Arena Pantanal,Cuiabá,Felipe Fernandes de Lima,Eduardo Barros,Vagner Mancini,1.0,1.0,True
+12117103,2024,13,2024-06-30 18:30,100.0,1984.0,Criciúma,1966.0,Internacional,1,1,0,1,1,0,3.0,Estádio Heriberto Hülse,Criciúma,Wagner do Nascimento Magalhaes,Eduardo Baptista,Paulo Pezzolano,1.0,1.0,True
+12117104,2024,14,2024-07-04 19:00,100.0,5926.0,Grêmio,1963.0,Palmeiras,2,2,1,0,1,2,3.0,Arena do Grêmio,Porto Alegre,Marcelo de Lima Henrique,Luís Castro,Abel Ferreira,1.0,1.0,True
+12117105,2024,14,2024-07-03 21:30,100.0,1977.0,Atlético Mineiro,5981.0,Flamengo,2,4,0,2,2,2,2.0,Arena MRV,Belo Horizonte,Ramon Abatti Abel,Eduardo Dominguez,Leonardo Jardim,0.0,3.0,True
+12117106,2024,14,2024-07-04 19:00,100.0,1955.0,Bahia,1980.0,Juventude,2,0,0,0,2,0,1.0,Arena Fonte Nova,Salvador,Wagner do Nascimento Magalhaes,Rogério Ceni,Mauricio Barbieri,3.0,0.0,True
+12117107,2024,14,2024-07-04 20:00,100.0,1961.0,Fluminense,1966.0,Internacional,1,1,1,1,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Felipe Fernandes de Lima,Luis Zubeldia,Paulo Pezzolano,1.0,1.0,True
+12117108,2024,14,2024-07-03 20:00,100.0,1974.0,Vasco da Gama,2020.0,Fortaleza,2,0,1,0,1,0,1.0,Estádio São Januário,Rio de Janeiro,Matheus Delgado Candançan,Renato Portaluppi,Thiago Carpini,3.0,0.0,True
+12117109,2024,14,2024-07-04 20:00,100.0,1957.0,Corinthians,1962.0,Vitória,3,2,2,1,1,1,1.0,Neo Química Arena,Sao Paulo,Gustavo Ervino Bauermann,Fernando Diniz,Jair Ventura,3.0,0.0,True
+12117110,2024,14,2024-07-03 21:30,100.0,1999.0,Red Bull Bragantino,7314.0,Atlético Goianiense,3,1,3,1,0,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Davi de Oliveira Lacerda,Vagner Mancini,Eduardo Souza,3.0,0.0,True
+12117111,2024,14,2024-07-03 21:30,100.0,1967.0,Athletico,1981.0,São Paulo,1,2,1,1,0,1,2.0,Arena da Baixada,Curitiba,Alex Gomes Stefano,Odair Hellmann,Dorival Júnior,0.0,3.0,True
+12117112,2024,14,2024-07-03 19:00,100.0,49202.0,Cuiabá,1958.0,Botafogo,1,2,1,1,0,1,2.0,Arena Pantanal,Cuiabá,Paulo Cesar Zanovelli da Silva,Eduardo Barros,Franclim Carvalho,0.0,3.0,True
+12117113,2024,14,2024-07-03 20:00,100.0,1984.0,Criciúma,1954.0,Cruzeiro,1,0,0,0,1,0,1.0,Estádio Heriberto Hülse,Criciúma,Joao Vitor Gobi,Eduardo Baptista,Artur Jorge,3.0,0.0,True
+12117114,2024,15,2024-07-07 18:00,100.0,1966.0,Internacional,1974.0,Vasco da Gama,1,2,0,0,1,2,2.0,Estádio Beira-Rio,Porto Alegre,Gustavo Ervino Bauermann,Paulo Pezzolano,Renato Portaluppi,0.0,3.0,True
+12117115,2024,15,2024-07-07 16:00,100.0,1954.0,Cruzeiro,1957.0,Corinthians,3,0,2,0,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Alex Gomes Stefano,Artur Jorge,Fernando Diniz,3.0,0.0,True
+12117116,2024,15,2024-07-07 18:30,100.0,1962.0,Vitória,1984.0,Criciúma,2,1,2,1,0,0,1.0,Estádio Manoel Barradas,Salvador,Bruno Mota Correia,Jair Ventura,Eduardo Baptista,3.0,0.0,True
+12117117,2024,15,2024-07-06 20:00,100.0,5981.0,Flamengo,49202.0,Cuiabá,1,1,0,1,1,0,3.0,Estádio do Maracanã,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Leonardo Jardim,Eduardo Barros,1.0,1.0,True
+12117118,2024,15,2024-07-07 20:30,100.0,1958.0,Botafogo,1977.0,Atlético Mineiro,3,0,1,0,2,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Rafael Rodrigo Klein,Franclim Carvalho,Eduardo Dominguez,3.0,0.0,True
+12117119,2024,15,2024-07-07 18:30,100.0,1963.0,Palmeiras,1955.0,Bahia,2,0,1,0,1,0,1.0,Nubank Parque,Sao Paulo,Jonathan Benkenstein Pinheiro,Abel Ferreira,Rogério Ceni,3.0,0.0,True
+12117120,2024,15,2024-07-06 20:00,100.0,1981.0,São Paulo,1999.0,Red Bull Bragantino,2,0,0,0,2,0,1.0,MorumBIS,Sao Paulo,Bruno Pereira Vasconcelos,Dorival Júnior,Vagner Mancini,3.0,0.0,True
+12117121,2024,15,2024-07-07 16:00,100.0,2020.0,Fortaleza,1961.0,Fluminense,1,0,0,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Luis Zubeldia,3.0,0.0,True
+12117122,2024,15,2024-07-07 18:30,100.0,7314.0,Atlético Goianiense,1967.0,Athletico,1,2,0,0,1,2,2.0,Estádio Antônio Accioly,Goiânia,Joao Vitor Gobi,Eduardo Souza,Odair Hellmann,0.0,3.0,True
+12117123,2024,15,2024-07-07 16:00,100.0,1980.0,Juventude,5926.0,Grêmio,3,0,2,0,1,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Matheus Delgado Candançan,Mauricio Barbieri,Luís Castro,3.0,0.0,True
+12117124,2024,16,2024-07-10 18:30,100.0,5926.0,Grêmio,1954.0,Cruzeiro,0,2,0,2,0,0,2.0,Estádio Centenário,Caxias do Sul,Bruno Arleu de Araujo,Luís Castro,Artur Jorge,0.0,3.0,True
+12117125,2024,16,2024-07-11 21:30,100.0,1977.0,Atlético Mineiro,1981.0,São Paulo,2,1,2,1,0,0,1.0,Arena MRV,Belo Horizonte,Marcelo de Lima Henrique,Eduardo Dominguez,Dorival Júnior,3.0,0.0,True
+12117126,2024,16,2024-07-11 21:30,100.0,1962.0,Vitória,1958.0,Botafogo,0,1,0,0,0,1,2.0,Estádio Manoel Barradas,Salvador,Ramon Abatti Abel,Jair Ventura,Franclim Carvalho,0.0,3.0,True
+12117127,2024,16,2024-07-11 20:00,100.0,5981.0,Flamengo,2020.0,Fortaleza,1,2,1,1,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Edina Alves Batista,Leonardo Jardim,Thiago Carpini,0.0,3.0,True
+12117128,2024,16,2024-07-10 19:00,100.0,1974.0,Vasco da Gama,1957.0,Corinthians,2,0,0,0,2,0,1.0,Estádio São Januário,Rio de Janeiro,Rafael Rodrigo Klein,Renato Portaluppi,Fernando Diniz,3.0,0.0,True
+12117129,2024,16,2024-07-11 19:30,100.0,1963.0,Palmeiras,7314.0,Atlético Goianiense,3,1,1,1,2,0,1.0,Nubank Parque,Sao Paulo,Wagner do Nascimento Magalhaes,Abel Ferreira,Eduardo Souza,3.0,0.0,True
+12117130,2024,16,2024-07-09 21:30,60.0,1999.0,Red Bull Bragantino,1966.0,Internacional,0,0,0,0,0,0,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,,Vagner Mancini,Paulo Pezzolano,1.0,1.0,False
+12117131,2024,16,2024-07-10 19:00,100.0,1967.0,Athletico,1955.0,Bahia,1,3,0,2,1,1,2.0,Arena da Baixada,Curitiba,Felipe Fernandes de Lima,Odair Hellmann,Rogério Ceni,0.0,3.0,True
+12117132,2024,16,2024-07-10 19:00,60.0,49202.0,Cuiabá,1980.0,Juventude,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,,Eduardo Barros,Mauricio Barbieri,1.0,1.0,False
+12117133,2024,16,2024-07-11 20:00,100.0,1984.0,Criciúma,1961.0,Fluminense,1,1,0,0,1,1,3.0,Estádio Heriberto Hülse,Criciúma,Anderson Daronco,Eduardo Baptista,Luis Zubeldia,1.0,1.0,True
+12117134,2024,17,2024-07-17 15:00,60.0,1966.0,Internacional,5981.0,Flamengo,0,0,0,0,0,0,3.0,Estádio Beira-Rio,Porto Alegre,,Paulo Pezzolano,Leonardo Jardim,1.0,1.0,False
+12117135,2024,17,2024-07-13 16:00,100.0,1954.0,Cruzeiro,1999.0,Red Bull Bragantino,2,1,1,0,1,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Savio Pereira Sampaio,Artur Jorge,Vagner Mancini,3.0,0.0,True
+12117136,2024,17,2024-07-13 16:00,100.0,1955.0,Bahia,49202.0,Cuiabá,1,2,0,1,1,1,2.0,Arena Fonte Nova,Salvador,Davi de Oliveira Lacerda,Rogério Ceni,Eduardo Barros,0.0,3.0,True
+12117137,2024,17,2024-07-17 15:00,60.0,1961.0,Fluminense,1967.0,Athletico,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,,Luis Zubeldia,Odair Hellmann,1.0,1.0,False
+12117138,2024,17,2024-07-17 21:30,100.0,1958.0,Botafogo,1963.0,Palmeiras,1,0,0,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Anderson Daronco,Franclim Carvalho,Abel Ferreira,3.0,0.0,True
+12117139,2024,17,2024-07-16 21:00,100.0,1957.0,Corinthians,1984.0,Criciúma,2,1,0,1,2,0,1.0,Neo Química Arena,Sao Paulo,Jonathan Benkenstein Pinheiro,Fernando Diniz,Eduardo Baptista,3.0,0.0,True
+12117140,2024,17,2024-07-17 20:00,100.0,1981.0,São Paulo,5926.0,Grêmio,1,0,1,0,0,0,1.0,MorumBIS,Sao Paulo,Gustavo Ervino Bauermann,Dorival Júnior,Luís Castro,3.0,0.0,True
+12117141,2024,17,2024-07-17 21:30,100.0,2020.0,Fortaleza,1962.0,Vitória,3,1,2,0,1,1,1.0,Estádio Governador Plácido Castelo,Fortaleza,Rafael Rodrigo Klein,Thiago Carpini,Jair Ventura,3.0,0.0,True
+12117142,2024,17,2024-07-17 19:00,100.0,7314.0,Atlético Goianiense,1974.0,Vasco da Gama,0,1,0,0,0,1,2.0,Estádio Antônio Accioly,Goiânia,Matheus Delgado Candançan,Eduardo Souza,Renato Portaluppi,0.0,3.0,True
+12117143,2024,17,2024-07-16 19:00,100.0,1980.0,Juventude,1977.0,Atlético Mineiro,1,1,1,1,0,0,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Alex Gomes Stefano,Mauricio Barbieri,Eduardo Dominguez,1.0,1.0,True
+12117144,2024,18,2024-07-21 11:00,100.0,5926.0,Grêmio,1962.0,Vitória,2,0,0,0,2,0,1.0,Estádio Centenário,Caxias do Sul,Savio Pereira Sampaio,Luís Castro,Jair Ventura,3.0,0.0,True
+12117145,2024,18,2024-07-21 16:00,100.0,1977.0,Atlético Mineiro,1974.0,Vasco da Gama,2,0,2,0,0,0,1.0,Arena MRV,Belo Horizonte,Raphael Claus,Eduardo Dominguez,Renato Portaluppi,3.0,0.0,True
+12117146,2024,18,2024-07-21 16:00,100.0,1955.0,Bahia,1957.0,Corinthians,0,1,0,1,0,0,2.0,Arena Fonte Nova,Salvador,Felipe Fernandes de Lima,Rogério Ceni,Fernando Diniz,0.0,3.0,True
+12117147,2024,18,2024-07-20 16:00,100.0,5981.0,Flamengo,1984.0,Criciúma,2,1,0,1,2,0,1.0,Arena BRB Mané Garrincha,Brasilia,Maguielson Lima Barbosa,Leonardo Jardim,Eduardo Baptista,3.0,0.0,True
+12117148,2024,18,2024-07-20 18:30,100.0,1958.0,Botafogo,1966.0,Internacional,1,0,1,0,0,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Flavio Rodrigues De Souza,Franclim Carvalho,Paulo Pezzolano,3.0,0.0,True
+12117149,2024,18,2024-07-20 21:00,100.0,1963.0,Palmeiras,1954.0,Cruzeiro,2,0,1,0,1,0,1.0,Nubank Parque,Sao Paulo,Davi de Oliveira Lacerda,Abel Ferreira,Artur Jorge,3.0,0.0,True
+12117150,2024,18,2024-07-21 18:30,100.0,1999.0,Red Bull Bragantino,1967.0,Athletico,1,0,1,0,0,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Denis da Silva Ribeiro Serafim,Vagner Mancini,Odair Hellmann,3.0,0.0,True
+12117151,2024,18,2024-07-21 18:30,100.0,2020.0,Fortaleza,7314.0,Atlético Goianiense,3,1,1,1,2,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Lucas Paulo Torezin,Thiago Carpini,Eduardo Souza,3.0,0.0,True
+12117152,2024,18,2024-07-21 20:00,100.0,49202.0,Cuiabá,1961.0,Fluminense,0,1,0,0,0,1,2.0,Arena Pantanal,Cuiabá,Anderson Daronco,Eduardo Barros,Luis Zubeldia,0.0,3.0,True
+12117153,2024,18,2024-07-21 18:30,100.0,1980.0,Juventude,1981.0,São Paulo,0,0,0,0,0,0,3.0,Arena BRB Mané Garrincha,Brasilia,Wilton Pereira Sampaio,Mauricio Barbieri,Dorival Júnior,1.0,1.0,True
+12117154,2024,19,2024-07-24 15:00,60.0,1966.0,Internacional,2020.0,Fortaleza,0,0,0,0,0,0,3.0,Estádio Beira-Rio,Porto Alegre,,Paulo Pezzolano,Thiago Carpini,1.0,1.0,False
+12117155,2024,19,2024-07-24 19:00,100.0,1954.0,Cruzeiro,1980.0,Juventude,2,0,1,0,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Maguielson Lima Barbosa,Artur Jorge,Mauricio Barbieri,3.0,0.0,True
+12117156,2024,19,2024-07-24 20:00,100.0,1962.0,Vitória,5981.0,Flamengo,1,2,0,1,1,1,2.0,Estádio Manoel Barradas,Salvador,Raphael Claus,Jair Ventura,Leonardo Jardim,0.0,3.0,True
+12117157,2024,19,2024-07-24 21:30,100.0,1961.0,Fluminense,1963.0,Palmeiras,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Luis Zubeldia,Abel Ferreira,3.0,0.0,True
+12117158,2024,19,2024-07-24 15:00,60.0,1974.0,Vasco da Gama,49202.0,Cuiabá,0,0,0,0,0,0,3.0,Estádio São Januário,Rio de Janeiro,,Renato Portaluppi,Eduardo Barros,1.0,1.0,False
+12117159,2024,19,2024-07-25 20:00,100.0,1957.0,Corinthians,5926.0,Grêmio,2,2,1,1,1,1,3.0,Neo Química Arena,Sao Paulo,Alex Gomes Stefano,Fernando Diniz,Luís Castro,1.0,1.0,True
+12117160,2024,19,2024-07-24 19:30,100.0,1981.0,São Paulo,1958.0,Botafogo,2,2,1,2,1,0,3.0,MorumBIS,Sao Paulo,Felipe Fernandes de Lima,Dorival Júnior,Franclim Carvalho,1.0,1.0,True
+12117162,2024,19,2024-07-24 21:30,100.0,7314.0,Atlético Goianiense,1955.0,Bahia,1,1,0,0,1,1,3.0,Estádio Antônio Accioly,Goiânia,Luciano da Silva Miranda Filho,Eduardo Souza,Rogério Ceni,1.0,1.0,True
+12117163,2024,19,2024-07-24 15:00,60.0,1984.0,Criciúma,1999.0,Red Bull Bragantino,0,0,0,0,0,0,3.0,Estádio Heriberto Hülse,Criciúma,,Eduardo Baptista,Vagner Mancini,1.0,1.0,False
+12117164,2024,20,2024-07-28 19:00,100.0,5926.0,Grêmio,1974.0,Vasco da Gama,1,0,0,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Paulo Cesar Zanovelli da Silva,Luís Castro,Renato Portaluppi,3.0,0.0,True
+12117165,2024,20,2024-07-28 19:00,100.0,1977.0,Atlético Mineiro,1957.0,Corinthians,2,1,1,1,1,0,1.0,Arena MRV,Belo Horizonte,Bruno Arleu de Araujo,Eduardo Dominguez,Fernando Diniz,3.0,0.0,True
+12117166,2024,20,2024-07-27 20:00,100.0,1955.0,Bahia,1966.0,Internacional,1,1,1,0,0,1,3.0,Arena Fonte Nova,Salvador,Matheus Delgado Candançan,Rogério Ceni,Paulo Pezzolano,1.0,1.0,True
+12117167,2024,20,2024-07-28 16:00,100.0,5981.0,Flamengo,7314.0,Atlético Goianiense,2,0,1,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Gustavo Ervino Bauermann,Leonardo Jardim,Eduardo Souza,3.0,0.0,True
+12117168,2024,20,2024-07-27 21:30,100.0,1958.0,Botafogo,1954.0,Cruzeiro,0,3,0,2,0,1,2.0,Estádio Nilton Santos,Rio de Janeiro,Wilton Pereira Sampaio,Franclim Carvalho,Artur Jorge,0.0,3.0,True
+12117169,2024,20,2024-07-27 19:00,100.0,1963.0,Palmeiras,1962.0,Vitória,0,2,0,0,0,2,2.0,Nubank Parque,Sao Paulo,Caio Max Augusto Vieira,Abel Ferreira,Jair Ventura,0.0,3.0,True
+12117170,2024,20,2024-07-28 11:00,100.0,1999.0,Red Bull Bragantino,1961.0,Fluminense,0,1,0,1,0,0,2.0,Estádio Nabi Abi Chedid,Bragança Paulista,Lucas Paulo Torezin,Vagner Mancini,Luis Zubeldia,0.0,3.0,True
+12117171,2024,20,2024-07-27 21:30,100.0,2020.0,Fortaleza,1981.0,São Paulo,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Dorival Júnior,3.0,0.0,True
+12117172,2024,20,2024-07-28 19:00,100.0,49202.0,Cuiabá,1967.0,Athletico,1,2,0,1,1,1,2.0,Arena Pantanal,Cuiabá,Jefferson Ferreira de Moraes,Eduardo Barros,Odair Hellmann,0.0,3.0,True
+12117173,2024,20,2024-07-27 19:00,100.0,1980.0,Juventude,1984.0,Criciúma,1,2,0,0,1,2,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Joao Vitor Gobi,Mauricio Barbieri,Eduardo Baptista,0.0,3.0,True
+12117174,2024,21,2024-08-04 17:00,100.0,1966.0,Internacional,1963.0,Palmeiras,1,1,1,0,0,1,3.0,Estádio Beira-Rio,Porto Alegre,Wagner do Nascimento Magalhaes,Paulo Pezzolano,Abel Ferreira,1.0,1.0,True
+12117175,2024,21,2024-08-05 21:00,100.0,1954.0,Cruzeiro,2020.0,Fortaleza,1,2,1,2,0,0,2.0,Governador Magalhães Pinto,Belo Horizonte,Alex Gomes Stefano,Artur Jorge,Thiago Carpini,0.0,3.0,True
+12117176,2024,21,2024-08-03 16:00,100.0,1962.0,Vitória,49202.0,Cuiabá,1,0,0,0,1,0,1.0,Estádio Manoel Barradas,Salvador,,Jair Ventura,Eduardo Barros,3.0,0.0,True
+12117177,2024,21,2024-08-04 16:00,100.0,1961.0,Fluminense,1955.0,Bahia,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Luis Zubeldia,Rogério Ceni,3.0,0.0,True
+12117178,2024,21,2024-08-03 19:00,100.0,1974.0,Vasco da Gama,1999.0,Red Bull Bragantino,2,2,0,1,2,1,3.0,Estádio São Januário,Rio de Janeiro,Gustavo Ervino Bauermann,Renato Portaluppi,Vagner Mancini,1.0,1.0,True
+12117179,2024,21,2024-08-04 16:00,100.0,1957.0,Corinthians,1980.0,Juventude,1,1,0,1,1,0,3.0,Neo Química Arena,Sao Paulo,Lucas Paulo Torezin,Fernando Diniz,Mauricio Barbieri,1.0,1.0,True
+12117180,2024,21,2024-08-03 21:30,100.0,1981.0,São Paulo,5981.0,Flamengo,1,0,0,0,1,0,1.0,MorumBIS,Sao Paulo,Rafael Rodrigo Klein,Dorival Júnior,Leonardo Jardim,3.0,0.0,True
+12117181,2024,21,2024-08-04 16:00,100.0,1967.0,Athletico,5926.0,Grêmio,0,2,0,2,0,0,2.0,Arena da Baixada,Curitiba,Matheus Delgado Candançan,Odair Hellmann,Luís Castro,0.0,3.0,True
+12117182,2024,21,2024-08-03 20:00,100.0,7314.0,Atlético Goianiense,1958.0,Botafogo,1,4,1,1,0,3,2.0,Estádio Antônio Accioly,Goiânia,Felipe Fernandes de Lima,Eduardo Souza,Franclim Carvalho,0.0,3.0,True
+12117183,2024,21,2024-08-03 20:00,100.0,1984.0,Criciúma,1977.0,Atlético Mineiro,2,1,0,0,2,1,1.0,Estádio Heriberto Hülse,Criciúma,Jonathan Benkenstein Pinheiro,Eduardo Baptista,Eduardo Dominguez,3.0,0.0,True
+12117184,2024,22,2024-08-11 19:00,100.0,1966.0,Internacional,1967.0,Athletico,2,2,1,1,1,1,3.0,Estádio Beira-Rio,Porto Alegre,Paulo Cesar Zanovelli da Silva,Paulo Pezzolano,Odair Hellmann,1.0,1.0,True
+12117185,2024,22,2024-08-10 21:30,100.0,1954.0,Cruzeiro,1977.0,Atlético Mineiro,0,0,0,0,0,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Raphael Claus,Artur Jorge,Eduardo Dominguez,1.0,1.0,True
+12117186,2024,22,2024-08-11 16:00,100.0,1955.0,Bahia,1962.0,Vitória,2,0,1,0,1,0,1.0,Arena Fonte Nova,Salvador,Braulio Da Silva Machado,Rogério Ceni,Jair Ventura,3.0,0.0,True
+12117187,2024,22,2024-08-11 16:00,100.0,5981.0,Flamengo,1963.0,Palmeiras,1,1,0,0,1,1,3.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Leonardo Jardim,Abel Ferreira,1.0,1.0,True
+12117188,2024,22,2024-08-10 21:30,100.0,1974.0,Vasco da Gama,1961.0,Fluminense,2,0,1,0,1,0,1.0,Estádio São Januário,Rio de Janeiro,Anderson Daronco,Renato Portaluppi,Luis Zubeldia,3.0,0.0,True
+12117189,2024,22,2024-08-10 21:30,100.0,1957.0,Corinthians,1999.0,Red Bull Bragantino,1,1,0,1,1,0,3.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Vagner Mancini,1.0,1.0,True
+12117190,2024,22,2024-08-11 16:00,100.0,1981.0,São Paulo,7314.0,Atlético Goianiense,1,0,1,0,0,0,1.0,MorumBIS,Sao Paulo,Davi de Oliveira Lacerda,Dorival Júnior,Eduardo Souza,3.0,0.0,True
+12117191,2024,22,2024-08-10 16:00,100.0,2020.0,Fortaleza,1984.0,Criciúma,1,0,0,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Kleber Ariel Goncalves da Silva,Thiago Carpini,Eduardo Baptista,3.0,0.0,True
+12117192,2024,22,2024-08-10 19:00,100.0,49202.0,Cuiabá,5926.0,Grêmio,1,3,0,1,1,2,2.0,Arena Pantanal,Cuiabá,Bruno Pereira Vasconcelos,Eduardo Barros,Luís Castro,0.0,3.0,True
+12117193,2024,22,2024-08-11 11:00,100.0,1980.0,Juventude,1958.0,Botafogo,3,2,2,0,1,2,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Flavio Rodrigues De Souza,Mauricio Barbieri,Franclim Carvalho,3.0,0.0,True
+12117194,2024,23,2024-08-17 16:00,100.0,5926.0,Grêmio,1955.0,Bahia,0,2,0,1,0,1,2.0,Arena do Grêmio,Porto Alegre,Matheus Delgado Candançan,Luís Castro,Rogério Ceni,0.0,3.0,True
+12117195,2024,23,2024-08-17 16:00,100.0,1977.0,Atlético Mineiro,49202.0,Cuiabá,1,1,1,1,0,0,3.0,Arena MRV,Belo Horizonte,Davi de Oliveira Lacerda,Eduardo Dominguez,Eduardo Barros,1.0,1.0,True
+12117196,2024,23,2024-08-19 20:00,100.0,1962.0,Vitória,1954.0,Cruzeiro,2,2,2,0,0,2,3.0,Estádio Manoel Barradas,Salvador,Vinicius Melo de Lima,Jair Ventura,Artur Jorge,1.0,1.0,True
+12117197,2024,23,2024-08-17 21:00,100.0,1961.0,Fluminense,1957.0,Corinthians,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Braulio Da Silva Machado,Luis Zubeldia,Fernando Diniz,1.0,1.0,True
+12117198,2024,23,2024-08-18 18:30,100.0,1958.0,Botafogo,5981.0,Flamengo,4,1,1,1,3,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Arleu de Araujo,Franclim Carvalho,Leonardo Jardim,3.0,0.0,True
+12117199,2024,23,2024-08-18 16:00,100.0,1963.0,Palmeiras,1981.0,São Paulo,2,1,0,0,2,1,1.0,Nubank Parque,Sao Paulo,Raphael Claus,Abel Ferreira,Dorival Júnior,3.0,0.0,True
+12117200,2024,23,2024-08-17 18:30,100.0,1999.0,Red Bull Bragantino,2020.0,Fortaleza,1,2,1,1,0,1,2.0,Estádio Nabi Abi Chedid,Bragança Paulista,Alex Gomes Stefano,Vagner Mancini,Thiago Carpini,0.0,3.0,True
+12117201,2024,23,2024-08-18 18:30,100.0,1967.0,Athletico,1980.0,Juventude,1,2,1,1,0,1,2.0,Arena da Baixada,Curitiba,Joao Vitor Gobi,Odair Hellmann,Mauricio Barbieri,0.0,3.0,True
+12117202,2024,23,2024-08-18 16:00,100.0,7314.0,Atlético Goianiense,1966.0,Internacional,1,0,0,0,1,0,1.0,Estádio Antônio Accioly,Goiânia,Flavio Rodrigues De Souza,Eduardo Souza,Paulo Pezzolano,3.0,0.0,True
+12117203,2024,23,2024-08-18 16:00,100.0,1984.0,Criciúma,1974.0,Vasco da Gama,2,2,1,2,1,0,3.0,Estádio Heriberto Hülse,Criciúma,Paulo Cesar Zanovelli da Silva,Eduardo Baptista,Renato Portaluppi,1.0,1.0,True
+12117204,2024,24,2024-08-25 19:00,100.0,1966.0,Internacional,1954.0,Cruzeiro,1,0,0,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Matheus Delgado Candançan,Paulo Pezzolano,Artur Jorge,3.0,0.0,True
+12117205,2024,24,2024-08-24 21:00,100.0,1977.0,Atlético Mineiro,1961.0,Fluminense,0,2,0,1,0,1,2.0,Arena MRV,Belo Horizonte,Flavio Rodrigues De Souza,Eduardo Dominguez,Luis Zubeldia,0.0,3.0,True
+12117206,2024,24,2024-08-25 16:00,100.0,1955.0,Bahia,1958.0,Botafogo,0,0,0,0,0,0,3.0,Arena Fonte Nova,Salvador,Ramon Abatti Abel,Rogério Ceni,Franclim Carvalho,1.0,1.0,True
+12117207,2024,24,2024-08-25 20:00,100.0,5981.0,Flamengo,1999.0,Red Bull Bragantino,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Gustavo Ervino Bauermann,Leonardo Jardim,Vagner Mancini,3.0,0.0,True
+12117208,2024,24,2024-08-26 21:00,100.0,1974.0,Vasco da Gama,1967.0,Athletico,2,1,0,1,2,0,1.0,Estádio São Januário,Rio de Janeiro,Jonathan Benkenstein Pinheiro,Renato Portaluppi,Odair Hellmann,3.0,0.0,True
+12117209,2024,24,2024-08-24 18:30,100.0,1963.0,Palmeiras,49202.0,Cuiabá,5,0,4,0,1,0,1.0,Estádio Brinco de Ouro da Princesa,Campinas,Alex Gomes Stefano,Abel Ferreira,Eduardo Barros,3.0,0.0,True
+12117210,2024,24,2024-08-25 18:30,100.0,1981.0,São Paulo,1962.0,Vitória,2,1,2,0,0,1,1.0,MorumBIS,Sao Paulo,Wilton Pereira Sampaio,Dorival Júnior,Jair Ventura,3.0,0.0,True
+12117211,2024,24,2024-08-25 16:00,100.0,2020.0,Fortaleza,1957.0,Corinthians,1,0,0,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Felipe Fernandes de Lima,Thiago Carpini,Fernando Diniz,3.0,0.0,True
+12117212,2024,24,2024-08-24 16:00,100.0,7314.0,Atlético Goianiense,1980.0,Juventude,2,1,0,0,2,1,1.0,Estádio Antônio Accioly,Goiânia,Bruno Pereira Vasconcelos,Eduardo Souza,Mauricio Barbieri,3.0,0.0,True
+12117213,2024,24,2024-08-25 16:00,100.0,1984.0,Criciúma,5926.0,Grêmio,0,1,0,0,0,1,2.0,Estádio Heriberto Hülse,Criciúma,Lucas Paulo Torezin,Eduardo Baptista,Luís Castro,0.0,3.0,True
+12117214,2024,25,2024-09-01 11:00,100.0,5926.0,Grêmio,1977.0,Atlético Mineiro,2,3,2,0,0,3,2.0,Arena do Grêmio,Porto Alegre,Raphael Claus,Luís Castro,Eduardo Dominguez,0.0,3.0,True
+12117215,2024,25,2024-09-01 11:00,100.0,1954.0,Cruzeiro,7314.0,Atlético Goianiense,3,1,2,1,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Gustavo Ervino Bauermann,Artur Jorge,Eduardo Souza,3.0,0.0,True
+12117216,2024,25,2024-09-01 18:30,100.0,1962.0,Vitória,1974.0,Vasco da Gama,0,1,0,0,0,1,2.0,Estádio Manoel Barradas,Salvador,Luiz Flávio de Oliveira,Jair Ventura,Renato Portaluppi,0.0,3.0,True
+12117217,2024,25,2024-09-01 18:30,100.0,1961.0,Fluminense,1981.0,São Paulo,2,0,1,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Luis Zubeldia,Dorival Júnior,3.0,0.0,True
+12117218,2024,25,2024-08-31 21:00,100.0,1958.0,Botafogo,2020.0,Fortaleza,2,0,0,0,2,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Flavio Rodrigues De Souza,Franclim Carvalho,Thiago Carpini,3.0,0.0,True
+12117219,2024,25,2024-09-01 16:00,100.0,1957.0,Corinthians,5981.0,Flamengo,2,1,1,1,1,0,1.0,Neo Química Arena,Sao Paulo,Ramon Abatti Abel,Fernando Diniz,Leonardo Jardim,3.0,0.0,True
+12117220,2024,25,2024-09-01 18:30,100.0,1999.0,Red Bull Bragantino,1955.0,Bahia,2,1,0,0,2,1,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Davi de Oliveira Lacerda,Vagner Mancini,Rogério Ceni,3.0,0.0,True
+12117221,2024,25,2024-09-01 18:30,100.0,1967.0,Athletico,1963.0,Palmeiras,0,2,0,1,0,1,2.0,Arena da Baixada,Curitiba,Braulio Da Silva Machado,Odair Hellmann,Abel Ferreira,0.0,3.0,True
+12117222,2024,25,2024-08-31 18:30,100.0,49202.0,Cuiabá,1984.0,Criciúma,2,1,0,1,2,0,1.0,Arena Pantanal,Cuiabá,Rodrigo Jose Pereira de Lima,Eduardo Barros,Eduardo Baptista,3.0,0.0,True
+12117223,2024,25,2024-09-01 18:30,100.0,1980.0,Juventude,1966.0,Internacional,1,3,0,2,1,1,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Marcelo de Lima Henrique,Mauricio Barbieri,Paulo Pezzolano,0.0,3.0,True
+12117224,2024,26,2024-09-16 20:00,100.0,1966.0,Internacional,49202.0,Cuiabá,3,0,2,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Braulio Da Silva Machado,Paulo Pezzolano,Eduardo Barros,3.0,0.0,True
+12117225,2024,26,2024-09-15 18:30,100.0,1954.0,Cruzeiro,1981.0,São Paulo,0,1,0,0,0,1,2.0,Governador Magalhães Pinto,Belo Horizonte,Wilton Pereira Sampaio,Artur Jorge,Dorival Júnior,0.0,3.0,True
+12117226,2024,26,2024-09-15 18:30,100.0,1955.0,Bahia,1977.0,Atlético Mineiro,3,0,0,0,3,0,1.0,Arena Fonte Nova,Salvador,Rafael Rodrigo Klein,Rogério Ceni,Eduardo Dominguez,3.0,0.0,True
+12117227,2024,26,2024-09-15 18:30,100.0,5981.0,Flamengo,1974.0,Vasco da Gama,1,1,0,0,1,1,3.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Leonardo Jardim,Renato Portaluppi,1.0,1.0,True
+12117228,2024,26,2024-09-14 21:00,100.0,1958.0,Botafogo,1957.0,Corinthians,2,1,1,0,1,1,1.0,Estádio Nilton Santos,Rio de Janeiro,Anderson Daronco,Franclim Carvalho,Fernando Diniz,3.0,0.0,True
+12117229,2024,26,2024-09-15 16:00,100.0,1963.0,Palmeiras,1984.0,Criciúma,5,0,3,0,2,0,1.0,Nubank Parque,Sao Paulo,Alex Gomes Stefano,Abel Ferreira,Eduardo Baptista,3.0,0.0,True
+12117230,2024,26,2024-09-15 16:00,100.0,1999.0,Red Bull Bragantino,5926.0,Grêmio,2,2,1,1,1,1,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Bruno Arleu de Araujo,Vagner Mancini,Luís Castro,1.0,1.0,True
+12117231,2024,26,2024-09-14 18:30,100.0,1967.0,Athletico,2020.0,Fortaleza,1,1,1,1,0,0,3.0,Arena da Baixada,Curitiba,Davi de Oliveira Lacerda,Odair Hellmann,Thiago Carpini,1.0,1.0,True
+12117232,2024,26,2024-09-14 16:00,100.0,7314.0,Atlético Goianiense,1962.0,Vitória,0,2,0,1,0,1,2.0,Estádio Antônio Accioly,Goiânia,Edina Alves Batista,Eduardo Souza,Jair Ventura,0.0,3.0,True
+12117233,2024,26,2024-09-15 16:00,100.0,1980.0,Juventude,1961.0,Fluminense,2,1,0,1,2,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Flavio Rodrigues De Souza,Mauricio Barbieri,Luis Zubeldia,3.0,0.0,True
+12117234,2024,27,2024-09-22 18:30,100.0,5926.0,Grêmio,5981.0,Flamengo,3,2,1,1,2,1,1.0,Arena do Grêmio,Porto Alegre,Matheus Delgado Candançan,Luís Castro,Leonardo Jardim,3.0,0.0,True
+12117235,2024,27,2024-09-22 16:00,100.0,1977.0,Atlético Mineiro,1999.0,Red Bull Bragantino,3,0,1,0,2,0,1.0,Arena MRV,Belo Horizonte,Lucas Paulo Torezin,Eduardo Dominguez,Vagner Mancini,3.0,0.0,True
+12117236,2024,27,2024-09-21 16:00,100.0,1962.0,Vitória,1980.0,Juventude,1,0,1,0,0,0,1.0,Estádio Manoel Barradas,Salvador,Braulio Da Silva Machado,Jair Ventura,Mauricio Barbieri,3.0,0.0,True
+12117237,2024,27,2024-09-21 18:30,100.0,1961.0,Fluminense,1958.0,Botafogo,0,1,0,0,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Luis Zubeldia,Franclim Carvalho,0.0,3.0,True
+12117238,2024,27,2024-09-22 16:00,100.0,1974.0,Vasco da Gama,1963.0,Palmeiras,0,1,0,1,0,0,2.0,Estádio São Januário,Rio de Janeiro,Rafael Rodrigo Klein,Renato Portaluppi,Abel Ferreira,0.0,3.0,True
+12117239,2024,27,2024-09-21 16:00,100.0,1957.0,Corinthians,7314.0,Atlético Goianiense,3,0,1,0,2,0,1.0,Neo Química Arena,Sao Paulo,Bruno Arleu de Araujo,Fernando Diniz,Eduardo Souza,3.0,0.0,True
+12117240,2024,27,2024-09-22 18:30,100.0,1981.0,São Paulo,1966.0,Internacional,1,3,1,1,0,2,2.0,MorumBIS,Sao Paulo,Ramon Abatti Abel,Dorival Júnior,Paulo Pezzolano,0.0,3.0,True
+12117241,2024,27,2024-09-21 21:00,100.0,2020.0,Fortaleza,1955.0,Bahia,4,1,2,1,2,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Raphael Claus,Thiago Carpini,Rogério Ceni,3.0,0.0,True
+12117242,2024,27,2024-09-22 18:30,100.0,49202.0,Cuiabá,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,Flavio Rodrigues De Souza,Eduardo Barros,Artur Jorge,1.0,1.0,True
+12117243,2024,27,2024-09-22 20:00,100.0,1984.0,Criciúma,1967.0,Athletico,0,0,0,0,0,0,3.0,Estádio Heriberto Hülse,Criciúma,Anderson Daronco,Eduardo Baptista,Odair Hellmann,1.0,1.0,True
+12117244,2024,28,2024-09-29 18:30,100.0,1966.0,Internacional,1962.0,Vitória,3,1,1,0,2,1,1.0,Estádio Beira-Rio,Porto Alegre,Wagner do Nascimento Magalhaes,Paulo Pezzolano,Jair Ventura,3.0,0.0,True
+12117245,2024,28,2024-09-29 18:30,100.0,1954.0,Cruzeiro,1974.0,Vasco da Gama,1,1,0,1,1,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Matheus Delgado Candançan,Artur Jorge,Renato Portaluppi,1.0,1.0,True
+12117246,2024,28,2024-09-29 18:30,100.0,1955.0,Bahia,1984.0,Criciúma,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Edina Alves Batista,Rogério Ceni,Eduardo Baptista,3.0,0.0,True
+12117247,2024,28,2024-09-29 20:00,100.0,5981.0,Flamengo,1967.0,Athletico,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Leonardo Jardim,Odair Hellmann,3.0,0.0,True
+12117248,2024,28,2024-09-28 21:00,100.0,1958.0,Botafogo,5926.0,Grêmio,0,0,0,0,0,0,3.0,Arena BRB Mané Garrincha,Brasilia,Maguielson Lima Barbosa,Franclim Carvalho,Luís Castro,1.0,1.0,True
+12117249,2024,28,2024-09-28 18:30,100.0,1963.0,Palmeiras,1977.0,Atlético Mineiro,2,1,1,0,1,1,1.0,Estádio Brinco de Ouro da Princesa,Campinas,Bruno Arleu de Araujo,Abel Ferreira,Eduardo Dominguez,3.0,0.0,True
+12117250,2024,28,2024-09-29 16:00,100.0,1981.0,São Paulo,1957.0,Corinthians,3,1,1,0,2,1,1.0,Arena BRB Mané Garrincha,Brasilia,Rafael Rodrigo Klein,Dorival Júnior,Fernando Diniz,3.0,0.0,True
+12117251,2024,28,2024-09-29 16:00,100.0,2020.0,Fortaleza,49202.0,Cuiabá,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Denis da Silva Ribeiro Serafim,Thiago Carpini,Eduardo Barros,3.0,0.0,True
+12117252,2024,28,2024-09-29 16:00,100.0,7314.0,Atlético Goianiense,1961.0,Fluminense,1,0,0,0,1,0,1.0,Estádio Antônio Accioly,Goiânia,Ramon Abatti Abel,Eduardo Souza,Luis Zubeldia,3.0,0.0,True
+12117253,2024,28,2024-09-29 11:00,100.0,1980.0,Juventude,1999.0,Red Bull Bragantino,1,1,0,0,1,1,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Alex Gomes Stefano,Mauricio Barbieri,Vagner Mancini,1.0,1.0,True
+12117254,2024,29,2024-10-04 21:30,100.0,5926.0,Grêmio,2020.0,Fortaleza,3,1,1,1,2,0,1.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Thiago Carpini,3.0,0.0,True
+12117255,2024,29,2024-10-05 16:30,100.0,1977.0,Atlético Mineiro,1962.0,Vitória,2,2,2,0,0,2,3.0,Arena MRV,Belo Horizonte,Matheus Delgado Candançan,Eduardo Dominguez,Jair Ventura,1.0,1.0,True
+12117256,2024,29,2024-10-05 19:00,100.0,1955.0,Bahia,5981.0,Flamengo,0,2,0,1,0,1,2.0,Arena Fonte Nova,Salvador,Rafael Rodrigo Klein,Rogério Ceni,Leonardo Jardim,0.0,3.0,True
+12117257,2024,29,2024-10-03 21:30,100.0,1961.0,Fluminense,1954.0,Cruzeiro,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Gustavo Ervino Bauermann,Luis Zubeldia,Artur Jorge,3.0,0.0,True
+12117258,2024,29,2024-10-05 21:00,100.0,1974.0,Vasco da Gama,1980.0,Juventude,1,1,1,1,0,0,3.0,Estádio São Januário,Rio de Janeiro,Caio Max Augusto Vieira,Renato Portaluppi,Mauricio Barbieri,1.0,1.0,True
+12117259,2024,29,2024-10-05 19:00,100.0,1957.0,Corinthians,1966.0,Internacional,2,2,1,1,1,1,3.0,Neo Química Arena,Sao Paulo,Lucas Paulo Torezin,Fernando Diniz,Paulo Pezzolano,1.0,1.0,True
+12117260,2024,29,2024-10-05 16:30,100.0,1999.0,Red Bull Bragantino,1963.0,Palmeiras,0,0,0,0,0,0,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Braulio Da Silva Machado,Vagner Mancini,Abel Ferreira,1.0,1.0,True
+12117261,2024,29,2024-10-05 16:30,100.0,1967.0,Athletico,1958.0,Botafogo,0,1,0,1,0,0,2.0,Arena da Baixada,Curitiba,Flavio Rodrigues De Souza,Odair Hellmann,Franclim Carvalho,0.0,3.0,True
+12117262,2024,29,2024-10-05 19:00,100.0,49202.0,Cuiabá,1981.0,São Paulo,2,0,2,0,0,0,1.0,Arena Pantanal,Cuiabá,Anderson Daronco,Eduardo Barros,Dorival Júnior,3.0,0.0,True
+12117263,2024,29,2024-10-03 19:00,100.0,1984.0,Criciúma,7314.0,Atlético Goianiense,2,0,1,0,1,0,1.0,Estádio Heriberto Hülse,Criciúma,Joao Vitor Gobi,Eduardo Baptista,Eduardo Souza,3.0,0.0,True
+12117264,2024,30,2024-10-19 16:00,100.0,1966.0,Internacional,5926.0,Grêmio,1,0,0,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Bruno Arleu de Araujo,Paulo Pezzolano,Luís Castro,3.0,0.0,True
+12117265,2024,30,2024-10-18 21:30,100.0,1954.0,Cruzeiro,1955.0,Bahia,1,1,0,0,1,1,3.0,Governador Magalhães Pinto,Belo Horizonte,Flavio Rodrigues De Souza,Artur Jorge,Rogério Ceni,1.0,1.0,True
+12117266,2024,30,2024-10-19 16:00,100.0,1962.0,Vitória,1999.0,Red Bull Bragantino,1,0,0,0,1,0,1.0,Estádio Manoel Barradas,Salvador,Denis da Silva Ribeiro Serafim,Jair Ventura,Vagner Mancini,3.0,0.0,True
+12117267,2024,30,2024-10-17 20:00,100.0,5981.0,Flamengo,1961.0,Fluminense,0,2,0,0,0,2,2.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Leonardo Jardim,Luis Zubeldia,0.0,3.0,True
+12117268,2024,30,2024-10-18 20:00,100.0,1958.0,Botafogo,1984.0,Criciúma,1,1,0,0,1,1,3.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Franclim Carvalho,Eduardo Baptista,1.0,1.0,True
+12117269,2024,30,2024-10-17 20:00,100.0,1957.0,Corinthians,1967.0,Athletico,5,2,2,2,3,0,1.0,Neo Química Arena,Sao Paulo,Wilton Pereira Sampaio,Fernando Diniz,Odair Hellmann,3.0,0.0,True
+12117270,2024,30,2024-10-16 21:45,100.0,1981.0,São Paulo,1974.0,Vasco da Gama,3,0,1,0,2,0,1.0,Estádio Brinco de Ouro da Princesa,Campinas,Davi de Oliveira Lacerda,Dorival Júnior,Renato Portaluppi,3.0,0.0,True
+12117271,2024,30,2024-10-16 21:45,100.0,2020.0,Fortaleza,1977.0,Atlético Mineiro,1,1,1,0,0,1,3.0,Estádio Governador Plácido Castelo,Fortaleza,Rafael Rodrigo Klein,Thiago Carpini,Eduardo Dominguez,1.0,1.0,True
+12117272,2024,30,2024-10-18 19:00,100.0,7314.0,Atlético Goianiense,49202.0,Cuiabá,0,0,0,0,0,0,3.0,Estádio Antônio Accioly,Goiânia,Braulio Da Silva Machado,Eduardo Souza,Eduardo Barros,1.0,1.0,True
+12117273,2024,30,2024-10-20 20:00,100.0,1980.0,Juventude,1963.0,Palmeiras,3,5,1,2,2,3,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Alex Gomes Stefano,Mauricio Barbieri,Abel Ferreira,0.0,3.0,True
+12117274,2024,31,2024-10-26 16:30,100.0,5926.0,Grêmio,7314.0,Atlético Goianiense,3,1,1,1,2,0,1.0,Arena do Grêmio,Porto Alegre,Edina Alves Batista,Luís Castro,Eduardo Souza,3.0,0.0,True
+12117275,2024,31,2024-10-26 19:00,100.0,1977.0,Atlético Mineiro,1966.0,Internacional,1,3,1,2,0,1,2.0,Arena MRV,Belo Horizonte,Marcelo de Lima Henrique,Eduardo Dominguez,Paulo Pezzolano,0.0,3.0,True
+12117276,2024,31,2024-10-26 16:30,100.0,1962.0,Vitória,1961.0,Fluminense,2,1,1,0,1,1,1.0,Estádio Manoel Barradas,Salvador,Flavio Rodrigues De Souza,Jair Ventura,Luis Zubeldia,3.0,0.0,True
+12117277,2024,31,2024-10-26 16:30,100.0,5981.0,Flamengo,1980.0,Juventude,4,2,1,1,3,1,1.0,Estádio do Maracanã,Rio de Janeiro,Braulio Da Silva Machado,Leonardo Jardim,Mauricio Barbieri,3.0,0.0,True
+12117278,2024,31,2024-10-28 21:00,100.0,1974.0,Vasco da Gama,1955.0,Bahia,3,2,3,1,0,1,1.0,Estádio São Januário,Rio de Janeiro,Raphael Claus,Renato Portaluppi,Rogério Ceni,3.0,0.0,True
+12117279,2024,31,2024-10-26 16:30,100.0,1963.0,Palmeiras,2020.0,Fortaleza,2,2,1,1,1,1,3.0,Nubank Parque,Sao Paulo,Ramon Abatti Abel,Abel Ferreira,Thiago Carpini,1.0,1.0,True
+12117280,2024,31,2024-10-26 19:00,100.0,1999.0,Red Bull Bragantino,1958.0,Botafogo,0,1,0,0,0,1,2.0,Estádio Nabi Abi Chedid,Bragança Paulista,Anderson Daronco,Vagner Mancini,Franclim Carvalho,0.0,3.0,True
+12117281,2024,31,2024-10-26 18:30,100.0,1967.0,Athletico,1954.0,Cruzeiro,3,0,1,0,2,0,1.0,Arena da Baixada,Curitiba,Rodrigo Jose Pereira de Lima,Odair Hellmann,Artur Jorge,3.0,0.0,True
+12117282,2024,31,2024-10-28 19:00,100.0,49202.0,Cuiabá,1957.0,Corinthians,0,1,0,1,0,0,2.0,Arena Pantanal,Cuiabá,Bruno Arleu de Araujo,Eduardo Barros,Fernando Diniz,0.0,3.0,True
+12117283,2024,31,2024-10-26 21:00,100.0,1984.0,Criciúma,1981.0,São Paulo,1,1,1,0,0,1,3.0,Estádio Heriberto Hülse,Criciúma,Rafael Rodrigo Klein,Eduardo Baptista,Dorival Júnior,1.0,1.0,True
+12117284,2024,32,2024-11-05 21:30,100.0,1966.0,Internacional,1984.0,Criciúma,2,0,1,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Felipe Fernandes de Lima,Paulo Pezzolano,Eduardo Baptista,3.0,0.0,True
+12117285,2024,32,2024-11-06 21:00,100.0,1954.0,Cruzeiro,5981.0,Flamengo,0,1,0,0,0,1,2.0,Arena Independência,Belo Horizonte,Gustavo Ervino Bauermann,Artur Jorge,Leonardo Jardim,0.0,3.0,True
+12117286,2024,32,2024-11-05 21:30,100.0,1955.0,Bahia,1981.0,São Paulo,0,3,0,1,0,2,2.0,Arena Fonte Nova,Salvador,Alex Gomes Stefano,Rogério Ceni,Dorival Júnior,0.0,3.0,True
+12117287,2024,32,2024-11-01 21:00,100.0,1961.0,Fluminense,5926.0,Grêmio,2,2,1,1,1,1,3.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Luis Zubeldia,Luís Castro,1.0,1.0,True
+12117288,2024,32,2024-11-05 21:30,100.0,1958.0,Botafogo,1974.0,Vasco da Gama,3,0,2,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Arleu de Araujo,Franclim Carvalho,Renato Portaluppi,3.0,0.0,True
+12117289,2024,32,2024-11-04 20:00,100.0,1957.0,Corinthians,1963.0,Palmeiras,2,0,1,0,1,0,1.0,Neo Química Arena,Sao Paulo,Wilton Pereira Sampaio,Fernando Diniz,Abel Ferreira,3.0,0.0,True
+12117290,2024,32,2024-11-02 16:00,100.0,1999.0,Red Bull Bragantino,49202.0,Cuiabá,0,0,0,0,0,0,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Marcelo de Lima Henrique,Vagner Mancini,Eduardo Barros,1.0,1.0,True
+12117291,2024,32,2024-11-02 18:30,100.0,1967.0,Athletico,1962.0,Vitória,1,2,1,1,0,1,2.0,Arena da Baixada,Curitiba,Luiz Flávio de Oliveira,Odair Hellmann,Jair Ventura,0.0,3.0,True
+12117292,2024,32,2024-11-06 21:00,100.0,7314.0,Atlético Goianiense,1977.0,Atlético Mineiro,1,0,0,0,1,0,1.0,Estádio Antônio Accioly,Goiânia,Jonathan Benkenstein Pinheiro,Eduardo Souza,Eduardo Dominguez,3.0,0.0,True
+12117293,2024,32,2024-11-02 18:30,100.0,1980.0,Juventude,2020.0,Fortaleza,0,3,0,2,0,1,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Raphael Claus,Mauricio Barbieri,Thiago Carpini,0.0,3.0,True
+12117294,2024,33,2024-11-08 19:00,100.0,1966.0,Internacional,1961.0,Fluminense,2,0,0,0,2,0,1.0,Estádio Beira-Rio,Porto Alegre,Luiz Flávio de Oliveira,Paulo Pezzolano,Luis Zubeldia,3.0,0.0,True
+12117295,2024,33,2024-11-09 19:00,100.0,1954.0,Cruzeiro,1984.0,Criciúma,2,1,1,0,1,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Wagner do Nascimento Magalhaes,Artur Jorge,Eduardo Baptista,3.0,0.0,True
+12117296,2024,33,2024-11-09 16:30,100.0,1962.0,Vitória,1957.0,Corinthians,1,2,1,1,0,1,2.0,Estádio Manoel Barradas,Salvador,Bruno Arleu de Araujo,Jair Ventura,Fernando Diniz,0.0,3.0,True
+12117297,2024,33,2024-11-13 20:00,100.0,5981.0,Flamengo,1977.0,Atlético Mineiro,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Leonardo Jardim,Eduardo Dominguez,1.0,1.0,True
+12117298,2024,33,2024-11-09 16:30,100.0,1958.0,Botafogo,49202.0,Cuiabá,0,0,0,0,0,0,3.0,Estádio Nilton Santos,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Franclim Carvalho,Eduardo Barros,1.0,1.0,True
+12117299,2024,33,2024-11-08 21:30,100.0,1963.0,Palmeiras,5926.0,Grêmio,1,0,0,0,1,0,1.0,Nubank Parque,Sao Paulo,Marcelo de Lima Henrique,Abel Ferreira,Luís Castro,3.0,0.0,True
+12117300,2024,33,2024-11-09 21:00,100.0,1981.0,São Paulo,1967.0,Athletico,2,1,0,0,2,1,1.0,MorumBIS,Sao Paulo,Rafael Rodrigo Klein,Dorival Júnior,Odair Hellmann,3.0,0.0,True
+12117301,2024,33,2024-11-09 19:00,100.0,2020.0,Fortaleza,1974.0,Vasco da Gama,3,0,1,0,2,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Lucas Paulo Torezin,Thiago Carpini,Renato Portaluppi,3.0,0.0,True
+12117302,2024,33,2024-11-09 19:00,100.0,7314.0,Atlético Goianiense,1999.0,Red Bull Bragantino,0,0,0,0,0,0,3.0,Estádio Antônio Accioly,Goiânia,Anderson Daronco,Eduardo Souza,Vagner Mancini,1.0,1.0,True
+12117303,2024,33,2024-11-09 19:00,100.0,1980.0,Juventude,1955.0,Bahia,2,1,0,1,2,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Wilton Pereira Sampaio,Mauricio Barbieri,Rogério Ceni,3.0,0.0,True
+12117304,2024,34,2024-11-20 19:00,100.0,5926.0,Grêmio,1980.0,Juventude,2,2,1,1,1,1,3.0,Arena do Grêmio,Porto Alegre,Bruno Arleu de Araujo,Luís Castro,Mauricio Barbieri,1.0,1.0,True
+12117305,2024,34,2024-11-20 21:30,100.0,1977.0,Atlético Mineiro,1958.0,Botafogo,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,Luiz Flávio de Oliveira,Eduardo Dominguez,Franclim Carvalho,1.0,1.0,True
+12117306,2024,34,2024-11-20 18:00,100.0,1955.0,Bahia,1963.0,Palmeiras,1,2,1,1,0,1,2.0,Arena Fonte Nova,Salvador,Wagner do Nascimento Magalhaes,Rogério Ceni,Abel Ferreira,0.0,3.0,True
+12117307,2024,34,2024-11-22 21:30,100.0,1961.0,Fluminense,2020.0,Fortaleza,2,2,1,2,1,0,3.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Luis Zubeldia,Thiago Carpini,1.0,1.0,True
+12117308,2024,34,2024-11-21 20:00,100.0,1974.0,Vasco da Gama,1966.0,Internacional,0,1,0,0,0,1,2.0,Estádio São Januário,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Renato Portaluppi,Paulo Pezzolano,0.0,3.0,True
+12117309,2024,34,2024-11-20 11:00,100.0,1957.0,Corinthians,1954.0,Cruzeiro,2,1,2,1,0,0,1.0,Neo Química Arena,Sao Paulo,Jonathan Benkenstein Pinheiro,Fernando Diniz,Artur Jorge,3.0,0.0,True
+12117310,2024,34,2024-11-20 16:30,100.0,1999.0,Red Bull Bragantino,1981.0,São Paulo,1,1,1,1,0,0,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Wilton Pereira Sampaio,Vagner Mancini,Dorival Júnior,1.0,1.0,True
+12117311,2024,34,2024-11-20 16:30,100.0,1967.0,Athletico,7314.0,Atlético Goianiense,2,0,1,0,1,0,1.0,Arena da Baixada,Curitiba,Alex Gomes Stefano,Odair Hellmann,Eduardo Souza,3.0,0.0,True
+12117312,2024,34,2024-11-20 19:00,100.0,49202.0,Cuiabá,5981.0,Flamengo,1,2,0,0,1,2,2.0,Arena Pantanal,Cuiabá,Edina Alves Batista,Eduardo Barros,Leonardo Jardim,0.0,3.0,True
+12117313,2024,34,2024-11-20 16:30,100.0,1984.0,Criciúma,1962.0,Vitória,0,1,0,0,0,1,2.0,Estádio Heriberto Hülse,Criciúma,Rafael Rodrigo Klein,Eduardo Baptista,Jair Ventura,0.0,3.0,True
+12117314,2024,35,2024-11-24 16:00,100.0,1966.0,Internacional,1999.0,Red Bull Bragantino,4,1,2,1,2,0,1.0,Estádio Beira-Rio,Porto Alegre,Marcelo de Lima Henrique,Paulo Pezzolano,Vagner Mancini,3.0,0.0,True
+12117316,2024,35,2024-11-27 21:00,100.0,1954.0,Cruzeiro,5926.0,Grêmio,1,1,1,1,0,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Raphael Claus,Artur Jorge,Luís Castro,1.0,1.0,True
+12117317,2024,35,2024-11-24 16:00,100.0,1955.0,Bahia,1967.0,Athletico,1,1,0,0,1,1,3.0,Arena Fonte Nova,Salvador,Rodrigo Jose Pereira de Lima,Rogério Ceni,Odair Hellmann,1.0,1.0,True
+12117318,2024,35,2024-11-26 19:00,100.0,1961.0,Fluminense,1984.0,Criciúma,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Luiz Flávio de Oliveira,Luis Zubeldia,Eduardo Baptista,1.0,1.0,True
+12117319,2024,35,2024-11-23 19:30,100.0,1958.0,Botafogo,1962.0,Vitória,1,1,0,1,1,0,3.0,Estádio Nilton Santos,Rio de Janeiro,Ramon Abatti Abel,Franclim Carvalho,Jair Ventura,1.0,1.0,True
+12117320,2024,35,2024-11-24 16:00,100.0,1957.0,Corinthians,1974.0,Vasco da Gama,3,1,3,0,0,1,1.0,Neo Química Arena,Sao Paulo,Davi de Oliveira Lacerda,Fernando Diniz,Renato Portaluppi,3.0,0.0,True
+12117321,2024,35,2024-11-23 21:30,100.0,1981.0,São Paulo,1977.0,Atlético Mineiro,2,2,2,2,0,0,3.0,MorumBIS,Sao Paulo,Alex Gomes Stefano,Dorival Júnior,Eduardo Dominguez,1.0,1.0,True
+12117322,2024,35,2024-11-26 20:00,100.0,2020.0,Fortaleza,5981.0,Flamengo,0,0,0,0,0,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Anderson Daronco,Thiago Carpini,Leonardo Jardim,1.0,1.0,True
+12117323,2024,35,2024-11-23 19:30,100.0,7314.0,Atlético Goianiense,1963.0,Palmeiras,0,1,0,1,0,0,2.0,Estádio Antônio Accioly,Goiânia,Jonathan Benkenstein Pinheiro,Eduardo Souza,Abel Ferreira,0.0,3.0,True
+12117324,2024,35,2024-11-23 19:30,100.0,1980.0,Juventude,49202.0,Cuiabá,1,1,0,0,1,1,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Matheus Delgado Candançan,Mauricio Barbieri,Eduardo Barros,1.0,1.0,True
+12117325,2024,36,2024-12-01 16:00,100.0,5926.0,Grêmio,1981.0,São Paulo,2,1,2,0,0,1,1.0,Arena do Grêmio,Porto Alegre,Ramon Abatti Abel,Luís Castro,Dorival Júnior,3.0,0.0,True
+12117326,2024,36,2024-11-26 21:30,100.0,1977.0,Atlético Mineiro,1980.0,Juventude,2,3,0,1,2,2,2.0,Arena MRV,Belo Horizonte,Flavio Rodrigues De Souza,Eduardo Dominguez,Mauricio Barbieri,0.0,3.0,True
+12117327,2024,36,2024-12-01 18:30,100.0,1962.0,Vitória,2020.0,Fortaleza,2,0,2,0,0,0,1.0,Estádio Manoel Barradas,Salvador,Wilton Pereira Sampaio,Jair Ventura,Thiago Carpini,3.0,0.0,True
+12117328,2024,36,2024-12-01 16:00,100.0,5981.0,Flamengo,1966.0,Internacional,3,2,3,0,0,2,1.0,Estádio do Maracanã,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Leonardo Jardim,Paulo Pezzolano,3.0,0.0,True
+12117329,2024,36,2024-11-30 21:30,100.0,1974.0,Vasco da Gama,7314.0,Atlético Goianiense,2,2,0,1,2,1,3.0,Estádio São Januário,Rio de Janeiro,Lucas Paulo Torezin,Renato Portaluppi,Eduardo Souza,1.0,1.0,True
+12117330,2024,36,2024-11-26 21:30,100.0,1963.0,Palmeiras,1958.0,Botafogo,1,3,0,1,1,2,2.0,Nubank Parque,Sao Paulo,Wilton Pereira Sampaio,Abel Ferreira,Franclim Carvalho,0.0,3.0,True
+12117331,2024,36,2024-12-01 18:30,100.0,1999.0,Red Bull Bragantino,1954.0,Cruzeiro,1,1,1,0,0,1,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Victor Andre Rodriguez Ballesteros,Vagner Mancini,Artur Jorge,1.0,1.0,True
+12117332,2024,36,2024-12-01 18:30,100.0,1967.0,Athletico,1961.0,Fluminense,1,1,1,0,0,1,3.0,Arena da Baixada,Curitiba,Eduardo Senna,Odair Hellmann,Luis Zubeldia,1.0,1.0,True
+12117333,2024,36,2024-11-30 19:30,100.0,49202.0,Cuiabá,1955.0,Bahia,1,2,1,1,0,1,2.0,Arena Pantanal,Cuiabá,David Lacerda,Eduardo Barros,Rogério Ceni,0.0,3.0,True
+12117334,2024,36,2024-11-30 19:30,100.0,1984.0,Criciúma,1957.0,Corinthians,2,4,2,0,0,4,2.0,Estádio Heriberto Hülse,Criciúma,Anderson Daronco,Eduardo Baptista,Fernando Diniz,0.0,3.0,True
+12117335,2024,37,2024-12-04 21:30,100.0,1966.0,Internacional,1958.0,Botafogo,0,1,0,1,0,0,2.0,Estádio Beira-Rio,Porto Alegre,Ramon Abatti Abel,Paulo Pezzolano,Franclim Carvalho,0.0,3.0,True
+12117336,2024,37,2024-12-04 21:30,100.0,1954.0,Cruzeiro,1963.0,Palmeiras,1,2,0,0,1,2,2.0,Governador Magalhães Pinto,Belo Horizonte,Anderson Daronco,Artur Jorge,Abel Ferreira,0.0,3.0,True
+12117337,2024,37,2024-12-04 20:00,100.0,1962.0,Vitória,5926.0,Grêmio,1,1,0,1,1,0,3.0,Estádio Manoel Barradas,Salvador,Alex Gomes Stefano,Jair Ventura,Luís Castro,1.0,1.0,True
+12117338,2024,37,2024-12-05 20:00,100.0,1961.0,Fluminense,49202.0,Cuiabá,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Luis Zubeldia,Eduardo Barros,3.0,0.0,True
+12117339,2024,37,2024-12-04 19:00,100.0,1974.0,Vasco da Gama,1977.0,Atlético Mineiro,2,0,0,0,2,0,1.0,Estádio São Januário,Rio de Janeiro,Lucas Paulo Torezin,Renato Portaluppi,Eduardo Dominguez,3.0,0.0,True
+12117340,2024,37,2024-12-03 20:00,100.0,1957.0,Corinthians,1955.0,Bahia,3,0,2,0,1,0,1.0,Neo Química Arena,Sao Paulo,Bruno Arleu de Araujo,Fernando Diniz,Rogério Ceni,3.0,0.0,True
+12117341,2024,37,2024-12-04 20:00,100.0,1981.0,São Paulo,1980.0,Juventude,1,2,0,0,1,2,2.0,MorumBIS,Sao Paulo,Savio Pereira Sampaio,Dorival Júnior,Mauricio Barbieri,0.0,3.0,True
+12117343,2024,37,2024-12-05 20:00,100.0,1967.0,Athletico,1999.0,Red Bull Bragantino,1,2,0,1,1,1,2.0,Arena da Baixada,Curitiba,Rodrigo Jose Pereira de Lima,Odair Hellmann,Vagner Mancini,0.0,3.0,True
+12117344,2024,37,2024-12-04 21:30,100.0,7314.0,Atlético Goianiense,2020.0,Fortaleza,3,1,1,1,2,0,1.0,Estádio Antônio Accioly,Goiânia,Lucas Casagrande,Eduardo Souza,Thiago Carpini,3.0,0.0,True
+12117345,2024,37,2024-12-04 20:00,100.0,1984.0,Criciúma,5981.0,Flamengo,0,3,0,1,0,2,2.0,Estádio Heriberto Hülse,Criciúma,Wilton Pereira Sampaio,Eduardo Baptista,Leonardo Jardim,0.0,3.0,True
+12117346,2024,38,2024-12-08 16:00,100.0,5926.0,Grêmio,1957.0,Corinthians,0,3,0,1,0,2,2.0,Arena do Grêmio,Porto Alegre,Paulo Cesar Zanovelli da Silva,Luís Castro,Fernando Diniz,0.0,3.0,True
+12117347,2024,38,2024-12-08 16:00,100.0,1977.0,Atlético Mineiro,1967.0,Athletico,1,0,0,0,1,0,1.0,Arena MRV,Belo Horizonte,Rafael Rodrigo Klein,Eduardo Dominguez,Odair Hellmann,3.0,0.0,True
+12117348,2024,38,2024-12-08 16:00,100.0,1955.0,Bahia,7314.0,Atlético Goianiense,2,0,1,0,1,0,1.0,Arena Fonte Nova,Salvador,Gustavo Ervino Bauermann,Rogério Ceni,Eduardo Souza,3.0,0.0,True
+12117349,2024,38,2024-12-08 16:00,100.0,5981.0,Flamengo,1962.0,Vitória,2,2,0,1,2,1,3.0,Estádio do Maracanã,Rio de Janeiro,Lucas Casagrande,Leonardo Jardim,Jair Ventura,1.0,1.0,True
+12117350,2024,38,2024-12-08 16:00,100.0,1958.0,Botafogo,1981.0,São Paulo,2,1,1,0,1,1,1.0,Estádio Nilton Santos,Rio de Janeiro,Anderson Daronco,Franclim Carvalho,Dorival Júnior,3.0,0.0,True
+12117351,2024,38,2024-12-08 16:00,100.0,1963.0,Palmeiras,1961.0,Fluminense,0,1,0,1,0,0,2.0,Nubank Parque,Sao Paulo,Ramon Abatti Abel,Abel Ferreira,Luis Zubeldia,0.0,3.0,True
+12117352,2024,38,2024-12-08 16:00,100.0,1999.0,Red Bull Bragantino,1984.0,Criciúma,5,1,2,1,3,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Savio Pereira Sampaio,Vagner Mancini,Eduardo Baptista,3.0,0.0,True
+12117353,2024,38,2024-12-08 16:00,100.0,2020.0,Fortaleza,1966.0,Internacional,3,0,2,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Matheus Delgado Candançan,Thiago Carpini,Paulo Pezzolano,3.0,0.0,True
+12117354,2024,38,2024-12-08 16:00,100.0,49202.0,Cuiabá,1974.0,Vasco da Gama,1,2,1,2,0,0,2.0,Arena Pantanal,Cuiabá,Tiago Gomes da Silva,Eduardo Barros,Renato Portaluppi,0.0,3.0,True
+12117355,2024,38,2024-12-08 16:00,100.0,1980.0,Juventude,1954.0,Cruzeiro,0,1,0,1,0,0,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Edina Alves Batista,Mauricio Barbieri,Artur Jorge,0.0,3.0,True
+12356168,2024,8,2024-06-13 21:30,100.0,1963.0,Palmeiras,1974.0,Vasco da Gama,2,0,1,0,1,0,1.0,Nubank Parque,Sao Paulo,Ramon Abatti Abel,Abel Ferreira,Renato Portaluppi,3.0,0.0,True
+12357103,2024,8,2024-06-11 21:30,100.0,1999.0,Red Bull Bragantino,1977.0,Atlético Mineiro,1,2,1,2,0,0,2.0,Estádio Nabi Abi Chedid,Bragança Paulista,Rafael Rodrigo Klein,Vagner Mancini,Eduardo Dominguez,0.0,3.0,True
+12357104,2024,8,2024-06-13 20:00,100.0,1967.0,Athletico,1984.0,Criciúma,3,1,1,1,2,0,1.0,Arena da Baixada,Curitiba,Jonathan Benkenstein Pinheiro,Odair Hellmann,Eduardo Baptista,3.0,0.0,True
+12357114,2024,8,2024-06-11 19:00,100.0,7314.0,Atlético Goianiense,1957.0,Corinthians,2,2,0,1,2,1,3.0,Estádio Antônio Accioly,Goiânia,Paulo Cesar Zanovelli da Silva,Eduardo Souza,Fernando Diniz,1.0,1.0,True
+12357122,2024,8,2024-06-11 20:00,100.0,1958.0,Botafogo,1961.0,Fluminense,1,0,0,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Flavio Rodrigues De Souza,Franclim Carvalho,Luis Zubeldia,3.0,0.0,True
+12357143,2024,8,2024-06-13 20:00,100.0,5981.0,Flamengo,5926.0,Grêmio,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Luiz Flávio de Oliveira,Leonardo Jardim,Luís Castro,3.0,0.0,True
+12357162,2024,8,2024-06-13 21:30,100.0,1955.0,Bahia,2020.0,Fortaleza,1,0,0,0,1,0,1.0,Arena Fonte Nova,Salvador,Felipe Fernandes de Lima,Rogério Ceni,Thiago Carpini,3.0,0.0,True
+12357177,2024,8,2024-06-13 19:00,100.0,1954.0,Cruzeiro,49202.0,Cuiabá,2,1,1,0,1,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Marcelo de Lima Henrique,Artur Jorge,Eduardo Barros,3.0,0.0,True
+12357186,2024,8,2024-06-13 20:00,100.0,1966.0,Internacional,1981.0,São Paulo,0,0,0,0,0,0,3.0,Estádio Heriberto Hülse,Criciúma,Braulio Da Silva Machado,Paulo Pezzolano,Dorival Júnior,1.0,1.0,True
+12357197,2024,7,2024-06-02 16:00,100.0,1984.0,Criciúma,1963.0,Palmeiras,1,2,0,0,1,2,2.0,Estádio Heriberto Hülse,Criciúma,Rafael Rodrigo Klein,Eduardo Baptista,Abel Ferreira,0.0,3.0,True
+12357205,2024,7,2024-06-01 18:30,100.0,49202.0,Cuiabá,1966.0,Internacional,0,1,0,0,0,1,2.0,Arena Pantanal,Cuiabá,Anderson Ribeiro Goncalves,Eduardo Barros,Paulo Pezzolano,0.0,3.0,True
+12357218,2024,7,2024-06-02 18:30,100.0,2020.0,Fortaleza,1967.0,Athletico,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Joao Vitor Gobi,Thiago Carpini,Odair Hellmann,3.0,0.0,True
+12357219,2024,7,2024-06-01 21:00,100.0,1957.0,Corinthians,1958.0,Botafogo,0,1,0,0,0,1,2.0,Neo Química Arena,Sao Paulo,Anderson Daronco,Fernando Diniz,Franclim Carvalho,0.0,3.0,True
+12357227,2024,7,2024-06-02 16:00,100.0,1974.0,Vasco da Gama,5981.0,Flamengo,1,6,1,3,0,3,2.0,Estádio São Januário,Rio de Janeiro,Braulio Da Silva Machado,Renato Portaluppi,Leonardo Jardim,0.0,3.0,True
+12357233,2024,7,2024-06-01 18:30,100.0,1961.0,Fluminense,1980.0,Juventude,1,1,1,0,0,1,3.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Luis Zubeldia,Mauricio Barbieri,1.0,1.0,True
+12357241,2024,7,2024-06-02 16:00,100.0,1977.0,Atlético Mineiro,1955.0,Bahia,1,1,0,0,1,1,3.0,Arena MRV,Belo Horizonte,Bruno Arleu de Araujo,Eduardo Dominguez,Rogério Ceni,1.0,1.0,True
+12357242,2024,7,2024-06-01 16:00,100.0,5926.0,Grêmio,1999.0,Red Bull Bragantino,0,2,0,1,0,1,2.0,Arena do Grêmio,Porto Alegre,Ramon Abatti Abel,Luís Castro,Vagner Mancini,0.0,3.0,True
+12357263,2024,7,2024-06-02 18:30,100.0,1981.0,São Paulo,1954.0,Cruzeiro,2,0,1,0,1,0,1.0,MorumBIS,Sao Paulo,Lucas Paulo Torezin,Dorival Júnior,Artur Jorge,3.0,0.0,True
+12359685,2024,8,2024-06-11 19:00,100.0,1980.0,Juventude,1962.0,Vitória,1,1,1,1,0,0,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Wagner do Nascimento Magalhaes,Mauricio Barbieri,Jair Ventura,1.0,1.0,True
+12369730,2024,7,2024-06-01 16:00,100.0,1962.0,Vitória,7314.0,Atlético Goianiense,0,2,0,1,0,1,2.0,Estádio Manoel Barradas,Salvador,Kleber Ariel Goncalves da Silva,Jair Ventura,Eduardo Souza,0.0,3.0,True
+12376683,2024,2,2024-06-05 20:00,100.0,49202.0,Cuiabá,1962.0,Vitória,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,Wilton Pereira Sampaio,Eduardo Barros,Jair Ventura,1.0,1.0,True
+12376871,2024,5,2024-06-05 19:00,100.0,1980.0,Juventude,7314.0,Atlético Goianiense,1,0,1,0,0,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Raphael Claus,Mauricio Barbieri,Eduardo Souza,3.0,0.0,True
+12376912,2024,6,2024-06-09 16:00,100.0,1984.0,Criciúma,49202.0,Cuiabá,2,5,0,3,2,2,2.0,Estádio Heriberto Hülse,Criciúma,Bruno Arleu de Araujo,Eduardo Baptista,Eduardo Barros,0.0,3.0,True
+12479063,2024,3,2024-07-24 19:00,100.0,1984.0,Criciúma,2020.0,Fortaleza,1,1,1,0,0,1,3.0,Estádio Heriberto Hülse,Criciúma,Jonathan Benkenstein Pinheiro,Eduardo Baptista,Thiago Carpini,1.0,1.0,True
+12629257,2024,6,2024-08-14 19:30,100.0,1966.0,Internacional,1980.0,Juventude,2,1,0,1,2,0,1.0,Estádio Beira-Rio,Porto Alegre,Gustavo Ervino Bauermann,Paulo Pezzolano,Mauricio Barbieri,3.0,0.0,True
+12629260,2024,5,2024-08-28 19:30,100.0,1954.0,Cruzeiro,1966.0,Internacional,0,0,0,0,0,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Joao Vitor Gobi,Artur Jorge,Paulo Pezzolano,1.0,1.0,True
+12727203,2024,19,2024-08-28 19:30,100.0,1984.0,Criciúma,1999.0,Red Bull Bragantino,1,0,1,0,0,0,1.0,Estádio Heriberto Hülse,Criciúma,Andre Luiz Skettino Policarpo Bento,Eduardo Baptista,Vagner Mancini,3.0,0.0,True
+12731927,2024,16,2024-09-05 20:00,100.0,49202.0,Cuiabá,1980.0,Juventude,0,0,0,0,0,0,3.0,Arena Pantanal,Cuiabá,Felipe Fernandes de Lima,Eduardo Barros,Mauricio Barbieri,1.0,1.0,True
+12767385,2024,19,2024-10-24 19:00,100.0,1974.0,Vasco da Gama,49202.0,Cuiabá,1,0,0,0,1,0,1.0,Estádio São Januário,Rio de Janeiro,Savio Pereira Sampaio,Renato Portaluppi,Eduardo Barros,3.0,0.0,True
+12785268,2024,19,2024-09-11 19:30,100.0,1966.0,Internacional,2020.0,Fortaleza,2,1,1,1,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Gustavo Ervino Bauermann,Paulo Pezzolano,Thiago Carpini,3.0,0.0,True
+12851651,2024,16,2024-09-25 19:00,100.0,1999.0,Red Bull Bragantino,1966.0,Internacional,2,2,1,1,1,1,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Rodrigo Jose Pereira de Lima,Vagner Mancini,Paulo Pezzolano,1.0,1.0,True
+12860733,2024,5,2024-09-25 19:00,100.0,5926.0,Grêmio,1984.0,Criciúma,1,2,0,1,1,1,2.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Eduardo Baptista,0.0,3.0,True
+12943807,2024,6,2024-10-09 19:30,100.0,1977.0,Atlético Mineiro,5926.0,Grêmio,2,1,2,1,0,0,1.0,Arena MRV,Belo Horizonte,Luiz Flávio de Oliveira,Eduardo Dominguez,Luís Castro,3.0,0.0,True
+12946543,2024,17,2024-10-22 19:30,100.0,1961.0,Fluminense,1967.0,Athletico,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Braulio Da Silva Machado,Luis Zubeldia,Odair Hellmann,3.0,0.0,True
+12946553,2024,17,2024-10-30 19:00,100.0,1966.0,Internacional,5981.0,Flamengo,1,1,0,1,1,0,3.0,Estádio Beira-Rio,Porto Alegre,Davi de Oliveira Lacerda,Paulo Pezzolano,Leonardo Jardim,1.0,1.0,True
+13105331,2024,19,2024-11-16 18:30,100.0,1967.0,Athletico,1977.0,Atlético Mineiro,1,0,1,0,0,0,1.0,Arena da Baixada,Curitiba,Matheus Delgado Candançan,Odair Hellmann,Eduardo Dominguez,3.0,0.0,True
+13472584,2025,37,2025-12-03 19:30,100.0,1980.0,Juventude,1968.0,Santos,0,3,0,0,0,3,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Wilton Pereira Sampaio,Mauricio Barbieri,Cuca,0.0,3.0,True
+13472588,2025,35,2025-11-22 21:30,100.0,5981.0,Flamengo,1999.0,Red Bull Bragantino,3,0,0,0,3,0,1.0,Estádio do Maracanã,Rio de Janeiro,Fernando Antonio Mendes de Salles Nascimento Filho,Leonardo Jardim,Vagner Mancini,3.0,0.0,True
+13472589,2025,35,2025-11-23 16:00,100.0,1981.0,São Paulo,1980.0,Juventude,2,1,1,0,1,1,1.0,Estádio Urbano Caldeira,Santos,Andre Luis Skettino Policarpo Bento,Dorival Júnior,Mauricio Barbieri,3.0,0.0,True
+13472590,2025,37,2025-12-03 19:00,100.0,2020.0,Fortaleza,1957.0,Corinthians,2,1,1,0,1,1,1.0,Estádio Governador Plácido Castelo,Fortaleza,Savio Pereira Sampaio,Thiago Carpini,Fernando Diniz,3.0,0.0,True
+13472591,2025,38,2025-12-07 16:00,100.0,2001.0,Ceará,1963.0,Palmeiras,1,3,1,1,0,2,2.0,Estádio Governador Plácido Castelo,Fortaleza,Bruno Arleu de Araujo,Mozart Santos,Abel Ferreira,0.0,3.0,True
+13472592,2025,38,2025-12-07 16:00,100.0,1966.0,Internacional,1999.0,Red Bull Bragantino,3,1,0,0,3,1,1.0,Estádio Beira-Rio,Porto Alegre,Davi de Oliveira Lacerda,Paulo Pezzolano,Vagner Mancini,3.0,0.0,True
+13472593,2025,38,2025-12-06 18:30,100.0,21982.0,Mirassol,5981.0,Flamengo,3,3,2,2,1,1,3.0,Estádio José Maria de Campos Maia,Mirassol,Lucas Casagrande,Rafael Guanaes,Leonardo Jardim,1.0,1.0,True
+13472594,2025,35,2025-11-23 20:30,100.0,1954.0,Cruzeiro,1957.0,Corinthians,3,0,1,0,2,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Alex Gomes Stefano,Artur Jorge,Fernando Diniz,3.0,0.0,True
+13472595,2025,35,2025-11-23 16:00,100.0,1955.0,Bahia,1974.0,Vasco da Gama,1,0,0,0,1,0,1.0,Arena Fonte Nova,Salvador,Jefferson Ferreira de Moraes,Rogério Ceni,Renato Portaluppi,3.0,0.0,True
+13472596,2025,38,2025-12-07 16:00,100.0,1977.0,Atlético Mineiro,1974.0,Vasco da Gama,5,0,2,0,3,0,1.0,Arena MRV,Belo Horizonte,Lucas Paulo Torezin,Eduardo Dominguez,Renato Portaluppi,3.0,0.0,True
+13472597,2025,35,2025-11-22 21:30,100.0,1963.0,Palmeiras,1961.0,Fluminense,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Jonathan Benkenstein Pinheiro,Abel Ferreira,Luis Zubeldia,1.0,1.0,True
+13472598,2025,37,2025-12-03 20:00,100.0,1955.0,Bahia,1959.0,Sport Recife,2,0,1,0,1,0,1.0,Arena Fonte Nova,Salvador,Flavio Rodrigues De Souza,Rogério Ceni,Márcio Goiano,3.0,0.0,True
+13472599,2025,37,2025-12-03 20:00,100.0,1981.0,São Paulo,1966.0,Internacional,3,0,2,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Bruno Arleu de Araujo,Dorival Júnior,Paulo Pezzolano,3.0,0.0,True
+13472600,2025,38,2025-12-07 16:00,100.0,1957.0,Corinthians,1980.0,Juventude,1,1,1,0,0,1,3.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Mauricio Barbieri,1.0,1.0,True
+13472601,2025,35,2025-11-24 21:00,100.0,1966.0,Internacional,1968.0,Santos,1,1,1,0,0,1,3.0,Estádio Beira-Rio,Porto Alegre,Davi de Oliveira Lacerda,Paulo Pezzolano,Cuca,1.0,1.0,True
+13472602,2025,38,2025-12-07 16:00,100.0,1961.0,Fluminense,1955.0,Bahia,2,0,0,0,2,0,1.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Luis Zubeldia,Rogério Ceni,3.0,0.0,True
+13472603,2025,35,2025-11-22 19:30,100.0,1958.0,Botafogo,5926.0,Grêmio,3,2,2,0,1,2,1.0,Estádio Nilton Santos,Rio de Janeiro,Felipe Fernandes de Lima,Franclim Carvalho,Luís Castro,3.0,0.0,True
+13472604,2025,37,2025-12-02 21:30,100.0,5926.0,Grêmio,1961.0,Fluminense,1,2,0,1,1,1,2.0,Arena do Grêmio,Porto Alegre,Raphael Claus,Luís Castro,Luis Zubeldia,0.0,3.0,True
+13472605,2025,36,2025-11-27 20:30,100.0,1961.0,Fluminense,1981.0,São Paulo,6,0,3,0,3,0,1.0,Estádio do Maracanã,Rio de Janeiro,Lucas Paulo Torezin,Luis Zubeldia,Dorival Júnior,3.0,0.0,True
+13472606,2025,36,2025-11-28 19:30,100.0,1974.0,Vasco da Gama,1966.0,Internacional,5,1,2,1,3,0,1.0,Estádio São Januário,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Renato Portaluppi,Paulo Pezzolano,3.0,0.0,True
+13472607,2025,38,2025-12-07 16:00,100.0,1959.0,Sport Recife,5926.0,Grêmio,0,4,0,3,0,1,2.0,Ilha do Retiro,Recife,Edina Alves Batista,Márcio Goiano,Luís Castro,0.0,3.0,True
+13472608,2025,35,2025-11-30 18:30,100.0,2020.0,Fortaleza,1977.0,Atlético Mineiro,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Eduardo Dominguez,3.0,0.0,True
+13472609,2025,35,2025-11-23 18:30,100.0,1959.0,Sport Recife,1962.0,Vitória,1,3,1,2,0,1,2.0,Ilha do Retiro,Recife,Yuri Elino Ferreira Da Cruz,Márcio Goiano,Jair Ventura,0.0,3.0,True
+13472610,2025,38,2025-12-07 16:00,100.0,1958.0,Botafogo,2020.0,Fortaleza,4,2,1,1,3,1,1.0,Estádio Nilton Santos,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Franclim Carvalho,Thiago Carpini,3.0,0.0,True
+13472611,2025,36,2025-11-30 16:00,100.0,1957.0,Corinthians,1958.0,Botafogo,2,2,1,0,1,2,3.0,Neo Química Arena,Sao Paulo,Jonathan Benkenstein Pinheiro,Fernando Diniz,Franclim Carvalho,1.0,1.0,True
+13472612,2025,35,2025-11-24 19:00,100.0,21982.0,Mirassol,2001.0,Ceará,3,0,2,0,1,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Lucas Casagrande,Rafael Guanaes,Mozart Santos,3.0,0.0,True
+13472613,2025,36,2025-11-28 21:30,100.0,1968.0,Santos,1959.0,Sport Recife,3,0,2,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Felipe Fernandes de Lima,Cuca,Márcio Goiano,3.0,0.0,True
+13472614,2025,36,2025-11-26 19:00,100.0,1999.0,Red Bull Bragantino,2020.0,Fortaleza,0,1,0,0,0,1,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Bruno Arleu de Araujo,Vagner Mancini,Thiago Carpini,0.0,3.0,True
+13472615,2025,36,2025-11-25 21:30,100.0,1977.0,Atlético Mineiro,5981.0,Flamengo,1,1,1,0,0,1,3.0,Arena MRV,Belo Horizonte,Rafael Rodrigo Klein,Eduardo Dominguez,Leonardo Jardim,1.0,1.0,True
+13472616,2025,36,2025-11-25 21:30,100.0,5926.0,Grêmio,1963.0,Palmeiras,3,2,1,1,2,1,1.0,Arena do Grêmio,Porto Alegre,Savio Pereira Sampaio,Luís Castro,Abel Ferreira,3.0,0.0,True
+13472617,2025,36,2025-11-29 16:00,100.0,1962.0,Vitória,21982.0,Mirassol,2,0,1,0,1,0,1.0,Estádio Manoel Barradas,Salvador,Wilton Pereira Sampaio,Jair Ventura,Rafael Guanaes,3.0,0.0,True
+13472618,2025,36,2025-11-29 21:00,100.0,2001.0,Ceará,1954.0,Cruzeiro,1,1,0,0,1,1,3.0,Estádio Governador Plácido Castelo,Fortaleza,Savio Pereira Sampaio,Mozart Santos,Artur Jorge,1.0,1.0,True
+13472619,2025,36,2025-11-28 19:00,100.0,1980.0,Juventude,1955.0,Bahia,1,1,1,1,0,0,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Fernando Antonio Mendes de Salles Nascimento Filho,Mauricio Barbieri,Rogério Ceni,1.0,1.0,True
+13472620,2025,37,2025-12-03 21:30,100.0,5981.0,Flamengo,2001.0,Ceará,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Leonardo Jardim,Mozart Santos,3.0,0.0,True
+13472621,2025,37,2025-12-02 19:00,100.0,1974.0,Vasco da Gama,21982.0,Mirassol,0,2,0,0,0,2,2.0,Estádio São Januário,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Renato Portaluppi,Rafael Guanaes,0.0,3.0,True
+13472623,2025,37,2025-11-19 19:30,100.0,1963.0,Palmeiras,1962.0,Vitória,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Lucas Paulo Torezin,Abel Ferreira,Jair Ventura,1.0,1.0,True
+13472632,2025,37,2025-11-16 19:00,100.0,1999.0,Red Bull Bragantino,1977.0,Atlético Mineiro,2,0,0,0,2,0,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Marcelo de Lima Henrique,Vagner Mancini,Eduardo Dominguez,3.0,0.0,True
+13472633,2025,38,2025-12-07 16:00,100.0,1968.0,Santos,1954.0,Cruzeiro,3,0,2,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Rodrigo Jose Pereira de Lima,Cuca,Artur Jorge,3.0,0.0,True
+13472634,2025,37,2025-12-04 19:30,100.0,1954.0,Cruzeiro,1958.0,Botafogo,2,2,1,0,1,2,3.0,Governador Magalhães Pinto,Belo Horizonte,Anderson Daronco,Artur Jorge,Franclim Carvalho,1.0,1.0,True
+13472635,2025,38,2025-12-07 16:00,100.0,1962.0,Vitória,1981.0,São Paulo,1,0,0,0,1,0,1.0,Estádio Manoel Barradas,Salvador,Wilton Pereira Sampaio,Jair Ventura,Dorival Júnior,3.0,0.0,True
+13472665,2025,31,2025-11-01 21:00,100.0,5981.0,Flamengo,1959.0,Sport Recife,3,0,0,0,3,0,1.0,Estádio do Maracanã,Rio de Janeiro,Fernando Antonio Mendes de Salles Nascimento Filho,Leonardo Jardim,Márcio Goiano,3.0,0.0,True
+13472666,2025,31,2025-11-02 20:30,100.0,1974.0,Vasco da Gama,1981.0,São Paulo,0,2,0,1,0,1,2.0,Estádio São Januário,Rio de Janeiro,Wilton Pereira Sampaio,Renato Portaluppi,Dorival Júnior,0.0,3.0,True
+13472667,2025,31,2025-11-02 16:00,100.0,1957.0,Corinthians,5926.0,Grêmio,2,0,1,0,1,0,1.0,Neo Química Arena,Sao Paulo,Davi de Oliveira Lacerda,Fernando Diniz,Luís Castro,3.0,0.0,True
+13472668,2025,21,2025-08-25 21:00,100.0,5981.0,Flamengo,1962.0,Vitória,8,0,3,0,5,0,1.0,Estádio do Maracanã,Rio de Janeiro,Felipe Fernandes de Lima,Leonardo Jardim,Jair Ventura,3.0,0.0,True
+13472669,2025,31,2025-11-01 16:00,100.0,1968.0,Santos,2020.0,Fortaleza,1,1,0,1,1,0,3.0,Estádio Urbano Caldeira,Santos,Anderson Daronco,Cuca,Thiago Carpini,1.0,1.0,True
+13472670,2025,21,2025-08-24 16:00,100.0,1974.0,Vasco da Gama,1957.0,Corinthians,2,3,0,1,2,2,2.0,Estádio São Januário,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Renato Portaluppi,Fernando Diniz,0.0,3.0,True
+13472671,2025,21,2025-08-25 19:00,100.0,1963.0,Palmeiras,1959.0,Sport Recife,3,0,1,0,2,0,1.0,Nubank Parque,Sao Paulo,Paulo Cesar Zanovelli da Silva,Abel Ferreira,Márcio Goiano,3.0,0.0,True
+13472672,2025,31,2025-11-01 18:00,100.0,21982.0,Mirassol,1958.0,Botafogo,0,0,0,0,0,0,3.0,Estádio José Maria de Campos Maia,Mirassol,Jonathan Benkenstein Pinheiro,Rafael Guanaes,Franclim Carvalho,1.0,1.0,True
+13472673,2025,21,2025-08-24 20:30,100.0,1981.0,São Paulo,1977.0,Atlético Mineiro,2,0,1,0,1,0,1.0,MorumBIS,Sao Paulo,Lucas Casagrande,Dorival Júnior,Eduardo Dominguez,3.0,0.0,True
+13472674,2025,21,2025-08-23 16:00,100.0,1999.0,Red Bull Bragantino,1961.0,Fluminense,4,2,2,1,2,1,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Lucas Paulo Torezin,Vagner Mancini,Luis Zubeldia,3.0,0.0,True
+13472675,2025,11,2025-06-01 18:30,100.0,5981.0,Flamengo,2020.0,Fortaleza,5,0,1,0,4,0,1.0,Estádio do Maracanã,Rio de Janeiro,Gustavo Ervino Bauermann,Leonardo Jardim,Thiago Carpini,3.0,0.0,True
+13472676,2025,21,2025-08-23 18:30,100.0,1954.0,Cruzeiro,1966.0,Internacional,2,1,1,1,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Matheus Delgado Candançan,Artur Jorge,Paulo Pezzolano,3.0,0.0,True
+13472677,2025,31,2025-11-01 16:00,100.0,1954.0,Cruzeiro,1962.0,Vitória,3,1,3,1,0,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Jefferson Ferreira de Moraes,Artur Jorge,Jair Ventura,3.0,0.0,True
+13472678,2025,21,2025-08-23 21:00,100.0,5926.0,Grêmio,2001.0,Ceará,0,0,0,0,0,0,3.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Mozart Santos,1.0,1.0,True
+13472679,2025,21,2025-08-24 16:00,100.0,1955.0,Bahia,1968.0,Santos,2,0,1,0,1,0,1.0,Arena Fonte Nova,Salvador,Rafael Rodrigo Klein,Rogério Ceni,Cuca,3.0,0.0,True
+13472680,2025,11,2025-05-31 21:00,100.0,1974.0,Vasco da Gama,1999.0,Red Bull Bragantino,0,2,0,2,0,0,2.0,Estádio São Januário,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Renato Portaluppi,Vagner Mancini,0.0,3.0,True
+13472681,2025,31,2025-11-02 18:30,100.0,1966.0,Internacional,1977.0,Atlético Mineiro,0,0,0,0,0,0,3.0,Estádio Beira-Rio,Porto Alegre,Alex Gomes Stefano,Paulo Pezzolano,Eduardo Dominguez,1.0,1.0,True
+13472682,2025,21,2025-08-24 18:30,100.0,2020.0,Fortaleza,21982.0,Mirassol,0,1,0,1,0,0,2.0,Estádio Governador Plácido Castelo,Fortaleza,Bruno Pereira Vasconcelos,Thiago Carpini,Rafael Guanaes,0.0,3.0,True
+13472683,2025,21,2025-08-24 18:30,100.0,1980.0,Juventude,1958.0,Botafogo,1,3,1,1,0,2,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Flavio Rodrigues De Souza,Mauricio Barbieri,Franclim Carvalho,0.0,3.0,True
+13472684,2025,11,2025-06-01 18:30,100.0,1957.0,Corinthians,1962.0,Vitória,0,0,0,0,0,0,3.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Jair Ventura,1.0,1.0,True
+13472685,2025,31,2025-11-02 16:00,100.0,1955.0,Bahia,1999.0,Red Bull Bragantino,2,1,0,1,2,0,1.0,Arena Fonte Nova,Salvador,Marcelo de Lima Henrique,Rogério Ceni,Vagner Mancini,3.0,0.0,True
+13472686,2025,22,2025-08-31 16:00,100.0,5981.0,Flamengo,5926.0,Grêmio,1,1,0,0,1,1,3.0,Estádio do Maracanã,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Leonardo Jardim,Luís Castro,1.0,1.0,True
+13472687,2025,22,2025-08-30 18:30,100.0,1958.0,Botafogo,1999.0,Red Bull Bragantino,4,1,3,1,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Lucas Casagrande,Franclim Carvalho,Vagner Mancini,3.0,0.0,True
+13472688,2025,11,2025-06-01 16:00,100.0,1968.0,Santos,1958.0,Botafogo,0,1,0,0,0,1,2.0,Estádio Urbano Caldeira,Santos,Davi de Oliveira Lacerda,Cuca,Franclim Carvalho,0.0,3.0,True
+13472689,2025,22,2025-08-31 18:30,100.0,1957.0,Corinthians,1963.0,Palmeiras,1,1,1,1,0,0,3.0,Neo Química Arena,Sao Paulo,Ramon Abatti Abel,Fernando Diniz,Abel Ferreira,1.0,1.0,True
+13472690,2025,31,2025-11-02 16:00,100.0,2001.0,Ceará,1961.0,Fluminense,2,0,1,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Lucas Paulo Torezin,Mozart Santos,Luis Zubeldia,3.0,0.0,True
+13472691,2025,22,2025-08-31 16:00,100.0,1968.0,Santos,1961.0,Fluminense,0,0,0,0,0,0,3.0,Estádio Urbano Caldeira,Santos,Wilton Pereira Sampaio,Cuca,Luis Zubeldia,1.0,1.0,True
+13472692,2025,11,2025-06-01 11:00,100.0,21982.0,Mirassol,1959.0,Sport Recife,1,0,1,0,0,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Lucas Casagrande,Rafael Guanaes,Márcio Goiano,3.0,0.0,True
+13472693,2025,22,2025-08-31 18:30,100.0,21982.0,Mirassol,1955.0,Bahia,5,1,3,0,2,1,1.0,Estádio José Maria de Campos Maia,Mirassol,Marcelo de Lima Henrique,Rafael Guanaes,Rogério Ceni,3.0,0.0,True
+13472694,2025,31,2025-11-02 18:30,100.0,1980.0,Juventude,1963.0,Palmeiras,0,2,0,1,0,1,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Savio Pereira Sampaio,Mauricio Barbieri,Abel Ferreira,0.0,3.0,True
+13472695,2025,22,2025-08-30 21:00,100.0,1954.0,Cruzeiro,1981.0,São Paulo,1,0,0,0,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Anderson Daronco,Artur Jorge,Dorival Júnior,3.0,0.0,True
+13472696,2025,11,2025-06-01 19:30,100.0,1954.0,Cruzeiro,1963.0,Palmeiras,2,1,2,0,0,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Rodrigo Jose Pereira de Lima,Artur Jorge,Abel Ferreira,3.0,0.0,True
+13472697,2025,22,2025-08-31 20:30,100.0,1966.0,Internacional,2020.0,Fortaleza,2,1,1,1,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Joao Vitor Gobi,Paulo Pezzolano,Thiago Carpini,3.0,0.0,True
+13472698,2025,32,2025-11-06 19:30,100.0,1961.0,Fluminense,21982.0,Mirassol,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Anderson Daronco,Luis Zubeldia,Rafael Guanaes,3.0,0.0,True
+13472699,2025,22,2025-08-31 18:30,100.0,1962.0,Vitória,1977.0,Atlético Mineiro,1,0,1,0,0,0,1.0,Estádio Manoel Barradas,Salvador,Alex Gomes Stefano,Jair Ventura,Eduardo Dominguez,3.0,0.0,True
+13472700,2025,11,2025-06-01 20:30,100.0,1966.0,Internacional,1961.0,Fluminense,0,2,0,1,0,1,2.0,Estádio Beira-Rio,Porto Alegre,Lucas Paulo Torezin,Paulo Pezzolano,Luis Zubeldia,0.0,3.0,True
+13472701,2025,22,2025-08-30 16:00,100.0,2001.0,Ceará,1980.0,Juventude,0,1,0,0,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Afro Rocha De Carvalho Filho,Mozart Santos,Mauricio Barbieri,0.0,3.0,True
+13472702,2025,32,2025-11-05 19:30,100.0,1958.0,Botafogo,1974.0,Vasco da Gama,3,0,1,0,2,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Arleu de Araujo,Franclim Carvalho,Renato Portaluppi,3.0,0.0,True
+13472703,2025,22,2025-08-31 20:30,100.0,1959.0,Sport Recife,1974.0,Vasco da Gama,2,3,1,2,1,1,2.0,Ilha do Retiro,Recife,Raphael Claus,Márcio Goiano,Renato Portaluppi,0.0,3.0,True
+13472704,2025,11,2025-05-31 18:30,100.0,1955.0,Bahia,1981.0,São Paulo,2,1,0,0,2,1,1.0,Arena Fonte Nova,Salvador,Anderson Daronco,Rogério Ceni,Dorival Júnior,3.0,0.0,True
+13472705,2025,23,2025-09-13 21:00,100.0,1961.0,Fluminense,1957.0,Corinthians,0,1,0,0,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Felipe Fernandes de Lima,Luis Zubeldia,Fernando Diniz,0.0,3.0,True
+13472706,2025,32,2025-11-06 21:30,100.0,1963.0,Palmeiras,1968.0,Santos,2,0,0,0,2,0,1.0,Nubank Parque,Sao Paulo,Raphael Claus,Abel Ferreira,Cuca,3.0,0.0,True
+13472707,2025,23,2025-09-14 20:30,100.0,1974.0,Vasco da Gama,2001.0,Ceará,2,2,1,1,1,1,3.0,Estádio São Januário,Rio de Janeiro,Matheus Delgado Candançan,Renato Portaluppi,Mozart Santos,1.0,1.0,True
+13472708,2025,11,2025-06-01 18:30,100.0,2001.0,Ceará,1977.0,Atlético Mineiro,0,1,0,0,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Alex Gomes Stefano,Mozart Santos,Eduardo Dominguez,0.0,3.0,True
+13472709,2025,23,2025-09-13 18:30,100.0,1963.0,Palmeiras,1966.0,Internacional,4,1,4,0,0,1,1.0,Nubank Parque,Sao Paulo,Lucas Paulo Torezin,Abel Ferreira,Paulo Pezzolano,3.0,0.0,True
+13472710,2025,32,2025-11-05 21:30,100.0,1981.0,São Paulo,5981.0,Flamengo,2,2,1,1,1,1,3.0,Estádio Urbano Caldeira,Santos,Rodrigo Jose Pereira de Lima,Dorival Júnior,Leonardo Jardim,1.0,1.0,True
+13472711,2025,23,2025-09-14 17:30,100.0,1981.0,São Paulo,1958.0,Botafogo,1,0,1,0,0,0,1.0,MorumBIS,Sao Paulo,Wilton Pereira Sampaio,Dorival Júnior,Franclim Carvalho,3.0,0.0,True
+13472712,2025,11,2025-06-01 16:00,100.0,1980.0,Juventude,5926.0,Grêmio,0,2,0,2,0,0,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Raphael Claus,Mauricio Barbieri,Luís Castro,0.0,3.0,True
+13472713,2025,23,2025-09-14 11:00,100.0,1999.0,Red Bull Bragantino,1959.0,Sport Recife,1,1,0,0,1,1,3.0,Estádio Cícero de Souza Marques,Bragança Paulista,Anderson Daronco,Vagner Mancini,Márcio Goiano,1.0,1.0,True
+13472714,2025,23,2025-09-14 16:00,100.0,1977.0,Atlético Mineiro,1968.0,Santos,1,1,0,0,1,1,3.0,Arena MRV,Belo Horizonte,Bruno Arleu de Araujo,Eduardo Dominguez,Cuca,1.0,1.0,True
+13472715,2025,32,2025-11-05 19:00,100.0,1999.0,Red Bull Bragantino,1957.0,Corinthians,2,1,1,0,1,1,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Edina Alves Batista,Vagner Mancini,Fernando Diniz,3.0,0.0,True
+13472716,2025,12,2025-06-11 15:00,60.0,1961.0,Fluminense,2001.0,Ceará,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,,Luis Zubeldia,Mozart Santos,1.0,1.0,False
+13472717,2025,23,2025-09-13 16:00,100.0,5926.0,Grêmio,21982.0,Mirassol,0,1,0,1,0,0,2.0,Arena do Grêmio,Porto Alegre,Lucas Casagrande,Luís Castro,Rafael Guanaes,0.0,3.0,True
+13472718,2025,23,2025-09-15 20:00,100.0,1955.0,Bahia,1954.0,Cruzeiro,1,2,0,0,1,2,2.0,Arena Fonte Nova,Salvador,Flavio Rodrigues De Souza,Rogério Ceni,Artur Jorge,0.0,3.0,True
+13472719,2025,32,2025-11-05 20:00,100.0,1977.0,Atlético Mineiro,1955.0,Bahia,3,0,0,0,3,0,1.0,Arena MRV,Belo Horizonte,Davi de Oliveira Lacerda,Eduardo Dominguez,Rogério Ceni,3.0,0.0,True
+13472720,2025,12,2025-06-11 15:00,60.0,1958.0,Botafogo,21982.0,Mirassol,0,0,0,0,0,0,3.0,Estádio Nilton Santos,Rio de Janeiro,,Franclim Carvalho,Rafael Guanaes,1.0,1.0,False
+13472721,2025,23,2025-09-13 16:00,100.0,2020.0,Fortaleza,1962.0,Vitória,2,0,1,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Edina Alves Batista,Thiago Carpini,Jair Ventura,3.0,0.0,True
+13472722,2025,23,2025-09-14 16:00,100.0,1980.0,Juventude,5981.0,Flamengo,0,2,0,1,0,1,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Raphael Claus,Mauricio Barbieri,Leonardo Jardim,0.0,3.0,True
+13472723,2025,32,2025-11-05 20:00,100.0,5926.0,Grêmio,1954.0,Cruzeiro,0,1,0,1,0,0,2.0,Arena do Grêmio,Porto Alegre,Lucas Paulo Torezin,Luís Castro,Artur Jorge,0.0,3.0,True
+13472724,2025,24,2025-09-21 17:30,100.0,5981.0,Flamengo,1974.0,Vasco da Gama,1,1,1,1,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Leonardo Jardim,Renato Portaluppi,1.0,1.0,True
+13472725,2025,12,2025-06-11 15:00,60.0,1963.0,Palmeiras,1980.0,Juventude,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,,Abel Ferreira,Mauricio Barbieri,1.0,1.0,False
+13472726,2025,24,2025-09-20 18:30,100.0,1958.0,Botafogo,1977.0,Atlético Mineiro,1,0,0,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Flavio Rodrigues De Souza,Franclim Carvalho,Eduardo Dominguez,3.0,0.0,True
+13472727,2025,32,2025-11-05 19:00,100.0,1962.0,Vitória,1966.0,Internacional,1,0,0,0,1,0,1.0,Estádio Manoel Barradas,Salvador,Felipe Fernandes de Lima,Jair Ventura,Paulo Pezzolano,3.0,0.0,True
+13472728,2025,24,2025-09-20 21:00,100.0,1963.0,Palmeiras,2020.0,Fortaleza,4,1,1,1,3,0,1.0,Nubank Parque,Sao Paulo,Alex Gomes Stefano,Abel Ferreira,Thiago Carpini,3.0,0.0,True
+13472729,2025,12,2025-06-12 21:30,100.0,1981.0,São Paulo,1974.0,Vasco da Gama,1,3,0,2,1,1,2.0,MorumBIS,Sao Paulo,Rafael Rodrigo Klein,Dorival Júnior,Renato Portaluppi,0.0,3.0,True
+13472730,2025,24,2025-09-21 20:30,100.0,1968.0,Santos,1981.0,São Paulo,1,0,0,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Rodrigo Jose Pereira de Lima,Cuca,Dorival Júnior,3.0,0.0,True
+13472731,2025,32,2025-11-06 20:00,100.0,2001.0,Ceará,2020.0,Fortaleza,1,1,0,1,1,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Wilton Pereira Sampaio,Mozart Santos,Thiago Carpini,1.0,1.0,True
+13472732,2025,24,2025-09-21 16:00,100.0,21982.0,Mirassol,1980.0,Juventude,2,0,2,0,0,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Davi de Oliveira Lacerda,Rafael Guanaes,Mauricio Barbieri,3.0,0.0,True
+13472733,2025,12,2025-06-12 19:00,100.0,1999.0,Red Bull Bragantino,1955.0,Bahia,0,3,0,2,0,1,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Lucas Paulo Torezin,Vagner Mancini,Rogério Ceni,0.0,3.0,True
+13472734,2025,24,2025-09-21 20:30,100.0,1954.0,Cruzeiro,1999.0,Red Bull Bragantino,2,1,1,1,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Lucas Paulo Torezin,Artur Jorge,Vagner Mancini,3.0,0.0,True
+13472735,2025,24,2025-09-21 17:30,100.0,1966.0,Internacional,5926.0,Grêmio,2,3,2,2,0,1,2.0,Estádio Beira-Rio,Porto Alegre,Marcelo de Lima Henrique,Paulo Pezzolano,Luís Castro,0.0,3.0,True
+13472736,2025,32,2025-11-05 19:00,100.0,1959.0,Sport Recife,1980.0,Juventude,0,2,0,1,0,1,2.0,Ilha do Retiro,Recife,Andre Luiz Skettino Policarpo Bento,Márcio Goiano,Mauricio Barbieri,0.0,3.0,True
+13472737,2025,12,2025-06-12 21:30,100.0,1977.0,Atlético Mineiro,1966.0,Internacional,2,0,1,0,1,0,1.0,Arena MRV,Belo Horizonte,Flavio Rodrigues De Souza,Eduardo Dominguez,Paulo Pezzolano,3.0,0.0,True
+13472738,2025,24,2025-09-20 16:00,100.0,1962.0,Vitória,1961.0,Fluminense,0,1,0,1,0,0,2.0,Estádio Manoel Barradas,Salvador,Matheus Delgado Candançan,Jair Ventura,Luis Zubeldia,0.0,3.0,True
+13472739,2025,24,2025-09-20 18:30,100.0,2001.0,Ceará,1955.0,Bahia,1,1,1,0,0,1,3.0,Estádio Governador Plácido Castelo,Fortaleza,Lucas Casagrande,Mozart Santos,Rogério Ceni,1.0,1.0,True
+13472740,2025,33,2025-11-09 18:30,100.0,5981.0,Flamengo,1968.0,Santos,3,2,1,0,2,2,1.0,Estádio do Maracanã,Rio de Janeiro,Savio Pereira Sampaio,Leonardo Jardim,Cuca,3.0,0.0,True
+13472741,2025,12,2025-06-12 20:00,100.0,5926.0,Grêmio,1957.0,Corinthians,1,1,1,1,0,0,3.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Fernando Diniz,1.0,1.0,True
+13472742,2025,24,2025-09-21 17:30,100.0,1959.0,Sport Recife,1957.0,Corinthians,1,0,0,0,1,0,1.0,Ilha do Retiro,Recife,Savio Pereira Sampaio,Márcio Goiano,Fernando Diniz,3.0,0.0,True
+13472743,2025,25,2025-09-28 16:00,100.0,1961.0,Fluminense,1958.0,Botafogo,2,0,1,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Luis Zubeldia,Franclim Carvalho,3.0,0.0,True
+13472744,2025,33,2025-11-08 18:00,100.0,1974.0,Vasco da Gama,1980.0,Juventude,1,3,1,2,0,1,2.0,Estádio São Januário,Rio de Janeiro,Fernando Antonio Mendes de Salles Nascimento Filho,Renato Portaluppi,Mauricio Barbieri,0.0,3.0,True
+13472745,2025,25,2025-09-27 18:30,100.0,1974.0,Vasco da Gama,1954.0,Cruzeiro,2,0,1,0,1,0,1.0,Estádio São Januário,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Renato Portaluppi,Artur Jorge,3.0,0.0,True
+13472746,2025,12,2025-06-12 19:00,100.0,1962.0,Vitória,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Estádio Manoel Barradas,Salvador,Alex Gomes Stefano,Jair Ventura,Artur Jorge,1.0,1.0,True
+13472747,2025,25,2025-09-28 20:30,100.0,1957.0,Corinthians,5981.0,Flamengo,1,2,0,0,1,2,2.0,Neo Química Arena,Sao Paulo,Wilton Pereira Sampaio,Fernando Diniz,Leonardo Jardim,0.0,3.0,True
+13472748,2025,33,2025-11-09 16:00,100.0,1957.0,Corinthians,2001.0,Ceará,0,1,0,1,0,0,2.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Mozart Santos,0.0,3.0,True
+13472749,2025,25,2025-09-29 20:00,100.0,1981.0,São Paulo,2001.0,Ceará,0,1,0,0,0,1,2.0,MorumBIS,Sao Paulo,Bruno Arleu de Araujo,Dorival Júnior,Mozart Santos,0.0,3.0,True
+13472750,2025,12,2025-06-12 19:30,100.0,2020.0,Fortaleza,1968.0,Santos,2,3,0,2,2,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Paulo Cesar Zanovelli da Silva,Thiago Carpini,Cuca,0.0,3.0,True
+13472751,2025,25,2025-09-28 18:30,100.0,1999.0,Red Bull Bragantino,1968.0,Santos,2,2,1,0,1,2,3.0,Estádio Cícero de Souza Marques,Bragança Paulista,Flavio Rodrigues De Souza,Vagner Mancini,Cuca,1.0,1.0,True
+13472752,2025,33,2025-11-08 21:00,100.0,1981.0,São Paulo,1999.0,Red Bull Bragantino,0,1,0,0,0,1,2.0,Estádio Urbano Caldeira,Santos,Bruno Arleu de Araujo,Dorival Júnior,Vagner Mancini,0.0,3.0,True
+13472753,2025,25,2025-09-27 21:00,100.0,1977.0,Atlético Mineiro,21982.0,Mirassol,1,0,1,0,0,0,1.0,Arena MRV,Belo Horizonte,Rafael Rodrigo Klein,Eduardo Dominguez,Rafael Guanaes,3.0,0.0,True
+13472754,2025,12,2025-06-11 15:00,60.0,1959.0,Sport Recife,5981.0,Flamengo,0,0,0,0,0,0,3.0,Ilha do Retiro,Recife,,Márcio Goiano,Leonardo Jardim,1.0,1.0,False
+13472755,2025,25,2025-09-28 11:00,100.0,5926.0,Grêmio,1962.0,Vitória,3,1,1,0,2,1,1.0,Arena do Grêmio,Porto Alegre,Raphael Claus,Luís Castro,Jair Ventura,3.0,0.0,True
+13472756,2025,25,2025-09-28 16:00,100.0,1955.0,Bahia,1963.0,Palmeiras,1,0,0,0,1,0,1.0,Arena Fonte Nova,Salvador,Anderson Daronco,Rogério Ceni,Abel Ferreira,3.0,0.0,True
+13472757,2025,33,2025-11-09 20:30,100.0,21982.0,Mirassol,1963.0,Palmeiras,2,1,2,1,0,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Flavio Rodrigues De Souza,Rafael Guanaes,Abel Ferreira,3.0,0.0,True
+13472758,2025,13,2025-07-12 16:30,100.0,5981.0,Flamengo,1981.0,São Paulo,2,0,0,0,2,0,1.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Leonardo Jardim,Dorival Júnior,3.0,0.0,True
+13472759,2025,25,2025-09-27 16:00,100.0,2020.0,Fortaleza,1959.0,Sport Recife,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Márcio Goiano,3.0,0.0,True
+13472760,2025,25,2025-09-27 18:30,100.0,1980.0,Juventude,1966.0,Internacional,1,1,0,1,1,0,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Matheus Delgado Candançan,Mauricio Barbieri,Paulo Pezzolano,1.0,1.0,True
+13472761,2025,33,2025-11-09 16:00,100.0,1954.0,Cruzeiro,1961.0,Fluminense,0,0,0,0,0,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Rodrigo Jose Pereira de Lima,Artur Jorge,Luis Zubeldia,1.0,1.0,True
+13472762,2025,13,2025-07-12 18:30,100.0,1974.0,Vasco da Gama,1958.0,Botafogo,0,2,0,0,0,2,2.0,Arena BRB Mané Garrincha,Brasilia,Anderson Daronco,Renato Portaluppi,Franclim Carvalho,0.0,3.0,True
+13472763,2025,26,2025-10-02 20:30,100.0,5981.0,Flamengo,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Leonardo Jardim,Artur Jorge,1.0,1.0,True
+13472764,2025,26,2025-10-01 21:30,100.0,1958.0,Botafogo,1955.0,Bahia,2,1,1,0,1,1,1.0,Estádio Nilton Santos,Rio de Janeiro,Felipe Fernandes de Lima,Franclim Carvalho,Rogério Ceni,3.0,0.0,True
+13472765,2025,33,2025-11-08 18:30,100.0,1966.0,Internacional,1955.0,Bahia,2,2,1,0,1,2,3.0,Estádio Beira-Rio,Porto Alegre,Lucas Paulo Torezin,Paulo Pezzolano,Rogério Ceni,1.0,1.0,True
+13472766,2025,13,2025-07-13 19:00,100.0,1957.0,Corinthians,1999.0,Red Bull Bragantino,1,2,0,1,1,1,2.0,Neo Química Arena,Sao Paulo,Bruno Arleu de Araujo,Fernando Diniz,Vagner Mancini,0.0,3.0,True
+13472767,2025,26,2025-10-01 19:00,100.0,1963.0,Palmeiras,1974.0,Vasco da Gama,3,0,3,0,0,0,1.0,Nubank Parque,Sao Paulo,Murilo Ugolini Klein,Abel Ferreira,Renato Portaluppi,3.0,0.0,True
+13472768,2025,26,2025-10-01 21:30,100.0,1968.0,Santos,5926.0,Grêmio,1,1,0,0,1,1,3.0,Estádio Urbano Caldeira,Santos,Paulo Cesar Zanovelli da Silva,Cuca,Luís Castro,1.0,1.0,True
+13472769,2025,33,2025-11-09 16:00,100.0,1962.0,Vitória,1958.0,Botafogo,0,0,0,0,0,0,3.0,Estádio Manoel Barradas,Salvador,Anderson Daronco,Jair Ventura,Franclim Carvalho,1.0,1.0,True
+13472770,2025,26,2025-10-01 19:00,100.0,21982.0,Mirassol,1999.0,Red Bull Bragantino,1,1,0,1,1,0,3.0,Estádio José Maria de Campos Maia,Mirassol,Wilton Pereira Sampaio,Rafael Guanaes,Vagner Mancini,1.0,1.0,True
+13472771,2025,13,2025-07-13 15:00,60.0,1968.0,Santos,1963.0,Palmeiras,0,0,0,0,0,0,3.0,Estádio Urbano Caldeira,Santos,,Cuca,Abel Ferreira,1.0,1.0,False
+13472772,2025,26,2025-09-30 21:30,100.0,1977.0,Atlético Mineiro,1980.0,Juventude,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,Lucas Casagrande,Eduardo Dominguez,Mauricio Barbieri,1.0,1.0,True
+13472773,2025,26,2025-10-01 19:30,100.0,1966.0,Internacional,1957.0,Corinthians,1,1,0,1,1,0,3.0,Estádio Beira-Rio,Porto Alegre,Rodrigo Jose Pereira de Lima,Paulo Pezzolano,Fernando Diniz,1.0,1.0,True
+13472774,2025,33,2025-11-09 20:30,100.0,2020.0,Fortaleza,5926.0,Grêmio,2,2,1,2,1,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Jefferson Ferreira de Moraes,Thiago Carpini,Luís Castro,1.0,1.0,True
+13472775,2025,13,2025-07-13 15:00,60.0,21982.0,Mirassol,1961.0,Fluminense,0,0,0,0,0,0,3.0,Estádio José Maria de Campos Maia,Mirassol,,Rafael Guanaes,Luis Zubeldia,1.0,1.0,False
+13472776,2025,26,2025-10-02 19:00,100.0,1962.0,Vitória,2001.0,Ceará,1,0,1,0,0,0,1.0,Estádio Manoel Barradas,Salvador,Matheus Delgado Candançan,Jair Ventura,Mozart Santos,3.0,0.0,True
+13472777,2025,26,2025-10-02 19:30,100.0,2020.0,Fortaleza,1981.0,São Paulo,0,2,0,1,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Anderson Daronco,Thiago Carpini,Dorival Júnior,0.0,3.0,True
+13472778,2025,13,2025-07-13 20:30,100.0,1954.0,Cruzeiro,5926.0,Grêmio,4,1,2,0,2,1,1.0,Governador Magalhães Pinto,Belo Horizonte,Lucas Paulo Torezin,Artur Jorge,Luís Castro,3.0,0.0,True
+13472779,2025,33,2025-11-08 16:00,100.0,1959.0,Sport Recife,1977.0,Atlético Mineiro,2,4,1,0,1,4,2.0,Ilha do Retiro,Recife,Matheus Delgado Candançan,Márcio Goiano,Eduardo Dominguez,0.0,3.0,True
+13472780,2025,26,2025-10-01 19:00,100.0,1959.0,Sport Recife,1961.0,Fluminense,2,2,0,0,2,2,3.0,Ilha do Retiro,Recife,Raphael Claus,Márcio Goiano,Luis Zubeldia,1.0,1.0,True
+13472781,2025,27,2025-10-04 18:30,100.0,1961.0,Fluminense,1977.0,Atlético Mineiro,3,0,1,0,2,0,1.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Luis Zubeldia,Eduardo Dominguez,3.0,0.0,True
+13472782,2025,13,2025-07-12 16:30,100.0,1966.0,Internacional,1962.0,Vitória,1,0,0,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Rodrigo Jose Pereira de Lima,Paulo Pezzolano,Jair Ventura,3.0,0.0,True
+13472783,2025,34,2025-11-19 21:30,100.0,1961.0,Fluminense,5981.0,Flamengo,2,1,2,0,0,1,1.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Luis Zubeldia,Leonardo Jardim,3.0,0.0,True
+13472784,2025,27,2025-10-05 16:00,100.0,1974.0,Vasco da Gama,1962.0,Vitória,4,3,1,2,3,1,1.0,Estádio São Januário,Rio de Janeiro,Fernando Antonio Mendes de Salles Nascimento Filho,Renato Portaluppi,Jair Ventura,3.0,0.0,True
+13472785,2025,27,2025-10-04 21:00,100.0,1957.0,Corinthians,21982.0,Mirassol,3,0,1,0,2,0,1.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Rafael Guanaes,3.0,0.0,True
+13472786,2025,13,2025-07-12 21:00,100.0,1955.0,Bahia,1977.0,Atlético Mineiro,2,1,0,0,2,1,1.0,Arena Fonte Nova,Salvador,Davi de Oliveira Lacerda,Rogério Ceni,Eduardo Dominguez,3.0,0.0,True
+13472787,2025,34,2025-11-18 20:30,100.0,1958.0,Botafogo,1959.0,Sport Recife,3,2,1,2,2,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Pereira Vasconcelos,Franclim Carvalho,Márcio Goiano,3.0,0.0,True
+13472788,2025,27,2025-10-05 16:00,100.0,1981.0,São Paulo,1963.0,Palmeiras,2,3,2,0,0,3,2.0,MorumBIS,Sao Paulo,Ramon Abatti Abel,Dorival Júnior,Abel Ferreira,0.0,3.0,True
+13472789,2025,27,2025-10-04 18:30,100.0,1999.0,Red Bull Bragantino,5926.0,Grêmio,1,0,0,0,1,0,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Lucas Casagrande,Vagner Mancini,Luís Castro,3.0,0.0,True
+13472790,2025,13,2025-07-13 20:30,100.0,2020.0,Fortaleza,2001.0,Ceará,0,1,0,0,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Raphael Claus,Thiago Carpini,Mozart Santos,0.0,3.0,True
+13472791,2025,34,2025-11-20 19:30,100.0,1957.0,Corinthians,1981.0,São Paulo,3,1,1,0,2,1,1.0,Neo Química Arena,Sao Paulo,Anderson Daronco,Fernando Diniz,Dorival Júnior,3.0,0.0,True
+13472792,2025,27,2025-10-05 20:30,100.0,1954.0,Cruzeiro,1959.0,Sport Recife,1,1,0,1,1,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Jefferson Ferreira de Moraes,Artur Jorge,Márcio Goiano,1.0,1.0,True
+13472793,2025,27,2025-10-04 18:30,100.0,1966.0,Internacional,1958.0,Botafogo,2,0,1,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Flavio Rodrigues De Souza,Paulo Pezzolano,Franclim Carvalho,3.0,0.0,True
+13472794,2025,13,2025-07-14 20:00,100.0,1980.0,Juventude,1959.0,Sport Recife,2,0,1,0,1,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Jefferson Ferreira de Moraes,Mauricio Barbieri,Márcio Goiano,3.0,0.0,True
+13472795,2025,34,2025-11-19 21:30,100.0,1968.0,Santos,21982.0,Mirassol,1,1,1,0,0,1,3.0,Estádio Urbano Caldeira,Santos,Matheus Delgado Candançan,Cuca,Rafael Guanaes,1.0,1.0,True
+13472796,2025,27,2025-10-05 18:30,100.0,1955.0,Bahia,5981.0,Flamengo,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Rodrigo Jose Pereira de Lima,Rogério Ceni,Leonardo Jardim,3.0,0.0,True
+13472797,2025,27,2025-10-05 20:30,100.0,2001.0,Ceará,1968.0,Santos,3,0,1,0,2,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Anderson Daronco,Mozart Santos,Cuca,3.0,0.0,True
+13472798,2025,14,2025-07-17 19:30,100.0,1961.0,Fluminense,1954.0,Cruzeiro,0,2,0,2,0,0,2.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Luis Zubeldia,Artur Jorge,0.0,3.0,True
+13472799,2025,27,2025-10-05 18:30,100.0,1980.0,Juventude,2020.0,Fortaleza,1,2,1,0,0,2,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Lucas Paulo Torezin,Mauricio Barbieri,Thiago Carpini,0.0,3.0,True
+13472801,2025,28,2025-10-16 21:30,100.0,1961.0,Fluminense,1980.0,Juventude,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Jefferson Ferreira de Moraes,Luis Zubeldia,Mauricio Barbieri,3.0,0.0,True
+13472802,2025,28,2025-10-15 19:30,100.0,1958.0,Botafogo,5981.0,Flamengo,0,3,0,1,0,2,2.0,Estádio Nilton Santos,Rio de Janeiro,Alex Gomes Stefano,Franclim Carvalho,Leonardo Jardim,0.0,3.0,True
+13472803,2025,14,2025-07-16 21:30,100.0,1958.0,Botafogo,1962.0,Vitória,0,0,0,0,0,0,3.0,Estádio Nilton Santos,Rio de Janeiro,Lucas Casagrande,Franclim Carvalho,Jair Ventura,1.0,1.0,True
+13472804,2025,34,2025-11-19 15:00,60.0,1977.0,Atlético Mineiro,1963.0,Palmeiras,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,,Eduardo Dominguez,Abel Ferreira,1.0,1.0,False
+13472805,2025,28,2025-10-15 19:00,100.0,1963.0,Palmeiras,1999.0,Red Bull Bragantino,5,1,1,1,4,0,1.0,Nubank Parque,Sao Paulo,Raphael Claus,Abel Ferreira,Vagner Mancini,3.0,0.0,True
+13472806,2025,28,2025-10-15 21:30,100.0,1968.0,Santos,1957.0,Corinthians,3,1,2,0,1,1,1.0,Estádio Urbano Caldeira,Santos,Flavio Rodrigues De Souza,Cuca,Fernando Diniz,3.0,0.0,True
+13472807,2025,14,2025-07-16 19:00,100.0,1963.0,Palmeiras,21982.0,Mirassol,1,1,0,0,1,1,3.0,Nubank Parque,Sao Paulo,Savio Pereira Sampaio,Abel Ferreira,Rafael Guanaes,1.0,1.0,True
+13472808,2025,34,2025-11-19 21:30,100.0,5926.0,Grêmio,1974.0,Vasco da Gama,2,0,0,0,2,0,1.0,Arena do Grêmio,Porto Alegre,Raphael Claus,Luís Castro,Renato Portaluppi,3.0,0.0,True
+13472809,2025,28,2025-10-15 20:00,100.0,21982.0,Mirassol,1966.0,Internacional,3,1,2,1,1,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Bruno Arleu de Araujo,Rafael Guanaes,Paulo Pezzolano,3.0,0.0,True
+13472810,2025,28,2025-10-15 21:30,100.0,1977.0,Atlético Mineiro,1954.0,Cruzeiro,1,1,0,0,1,1,3.0,Arena MRV,Belo Horizonte,Paulo Cesar Zanovelli da Silva,Eduardo Dominguez,Artur Jorge,1.0,1.0,True
+13472811,2025,14,2025-07-16 20:00,100.0,1968.0,Santos,5981.0,Flamengo,1,0,0,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Felipe Fernandes de Lima,Cuca,Leonardo Jardim,3.0,0.0,True
+13472812,2025,28,2025-10-16 19:00,100.0,5926.0,Grêmio,1981.0,São Paulo,2,0,1,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Dorival Júnior,3.0,0.0,True
+13472813,2025,34,2025-11-20 18:00,100.0,1955.0,Bahia,2020.0,Fortaleza,2,3,0,2,2,1,2.0,Arena Fonte Nova,Salvador,Rafael Rodrigo Klein,Rogério Ceni,Thiago Carpini,0.0,3.0,True
+13472814,2025,28,2025-10-16 21:30,100.0,1962.0,Vitória,1955.0,Bahia,2,1,1,1,1,0,1.0,Estádio Manoel Barradas,Salvador,Anderson Daronco,Jair Ventura,Rogério Ceni,3.0,0.0,True
+13472815,2025,14,2025-07-16 21:30,100.0,1999.0,Red Bull Bragantino,1981.0,São Paulo,2,2,1,1,1,1,3.0,Estádio Cícero de Souza Marques,Bragança Paulista,Alex Gomes Stefano,Vagner Mancini,Dorival Júnior,1.0,1.0,True
+13472816,2025,28,2025-10-15 21:30,100.0,2020.0,Fortaleza,1974.0,Vasco da Gama,0,2,0,1,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Wilton Pereira Sampaio,Thiago Carpini,Renato Portaluppi,0.0,3.0,True
+13472817,2025,34,2025-11-20 21:30,100.0,2001.0,Ceará,1966.0,Internacional,1,2,0,0,1,2,2.0,Estádio Governador Plácido Castelo,Fortaleza,Rodrigo Jose Pereira de Lima,Mozart Santos,Paulo Pezzolano,0.0,3.0,True
+13472818,2025,28,2025-10-15 20:00,100.0,1959.0,Sport Recife,2001.0,Ceará,1,1,0,0,1,1,3.0,Ilha do Retiro,Recife,Savio Pereira Sampaio,Márcio Goiano,Mozart Santos,1.0,1.0,True
+13472819,2025,14,2025-07-16 15:00,60.0,1977.0,Atlético Mineiro,1959.0,Sport Recife,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,,Eduardo Dominguez,Márcio Goiano,1.0,1.0,False
+13472820,2025,29,2025-10-19 16:00,100.0,5981.0,Flamengo,1963.0,Palmeiras,3,2,3,1,0,1,1.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Leonardo Jardim,Abel Ferreira,3.0,0.0,True
+13472821,2025,34,2025-11-20 16:00,100.0,1980.0,Juventude,1954.0,Cruzeiro,3,3,2,1,1,2,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Savio Pereira Sampaio,Mauricio Barbieri,Artur Jorge,1.0,1.0,True
+13472822,2025,29,2025-10-20 19:30,100.0,1974.0,Vasco da Gama,1961.0,Fluminense,2,0,1,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Wagner do Nascimento Magalhaes,Renato Portaluppi,Luis Zubeldia,3.0,0.0,True
+13472823,2025,14,2025-07-29 20:30,100.0,5926.0,Grêmio,2020.0,Fortaleza,2,1,2,1,0,0,1.0,Arena do Grêmio,Porto Alegre,Alex Gomes Stefano,Luís Castro,Thiago Carpini,3.0,0.0,True
+13472824,2025,29,2025-10-18 18:30,100.0,1957.0,Corinthians,1977.0,Atlético Mineiro,1,0,0,0,1,0,1.0,Neo Química Arena,Sao Paulo,Alex Gomes Stefano,Fernando Diniz,Eduardo Dominguez,3.0,0.0,True
+13472825,2025,29,2025-10-20 21:30,100.0,1968.0,Santos,1962.0,Vitória,0,1,0,1,0,0,2.0,Estádio Urbano Caldeira,Santos,Rafael Rodrigo Klein,Cuca,Jair Ventura,0.0,3.0,True
+13472826,2025,14,2025-07-16 15:00,60.0,1955.0,Bahia,1966.0,Internacional,0,0,0,0,0,0,3.0,Arena Fonte Nova,Salvador,,Rogério Ceni,Paulo Pezzolano,1.0,1.0,False
+13472827,2025,29,2025-10-19 18:30,100.0,21982.0,Mirassol,1981.0,São Paulo,3,0,2,0,1,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Matheus Delgado Candançan,Rafael Guanaes,Dorival Júnior,3.0,0.0,True
+13472828,2025,29,2025-10-18 21:00,100.0,1954.0,Cruzeiro,2020.0,Fortaleza,1,0,1,0,0,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Rodrigo Jose Pereira de Lima,Artur Jorge,Thiago Carpini,3.0,0.0,True
+13472829,2025,14,2025-07-16 19:30,100.0,2001.0,Ceará,1957.0,Corinthians,0,1,0,0,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Paulo Cesar Zanovelli da Silva,Mozart Santos,Fernando Diniz,0.0,3.0,True
+13472830,2025,29,2025-10-19 18:30,100.0,1966.0,Internacional,1959.0,Sport Recife,2,0,1,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Lucas Paulo Torezin,Paulo Pezzolano,Márcio Goiano,3.0,0.0,True
+13472831,2025,29,2025-10-19 20:30,100.0,1955.0,Bahia,5926.0,Grêmio,4,0,2,0,2,0,1.0,Arena Fonte Nova,Salvador,Raphael Claus,Rogério Ceni,Luís Castro,3.0,0.0,True
+13472832,2025,29,2025-10-19 18:30,100.0,2001.0,Ceará,1958.0,Botafogo,0,2,0,1,0,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Mozart Santos,Franclim Carvalho,0.0,3.0,True
+13472833,2025,14,2025-07-16 15:00,60.0,1980.0,Juventude,1974.0,Vasco da Gama,0,0,0,0,0,0,3.0,Estádio Alfredo Jaconi,Caxias do Sul,,Mauricio Barbieri,Renato Portaluppi,1.0,1.0,False
+13472834,2025,29,2025-10-20 19:00,100.0,1980.0,Juventude,1999.0,Red Bull Bragantino,1,0,1,0,0,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Felipe Fernandes de Lima,Mauricio Barbieri,Vagner Mancini,3.0,0.0,True
+13472835,2025,30,2025-10-25 17:30,100.0,1961.0,Fluminense,1966.0,Internacional,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Luis Zubeldia,Paulo Pezzolano,3.0,0.0,True
+13472836,2025,15,2025-07-20 19:30,100.0,5981.0,Flamengo,1961.0,Fluminense,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Raphael Claus,Leonardo Jardim,Luis Zubeldia,3.0,0.0,True
+13472837,2025,30,2025-10-26 16:00,100.0,1958.0,Botafogo,1968.0,Santos,2,2,2,1,0,1,3.0,Estádio Nilton Santos,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Franclim Carvalho,Cuca,1.0,1.0,True
+13472838,2025,30,2025-10-26 20:30,100.0,1963.0,Palmeiras,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Rafael Rodrigo Klein,Abel Ferreira,Artur Jorge,1.0,1.0,True
+13472839,2025,15,2025-07-19 17:30,100.0,1974.0,Vasco da Gama,5926.0,Grêmio,1,1,0,0,1,1,3.0,Estádio São Januário,Rio de Janeiro,Felipe Fernandes de Lima,Renato Portaluppi,Luís Castro,1.0,1.0,True
+13472840,2025,30,2025-10-25 21:30,100.0,1981.0,São Paulo,1955.0,Bahia,2,0,2,0,0,0,1.0,MorumBIS,Sao Paulo,Lucas Paulo Torezin,Dorival Júnior,Rogério Ceni,3.0,0.0,True
+13472841,2025,30,2025-10-26 18:30,100.0,1999.0,Red Bull Bragantino,1974.0,Vasco da Gama,0,3,0,1,0,2,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Savio Pereira Sampaio,Vagner Mancini,Renato Portaluppi,0.0,3.0,True
+13472842,2025,15,2025-07-20 17:30,100.0,1963.0,Palmeiras,1977.0,Atlético Mineiro,3,2,1,1,2,1,1.0,Nubank Parque,Sao Paulo,Alex Gomes Stefano,Abel Ferreira,Eduardo Dominguez,3.0,0.0,True
+13472843,2025,30,2025-10-25 16:00,100.0,1977.0,Atlético Mineiro,2001.0,Ceará,1,0,1,0,0,0,1.0,Arena MRV,Belo Horizonte,Bruno Arleu de Araujo,Eduardo Dominguez,Mozart Santos,3.0,0.0,True
+13472844,2025,30,2025-10-26 16:00,100.0,5926.0,Grêmio,1980.0,Juventude,3,1,1,0,2,1,1.0,Arena do Grêmio,Porto Alegre,Alex Gomes Stefano,Luís Castro,Mauricio Barbieri,3.0,0.0,True
+13472845,2025,15,2025-07-19 21:00,100.0,1981.0,São Paulo,1957.0,Corinthians,2,0,2,0,0,0,1.0,MorumBIS,Sao Paulo,Anderson Daronco,Dorival Júnior,Fernando Diniz,3.0,0.0,True
+13472846,2025,30,2025-10-25 16:00,100.0,1962.0,Vitória,1957.0,Corinthians,0,1,0,0,0,1,2.0,Estádio Manoel Barradas,Salvador,Wilton Pereira Sampaio,Jair Ventura,Fernando Diniz,0.0,3.0,True
+13472847,2025,30,2025-10-25 19:30,100.0,2020.0,Fortaleza,5981.0,Flamengo,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Davi de Oliveira Lacerda,Thiago Carpini,Leonardo Jardim,3.0,0.0,True
+13472848,2025,15,2025-07-19 18:30,100.0,21982.0,Mirassol,1968.0,Santos,3,0,0,0,3,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Matheus Delgado Candançan,Rafael Guanaes,Cuca,3.0,0.0,True
+13472849,2025,30,2025-10-25 18:30,100.0,1959.0,Sport Recife,21982.0,Mirassol,1,2,1,1,0,1,2.0,Ilha do Retiro,Recife,Jefferson Ferreira de Moraes,Márcio Goiano,Rafael Guanaes,0.0,3.0,True
+13472850,2025,15,2025-07-20 16:00,100.0,1954.0,Cruzeiro,1980.0,Juventude,4,0,1,0,3,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Lucas Casagrande,Artur Jorge,Mauricio Barbieri,3.0,0.0,True
+13472851,2025,15,2025-07-20 11:00,100.0,1966.0,Internacional,2001.0,Ceará,1,0,1,0,0,0,1.0,Estádio Beira-Rio,Porto Alegre,Davi de Oliveira Lacerda,Paulo Pezzolano,Mozart Santos,3.0,0.0,True
+13472852,2025,15,2025-07-20 16:00,100.0,1962.0,Vitória,1999.0,Red Bull Bragantino,1,0,1,0,0,0,1.0,Estádio Manoel Barradas,Salvador,Rodrigo Jose Pereira de Lima,Jair Ventura,Vagner Mancini,3.0,0.0,True
+13472853,2025,15,2025-07-19 16:00,100.0,2020.0,Fortaleza,1955.0,Bahia,1,1,1,0,0,1,3.0,Estádio Governador Plácido Castelo,Fortaleza,Wilton Pereira Sampaio,Thiago Carpini,Rogério Ceni,1.0,1.0,True
+13472854,2025,15,2025-07-20 17:30,100.0,1959.0,Sport Recife,1958.0,Botafogo,0,1,0,0,0,1,2.0,Ilha do Retiro,Recife,Flavio Rodrigues De Souza,Márcio Goiano,Franclim Carvalho,0.0,3.0,True
+13472855,2025,16,2025-07-23 19:00,100.0,1961.0,Fluminense,1963.0,Palmeiras,1,2,1,1,0,1,2.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Luis Zubeldia,Abel Ferreira,0.0,3.0,True
+13472857,2025,16,2025-07-23 19:30,100.0,1957.0,Corinthians,1954.0,Cruzeiro,0,0,0,0,0,0,3.0,Neo Química Arena,Sao Paulo,Alex Gomes Stefano,Fernando Diniz,Artur Jorge,1.0,1.0,True
+13472858,2025,16,2025-07-23 21:30,100.0,1968.0,Santos,1966.0,Internacional,1,2,0,1,1,1,2.0,Estádio Urbano Caldeira,Santos,Lucas Paulo Torezin,Cuca,Paulo Pezzolano,0.0,3.0,True
+13472859,2025,16,2025-07-23 21:30,100.0,1999.0,Red Bull Bragantino,5981.0,Flamengo,1,2,0,0,1,2,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Davi de Oliveira Lacerda,Vagner Mancini,Leonardo Jardim,0.0,3.0,True
+13472860,2025,16,2025-07-23 15:00,60.0,1977.0,Atlético Mineiro,2020.0,Fortaleza,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,,Eduardo Dominguez,Thiago Carpini,1.0,1.0,False
+13472862,2025,16,2025-07-23 21:30,100.0,1962.0,Vitória,1959.0,Sport Recife,2,2,0,0,2,2,3.0,Estádio Manoel Barradas,Salvador,Lucas Canetto Bellote,Jair Ventura,Márcio Goiano,1.0,1.0,True
+13472863,2025,16,2025-07-23 19:00,100.0,2001.0,Ceará,21982.0,Mirassol,0,2,0,2,0,0,2.0,Estádio Governador Plácido Castelo,Fortaleza,Lucas Casagrande,Mozart Santos,Rafael Guanaes,0.0,3.0,True
+13472864,2025,16,2025-07-24 19:00,100.0,1980.0,Juventude,1981.0,São Paulo,0,1,0,0,0,1,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Savio Pereira Sampaio,Mauricio Barbieri,Dorival Júnior,0.0,3.0,True
+13472865,2025,17,2025-07-27 20:30,100.0,5981.0,Flamengo,1977.0,Atlético Mineiro,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Leonardo Jardim,Eduardo Dominguez,3.0,0.0,True
+13472866,2025,17,2025-07-26 18:30,100.0,1958.0,Botafogo,1957.0,Corinthians,1,1,1,0,0,1,3.0,Estádio Nilton Santos,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Franclim Carvalho,Fernando Diniz,1.0,1.0,True
+13472867,2025,17,2025-07-26 21:00,100.0,1963.0,Palmeiras,5926.0,Grêmio,1,0,1,0,0,0,1.0,Nubank Parque,Sao Paulo,Paulo Cesar Zanovelli da Silva,Abel Ferreira,Luís Castro,3.0,0.0,True
+13472868,2025,17,2025-07-27 16:00,100.0,1981.0,São Paulo,1961.0,Fluminense,3,1,1,0,2,1,1.0,MorumBIS,Sao Paulo,Davi de Oliveira Lacerda,Dorival Júnior,Luis Zubeldia,3.0,0.0,True
+13472869,2025,17,2025-07-26 18:30,100.0,21982.0,Mirassol,1962.0,Vitória,1,1,1,1,0,0,3.0,Estádio José Maria de Campos Maia,Mirassol,Bruno Arleu de Araujo,Rafael Guanaes,Jair Ventura,1.0,1.0,True
+13472870,2025,17,2025-07-27 16:00,100.0,1954.0,Cruzeiro,2001.0,Ceará,1,2,1,1,0,1,2.0,Governador Magalhães Pinto,Belo Horizonte,Raphael Claus,Artur Jorge,Mozart Santos,0.0,3.0,True
+13472871,2025,17,2025-07-27 18:30,100.0,1966.0,Internacional,1974.0,Vasco da Gama,1,1,0,1,1,0,3.0,Estádio Beira-Rio,Porto Alegre,Flavio Rodrigues De Souza,Paulo Pezzolano,Renato Portaluppi,1.0,1.0,True
+13472872,2025,17,2025-07-27 18:30,100.0,1955.0,Bahia,1980.0,Juventude,3,0,1,0,2,0,1.0,Arena Fonte Nova,Salvador,Matheus Delgado Candançan,Rogério Ceni,Mauricio Barbieri,3.0,0.0,True
+13472873,2025,17,2025-07-26 18:30,100.0,2020.0,Fortaleza,1999.0,Red Bull Bragantino,3,1,2,1,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Wagner do Nascimento Magalhaes,Thiago Carpini,Vagner Mancini,3.0,0.0,True
+13472874,2025,17,2025-07-26 18:30,100.0,1959.0,Sport Recife,1968.0,Santos,2,2,1,0,1,2,3.0,Ilha do Retiro,Recife,Rafael Rodrigo Klein,Márcio Goiano,Cuca,1.0,1.0,True
+13472875,2025,18,2025-08-02 21:00,100.0,1961.0,Fluminense,5926.0,Grêmio,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Lucas Paulo Torezin,Luis Zubeldia,Luís Castro,3.0,0.0,True
+13472876,2025,18,2025-08-03 16:00,100.0,1958.0,Botafogo,1954.0,Cruzeiro,0,2,0,2,0,0,2.0,Estádio Nilton Santos,Rio de Janeiro,Matheus Delgado Candançan,Franclim Carvalho,Artur Jorge,0.0,3.0,True
+13472877,2025,18,2025-08-03 16:00,100.0,1957.0,Corinthians,2020.0,Fortaleza,1,1,0,1,1,0,3.0,Neo Química Arena,Sao Paulo,Felipe Fernandes de Lima,Fernando Diniz,Thiago Carpini,1.0,1.0,True
+13472878,2025,18,2025-08-04 20:00,100.0,1968.0,Santos,1980.0,Juventude,3,1,2,1,1,0,1.0,Estádio Urbano Caldeira,Santos,Paulo Cesar Zanovelli da Silva,Cuca,Mauricio Barbieri,3.0,0.0,True
+13472879,2025,18,2025-08-02 18:30,100.0,21982.0,Mirassol,1974.0,Vasco da Gama,3,2,0,0,3,2,1.0,Estádio José Maria de Campos Maia,Mirassol,Wilton Pereira Sampaio,Rafael Guanaes,Renato Portaluppi,3.0,0.0,True
+13472880,2025,18,2025-08-03 18:30,100.0,1977.0,Atlético Mineiro,1999.0,Red Bull Bragantino,2,1,1,0,1,1,1.0,Arena MRV,Belo Horizonte,Bruno Arleu de Araujo,Eduardo Dominguez,Vagner Mancini,3.0,0.0,True
+13472881,2025,18,2025-08-03 20:30,100.0,1966.0,Internacional,1981.0,São Paulo,1,2,0,1,1,1,2.0,Estádio Beira-Rio,Porto Alegre,Alex Gomes Stefano,Paulo Pezzolano,Dorival Júnior,0.0,3.0,True
+13472882,2025,18,2025-08-03 19:30,100.0,1962.0,Vitória,1963.0,Palmeiras,2,2,1,0,1,2,3.0,Estádio Manoel Barradas,Salvador,Davi de Oliveira Lacerda,Jair Ventura,Abel Ferreira,1.0,1.0,True
+13472883,2025,18,2025-08-03 18:30,100.0,2001.0,Ceará,5981.0,Flamengo,1,1,0,1,1,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Rodrigo Jose Pereira de Lima,Mozart Santos,Leonardo Jardim,1.0,1.0,True
+13472884,2025,18,2025-08-02 16:00,100.0,1959.0,Sport Recife,1955.0,Bahia,0,0,0,0,0,0,3.0,Ilha do Retiro,Recife,Anderson Daronco,Márcio Goiano,Rogério Ceni,1.0,1.0,True
+13472886,2025,19,2025-08-09 18:30,100.0,5981.0,Flamengo,21982.0,Mirassol,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Paulo Cesar Zanovelli da Silva,Leonardo Jardim,Rafael Guanaes,3.0,0.0,True
+13472887,2025,19,2025-08-10 16:00,100.0,1974.0,Vasco da Gama,1977.0,Atlético Mineiro,1,1,1,1,0,0,3.0,Estádio São Januário,Rio de Janeiro,Davi de Oliveira Lacerda,Renato Portaluppi,Eduardo Dominguez,1.0,1.0,True
+13472888,2025,19,2025-08-10 16:00,100.0,1963.0,Palmeiras,2001.0,Ceará,2,1,0,0,2,1,1.0,Nubank Parque,Sao Paulo,Lucas Paulo Torezin,Abel Ferreira,Mozart Santos,3.0,0.0,True
+13472889,2025,19,2025-08-09 18:30,100.0,1981.0,São Paulo,1962.0,Vitória,2,0,1,0,1,0,1.0,MorumBIS,Sao Paulo,Bruno Arleu de Araujo,Dorival Júnior,Jair Ventura,3.0,0.0,True
+13472890,2025,19,2025-08-09 18:30,100.0,1999.0,Red Bull Bragantino,1966.0,Internacional,1,3,0,2,1,1,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Felipe Fernandes de Lima,Vagner Mancini,Paulo Pezzolano,0.0,3.0,True
+13472891,2025,19,2025-08-10 18:30,100.0,1954.0,Cruzeiro,1968.0,Santos,1,2,1,0,0,2,2.0,Governador Magalhães Pinto,Belo Horizonte,Wilton Pereira Sampaio,Artur Jorge,Cuca,0.0,3.0,True
+13472892,2025,19,2025-08-10 20:30,100.0,5926.0,Grêmio,1959.0,Sport Recife,0,1,0,0,0,1,2.0,Arena do Grêmio,Porto Alegre,Yuri Elino Ferreira Da Cruz,Luís Castro,Márcio Goiano,0.0,3.0,True
+13472893,2025,19,2025-08-09 21:00,100.0,1955.0,Bahia,1961.0,Fluminense,3,3,2,1,1,2,3.0,Arena Fonte Nova,Salvador,Jefferson Ferreira de Moraes,Rogério Ceni,Luis Zubeldia,1.0,1.0,True
+13472894,2025,19,2025-08-09 20:30,100.0,2020.0,Fortaleza,1958.0,Botafogo,0,5,0,2,0,3,2.0,Estádio Governador Plácido Castelo,Fortaleza,Anderson Daronco,Thiago Carpini,Franclim Carvalho,0.0,3.0,True
+13472895,2025,19,2025-08-11 20:00,100.0,1980.0,Juventude,1957.0,Corinthians,2,1,1,0,1,1,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Lucas Casagrande,Mauricio Barbieri,Fernando Diniz,3.0,0.0,True
+13472896,2025,20,2025-08-16 16:00,100.0,1961.0,Fluminense,2020.0,Fortaleza,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Luis Zubeldia,Thiago Carpini,3.0,0.0,True
+13472898,2025,20,2025-08-17 20:30,100.0,1958.0,Botafogo,1963.0,Palmeiras,0,1,0,1,0,0,2.0,Estádio Nilton Santos,Rio de Janeiro,Davi de Oliveira Lacerda,Franclim Carvalho,Abel Ferreira,0.0,3.0,True
+13472899,2025,20,2025-08-16 21:00,100.0,1957.0,Corinthians,1955.0,Bahia,1,2,1,2,0,0,2.0,Neo Química Arena,Sao Paulo,Paulo Cesar Zanovelli da Silva,Fernando Diniz,Rogério Ceni,0.0,3.0,True
+13472900,2025,20,2025-08-17 16:00,100.0,1968.0,Santos,1974.0,Vasco da Gama,0,6,0,1,0,5,2.0,Estádio Urbano Caldeira,Santos,Ramon Abatti Abel,Cuca,Renato Portaluppi,0.0,3.0,True
+13472901,2025,20,2025-08-18 20:00,100.0,21982.0,Mirassol,1954.0,Cruzeiro,1,1,0,1,1,0,3.0,Estádio José Maria de Campos Maia,Mirassol,Bruno Arleu de Araujo,Rafael Guanaes,Artur Jorge,1.0,1.0,True
+13472902,2025,20,2025-08-17 16:00,100.0,1977.0,Atlético Mineiro,5926.0,Grêmio,1,3,1,1,0,2,2.0,Arena MRV,Belo Horizonte,Alex Gomes Stefano,Eduardo Dominguez,Luís Castro,0.0,3.0,True
+13472903,2025,20,2025-08-17 18:30,100.0,1966.0,Internacional,5981.0,Flamengo,1,3,0,2,1,1,2.0,Estádio Beira-Rio,Porto Alegre,Rodrigo Jose Pereira de Lima,Paulo Pezzolano,Leonardo Jardim,0.0,3.0,True
+13472904,2025,20,2025-08-16 18:30,100.0,1962.0,Vitória,1980.0,Juventude,2,2,1,0,1,2,3.0,Estádio Manoel Barradas,Salvador,Raphael Claus,Jair Ventura,Mauricio Barbieri,1.0,1.0,True
+13472905,2025,20,2025-08-16 16:00,100.0,2001.0,Ceará,1999.0,Red Bull Bragantino,1,0,1,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Yuri Elino Ferreira Da Cruz,Mozart Santos,Vagner Mancini,3.0,0.0,True
+13472906,2025,20,2025-08-16 18:30,100.0,1959.0,Sport Recife,1981.0,São Paulo,2,2,1,0,1,2,3.0,Ilha do Retiro,Recife,Lucas Paulo Torezin,Márcio Goiano,Dorival Júnior,1.0,1.0,True
+13473338,2025,1,2025-03-29 21:00,100.0,5981.0,Flamengo,1966.0,Internacional,1,1,0,1,1,0,3.0,Estádio do Maracanã,Rio de Janeiro,Davi de Oliveira Lacerda,Leonardo Jardim,Paulo Pezzolano,1.0,1.0,True
+13473339,2025,1,2025-03-30 18:30,100.0,1974.0,Vasco da Gama,1968.0,Santos,2,1,0,1,2,0,1.0,Estádio São Januário,Rio de Janeiro,Rafael Rodrigo Klein,Renato Portaluppi,Cuca,3.0,0.0,True
+13473340,2025,1,2025-03-30 16:00,100.0,1963.0,Palmeiras,1958.0,Botafogo,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Ramon Abatti Abel,Abel Ferreira,Franclim Carvalho,1.0,1.0,True
+13473341,2025,1,2025-03-29 18:30,100.0,1981.0,São Paulo,1959.0,Sport Recife,0,0,0,0,0,0,3.0,MorumBIS,Sao Paulo,Felipe Fernandes de Lima,Dorival Júnior,Márcio Goiano,1.0,1.0,True
+13473342,2025,1,2025-03-31 20:00,100.0,1999.0,Red Bull Bragantino,2001.0,Ceará,2,2,1,2,1,0,3.0,Estádio Nabi Abi Chedid,Bragança Paulista,Bruno Pereira Vasconcelos,Vagner Mancini,Mozart Santos,1.0,1.0,True
+13473343,2025,1,2025-03-29 18:30,100.0,1954.0,Cruzeiro,21982.0,Mirassol,2,1,2,1,0,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Alex Gomes Stefano,Artur Jorge,Rafael Guanaes,3.0,0.0,True
+13473344,2025,1,2025-03-29 18:30,100.0,5926.0,Grêmio,1977.0,Atlético Mineiro,2,1,2,0,0,1,1.0,Arena do Grêmio,Porto Alegre,Raphael Claus,Luís Castro,Eduardo Dominguez,3.0,0.0,True
+13473345,2025,1,2025-03-30 20:00,100.0,1955.0,Bahia,1957.0,Corinthians,1,1,1,0,0,1,3.0,Arena Fonte Nova,Salvador,Bruno Arleu de Araujo,Rogério Ceni,Fernando Diniz,1.0,1.0,True
+13473346,2025,1,2025-03-29 18:30,100.0,2020.0,Fortaleza,1961.0,Fluminense,2,0,2,0,0,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Rodrigo Jose Pereira de Lima,Thiago Carpini,Luis Zubeldia,3.0,0.0,True
+13473347,2025,1,2025-03-29 18:30,100.0,1980.0,Juventude,1962.0,Vitória,2,0,1,0,1,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Paulo Cesar Zanovelli da Silva,Mauricio Barbieri,Jair Ventura,3.0,0.0,True
+13473348,2025,2,2025-04-06 16:00,100.0,1961.0,Fluminense,1999.0,Red Bull Bragantino,2,1,1,0,1,1,1.0,Estádio do Maracanã,Rio de Janeiro,Wilton Pereira Sampaio,Luis Zubeldia,Vagner Mancini,3.0,0.0,True
+13473349,2025,2,2025-04-05 21:00,100.0,1958.0,Botafogo,1980.0,Juventude,2,0,1,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Franclim Carvalho,Mauricio Barbieri,3.0,0.0,True
+13473350,2025,2,2025-04-05 18:30,100.0,1957.0,Corinthians,1974.0,Vasco da Gama,3,0,2,0,1,0,1.0,Neo Química Arena,Sao Paulo,Anderson Daronco,Fernando Diniz,Renato Portaluppi,3.0,0.0,True
+13473351,2025,2,2025-04-06 20:30,100.0,1968.0,Santos,1955.0,Bahia,2,2,0,1,2,1,3.0,Estádio Urbano Caldeira,Santos,Alex Gomes Stefano,Cuca,Rogério Ceni,1.0,1.0,True
+13473352,2025,2,2025-04-06 18:30,100.0,21982.0,Mirassol,2020.0,Fortaleza,1,1,0,1,1,0,3.0,Estádio José Maria de Campos Maia,Mirassol,Savio Pereira Sampaio,Rafael Guanaes,Thiago Carpini,1.0,1.0,True
+13473353,2025,2,2025-04-06 16:00,100.0,1977.0,Atlético Mineiro,1981.0,São Paulo,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,Ramon Abatti Abel,Eduardo Dominguez,Dorival Júnior,1.0,1.0,True
+13473354,2025,2,2025-04-06 18:30,100.0,1966.0,Internacional,1954.0,Cruzeiro,3,0,2,0,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Marcelo de Lima Henrique,Paulo Pezzolano,Artur Jorge,3.0,0.0,True
+13473355,2025,2,2025-04-06 18:30,100.0,1962.0,Vitória,5981.0,Flamengo,1,2,0,0,1,2,2.0,Estádio Manoel Barradas,Salvador,Rafael Rodrigo Klein,Jair Ventura,Leonardo Jardim,0.0,3.0,True
+13473356,2025,2,2025-04-05 18:30,100.0,2001.0,Ceará,5926.0,Grêmio,2,0,1,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Edina Alves Batista,Mozart Santos,Luís Castro,3.0,0.0,True
+13473357,2025,2,2025-04-06 18:30,100.0,1959.0,Sport Recife,1963.0,Palmeiras,1,2,1,1,0,1,2.0,Ilha do Retiro,Recife,Bruno Arleu de Araujo,Márcio Goiano,Abel Ferreira,0.0,3.0,True
+13473358,2025,3,2025-04-13 19:30,100.0,1961.0,Fluminense,1968.0,Santos,1,0,0,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Felipe Fernandes de Lima,Luis Zubeldia,Cuca,3.0,0.0,True
+13473359,2025,3,2025-04-12 21:00,100.0,1974.0,Vasco da Gama,1959.0,Sport Recife,3,1,2,0,1,1,1.0,Estádio São Januário,Rio de Janeiro,Savio Pereira Sampaio,Renato Portaluppi,Márcio Goiano,3.0,0.0,True
+13473360,2025,3,2025-04-12 18:30,100.0,1963.0,Palmeiras,1957.0,Corinthians,2,0,2,0,0,0,1.0,Nubank Parque,Sao Paulo,Rafael Rodrigo Klein,Abel Ferreira,Fernando Diniz,3.0,0.0,True
+13473361,2025,3,2025-04-13 17:30,100.0,1981.0,São Paulo,1954.0,Cruzeiro,1,1,0,0,1,1,3.0,MorumBIS,Sao Paulo,Rodrigo Jose Pereira de Lima,Dorival Júnior,Artur Jorge,1.0,1.0,True
+13473362,2025,3,2025-04-12 16:00,100.0,1999.0,Red Bull Bragantino,1958.0,Botafogo,1,0,1,0,0,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Anderson Daronco,Vagner Mancini,Franclim Carvalho,3.0,0.0,True
+13473363,2025,3,2025-04-13 20:30,100.0,1977.0,Atlético Mineiro,1962.0,Vitória,2,2,0,0,2,2,3.0,Arena MRV,Belo Horizonte,Davi de Oliveira Lacerda,Eduardo Dominguez,Jair Ventura,1.0,1.0,True
+13473364,2025,3,2025-04-13 17:30,100.0,5926.0,Grêmio,5981.0,Flamengo,0,2,0,1,0,1,2.0,Arena do Grêmio,Porto Alegre,Ramon Abatti Abel,Luís Castro,Leonardo Jardim,0.0,3.0,True
+13473365,2025,3,2025-04-13 16:00,100.0,1955.0,Bahia,21982.0,Mirassol,1,1,1,1,0,0,3.0,Arena Fonte Nova,Salvador,Braulio Da Silva Machado,Rogério Ceni,Rafael Guanaes,1.0,1.0,True
+13473366,2025,3,2025-04-13 20:00,100.0,2020.0,Fortaleza,1966.0,Internacional,0,0,0,0,0,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Flavio Rodrigues De Souza,Thiago Carpini,Paulo Pezzolano,1.0,1.0,True
+13473367,2025,3,2025-04-12 16:00,100.0,1980.0,Juventude,2001.0,Ceará,2,1,1,1,1,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Lucas Casagrande,Mauricio Barbieri,Mozart Santos,3.0,0.0,True
+13473368,2025,4,2025-04-16 21:30,100.0,5981.0,Flamengo,1980.0,Juventude,6,0,3,0,3,0,1.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Leonardo Jardim,Mauricio Barbieri,3.0,0.0,True
+13473369,2025,4,2025-04-16 18:30,100.0,1958.0,Botafogo,1981.0,São Paulo,2,2,1,2,1,0,3.0,Estádio Nilton Santos,Rio de Janeiro,Davi de Oliveira Lacerda,Franclim Carvalho,Dorival Júnior,1.0,1.0,True
+13473370,2025,4,2025-04-16 19:30,100.0,1957.0,Corinthians,1961.0,Fluminense,0,2,0,0,0,2,2.0,Neo Química Arena,Sao Paulo,Rodrigo Jose Pereira de Lima,Fernando Diniz,Luis Zubeldia,0.0,3.0,True
+13473371,2025,4,2025-04-16 21:30,100.0,1968.0,Santos,1977.0,Atlético Mineiro,2,0,2,0,0,0,1.0,Estádio Urbano Caldeira,Santos,Braulio Da Silva Machado,Cuca,Eduardo Dominguez,3.0,0.0,True
+13473372,2025,4,2025-04-16 19:00,100.0,21982.0,Mirassol,5926.0,Grêmio,4,1,2,0,2,1,1.0,Estádio José Maria de Campos Maia,Mirassol,Lucas Paulo Torezin,Rafael Guanaes,Luís Castro,3.0,0.0,True
+13473373,2025,4,2025-04-17 21:30,100.0,1954.0,Cruzeiro,1955.0,Bahia,3,0,1,0,2,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Flavio Rodrigues De Souza,Artur Jorge,Rogério Ceni,3.0,0.0,True
+13473374,2025,4,2025-04-16 19:30,100.0,1966.0,Internacional,1963.0,Palmeiras,0,1,0,0,0,1,2.0,Estádio Beira-Rio,Porto Alegre,Felipe Fernandes de Lima,Paulo Pezzolano,Abel Ferreira,0.0,3.0,True
+13473375,2025,4,2025-04-16 21:30,100.0,1962.0,Vitória,2020.0,Fortaleza,2,1,1,0,1,1,1.0,Estádio Manoel Barradas,Salvador,Raphael Claus,Jair Ventura,Thiago Carpini,3.0,0.0,True
+13473376,2025,4,2025-04-15 21:30,100.0,2001.0,Ceará,1974.0,Vasco da Gama,2,1,1,0,1,1,1.0,Estádio Governador Plácido Castelo,Fortaleza,Denis da Silva Ribeiro Serafim,Mozart Santos,Renato Portaluppi,3.0,0.0,True
+13473377,2025,4,2025-04-16 19:00,100.0,1959.0,Sport Recife,1999.0,Red Bull Bragantino,0,1,0,1,0,0,2.0,Ilha do Retiro,Recife,Paulo Cesar Zanovelli da Silva,Márcio Goiano,Vagner Mancini,0.0,3.0,True
+13473378,2025,5,2025-04-20 18:30,100.0,1961.0,Fluminense,1962.0,Vitória,1,1,1,0,0,1,3.0,Estádio do Maracanã,Rio de Janeiro,Matheus Delgado Candançan,Luis Zubeldia,Jair Ventura,1.0,1.0,True
+13473379,2025,5,2025-04-19 18:30,100.0,1974.0,Vasco da Gama,5981.0,Flamengo,0,0,0,0,0,0,3.0,Estádio São Januário,Rio de Janeiro,Raphael Claus,Renato Portaluppi,Leonardo Jardim,1.0,1.0,True
+13473380,2025,5,2025-04-19 16:00,100.0,1957.0,Corinthians,1959.0,Sport Recife,2,1,0,1,2,0,1.0,Neo Química Arena,Sao Paulo,Anderson Daronco,Fernando Diniz,Márcio Goiano,3.0,0.0,True
+13473381,2025,5,2025-04-20 16:00,100.0,1981.0,São Paulo,1968.0,Santos,2,1,2,1,0,0,1.0,MorumBIS,Sao Paulo,Wilton Pereira Sampaio,Dorival Júnior,Cuca,3.0,0.0,True
+13473382,2025,5,2025-04-20 20:30,100.0,1999.0,Red Bull Bragantino,1954.0,Cruzeiro,1,0,1,0,0,0,1.0,Estádio Nabi Abi Chedid,Bragança Paulista,Alex Gomes Stefano,Vagner Mancini,Artur Jorge,3.0,0.0,True
+13473383,2025,5,2025-04-20 16:00,100.0,1977.0,Atlético Mineiro,1958.0,Botafogo,1,0,0,0,1,0,1.0,Arena MRV,Belo Horizonte,Ramon Abatti Abel,Eduardo Dominguez,Franclim Carvalho,3.0,0.0,True
+13473384,2025,5,2025-04-19 21:00,100.0,5926.0,Grêmio,1966.0,Internacional,1,1,1,0,0,1,3.0,Arena do Grêmio,Porto Alegre,Braulio Da Silva Machado,Luís Castro,Paulo Pezzolano,1.0,1.0,True
+13473385,2025,5,2025-04-21 20:00,100.0,1955.0,Bahia,2001.0,Ceará,1,0,0,0,1,0,1.0,Arena Fonte Nova,Salvador,Rafael Rodrigo Klein,Rogério Ceni,Mozart Santos,3.0,0.0,True
+13473386,2025,5,2025-04-20 18:30,100.0,2020.0,Fortaleza,1963.0,Palmeiras,1,2,0,1,1,1,2.0,Estádio Governador Plácido Castelo,Fortaleza,Paulo Cesar Zanovelli da Silva,Thiago Carpini,Abel Ferreira,0.0,3.0,True
+13473387,2025,5,2025-04-20 11:00,100.0,1980.0,Juventude,21982.0,Mirassol,2,2,2,1,0,1,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Paulo Belence Alves Dos Prazeres Filho,Mauricio Barbieri,Rafael Guanaes,1.0,1.0,True
+13473388,2025,6,2025-04-27 16:00,100.0,5981.0,Flamengo,1957.0,Corinthians,4,0,3,0,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Ramon Abatti Abel,Leonardo Jardim,Fernando Diniz,3.0,0.0,True
+13473389,2025,6,2025-04-26 21:00,100.0,1958.0,Botafogo,1961.0,Fluminense,2,0,1,0,1,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Arleu de Araujo,Franclim Carvalho,Luis Zubeldia,3.0,0.0,True
+13473390,2025,6,2025-04-27 18:30,100.0,1963.0,Palmeiras,1955.0,Bahia,0,1,0,0,0,1,2.0,Nubank Parque,Sao Paulo,Wilton Pereira Sampaio,Abel Ferreira,Rogério Ceni,0.0,3.0,True
+13473391,2025,6,2025-04-27 20:30,100.0,1968.0,Santos,1999.0,Red Bull Bragantino,1,2,0,0,1,2,2.0,Estádio Urbano Caldeira,Santos,Raphael Claus,Cuca,Vagner Mancini,0.0,3.0,True
+13473392,2025,6,2025-04-26 18:30,100.0,21982.0,Mirassol,1977.0,Atlético Mineiro,2,2,1,0,1,2,3.0,Estádio José Maria de Campos Maia,Mirassol,Davi de Oliveira Lacerda,Rafael Guanaes,Eduardo Dominguez,1.0,1.0,True
+13473393,2025,6,2025-04-27 18:30,100.0,1954.0,Cruzeiro,1974.0,Vasco da Gama,1,0,0,0,1,0,1.0,Parque do Sabiá,Uberlandia,Rafael Rodrigo Klein,Artur Jorge,Renato Portaluppi,3.0,0.0,True
+13473394,2025,6,2025-04-26 16:00,100.0,1966.0,Internacional,1980.0,Juventude,3,1,2,1,1,0,1.0,Estádio Beira-Rio,Porto Alegre,Flavio Rodrigues De Souza,Paulo Pezzolano,Mauricio Barbieri,3.0,0.0,True
+13473395,2025,6,2025-04-27 18:30,100.0,1962.0,Vitória,5926.0,Grêmio,1,1,0,1,1,0,3.0,Estádio Manoel Barradas,Salvador,Felipe Fernandes de Lima,Jair Ventura,Luís Castro,1.0,1.0,True
+13473396,2025,6,2025-04-26 18:30,100.0,2001.0,Ceará,1981.0,São Paulo,1,1,1,1,0,0,3.0,Estádio Governador Plácido Castelo,Fortaleza,Anderson Daronco,Mozart Santos,Dorival Júnior,1.0,1.0,True
+13473397,2025,6,2025-04-26 20:00,100.0,1959.0,Sport Recife,2020.0,Fortaleza,0,0,0,0,0,0,3.0,Ilha do Retiro,Recife,Matheus Delgado Candançan,Márcio Goiano,Thiago Carpini,1.0,1.0,True
+13473398,2025,7,2025-05-03 18:30,100.0,1961.0,Fluminense,1959.0,Sport Recife,2,1,0,1,2,0,1.0,Estádio do Maracanã,Rio de Janeiro,Rafael Rodrigo Klein,Luis Zubeldia,Márcio Goiano,3.0,0.0,True
+13473399,2025,7,2025-05-04 16:00,100.0,1974.0,Vasco da Gama,1963.0,Palmeiras,0,1,0,0,0,1,2.0,Arena BRB Mané Garrincha,Brasilia,Davi de Oliveira Lacerda,Renato Portaluppi,Abel Ferreira,0.0,3.0,True
+13473400,2025,7,2025-05-03 18:30,100.0,1957.0,Corinthians,1966.0,Internacional,4,2,1,2,3,0,1.0,Neo Química Arena,Sao Paulo,Paulo Cesar Zanovelli da Silva,Fernando Diniz,Paulo Pezzolano,3.0,0.0,True
+13473401,2025,7,2025-05-02 21:30,100.0,1981.0,São Paulo,2020.0,Fortaleza,0,0,0,0,0,0,3.0,MorumBIS,Sao Paulo,Wagner do Nascimento Magalhaes,Dorival Júnior,Thiago Carpini,1.0,1.0,True
+13473402,2025,7,2025-05-05 19:00,100.0,1999.0,Red Bull Bragantino,21982.0,Mirassol,1,0,0,0,1,0,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Lucas Canetto Bellote,Vagner Mancini,Rafael Guanaes,3.0,0.0,True
+13473403,2025,7,2025-05-04 18:30,100.0,1954.0,Cruzeiro,5981.0,Flamengo,2,1,1,1,1,0,1.0,Governador Magalhães Pinto,Belo Horizonte,Wilton Pereira Sampaio,Artur Jorge,Leonardo Jardim,3.0,0.0,True
+13473404,2025,7,2025-05-04 16:00,100.0,5926.0,Grêmio,1968.0,Santos,1,0,0,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Bruno Arleu de Araujo,Luís Castro,Cuca,3.0,0.0,True
+13473405,2025,7,2025-05-03 21:00,100.0,1955.0,Bahia,1958.0,Botafogo,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Flavio Rodrigues De Souza,Rogério Ceni,Franclim Carvalho,3.0,0.0,True
+13473406,2025,7,2025-05-03 18:30,100.0,2001.0,Ceará,1962.0,Vitória,1,0,0,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Alex Gomes Stefano,Mozart Santos,Jair Ventura,3.0,0.0,True
+13473407,2025,7,2025-05-05 20:00,100.0,1980.0,Juventude,1977.0,Atlético Mineiro,0,1,0,1,0,0,2.0,Estádio Alfredo Jaconi,Caxias do Sul,Bruno Pereira Vasconcelos,Mauricio Barbieri,Eduardo Dominguez,0.0,3.0,True
+13473408,2025,8,2025-05-10 21:00,100.0,5981.0,Flamengo,1955.0,Bahia,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Anderson Daronco,Leonardo Jardim,Rogério Ceni,3.0,0.0,True
+13473409,2025,8,2025-05-11 20:00,100.0,1958.0,Botafogo,1966.0,Internacional,4,0,2,0,2,0,1.0,Estádio Nilton Santos,Rio de Janeiro,Matheus Delgado Candançan,Franclim Carvalho,Paulo Pezzolano,3.0,0.0,True
+13473410,2025,8,2025-05-11 17:30,100.0,1963.0,Palmeiras,1981.0,São Paulo,1,0,0,0,1,0,1.0,Arena Barueri,Barueri,Rafael Rodrigo Klein,Abel Ferreira,Dorival Júnior,3.0,0.0,True
+13473411,2025,8,2025-05-12 20:00,100.0,1968.0,Santos,2001.0,Ceará,0,0,0,0,0,0,3.0,Nubank Parque,Sao Paulo,Felipe Fernandes de Lima,Cuca,Mozart Santos,1.0,1.0,True
+13473412,2025,8,2025-05-10 18:30,100.0,21982.0,Mirassol,1957.0,Corinthians,2,1,0,1,2,0,1.0,Estádio José Maria de Campos Maia,Mirassol,Joao Vitor Gobi,Rafael Guanaes,Fernando Diniz,3.0,0.0,True
+13473413,2025,8,2025-05-11 17:30,100.0,1977.0,Atlético Mineiro,1961.0,Fluminense,3,2,0,0,3,2,1.0,Arena MRV,Belo Horizonte,Ramon Abatti Abel,Eduardo Dominguez,Luis Zubeldia,3.0,0.0,True
+13473414,2025,8,2025-05-10 18:30,100.0,5926.0,Grêmio,1999.0,Red Bull Bragantino,1,1,0,0,1,1,3.0,Arena do Grêmio,Porto Alegre,Davi de Oliveira Lacerda,Luís Castro,Vagner Mancini,1.0,1.0,True
+13473415,2025,8,2025-05-10 18:30,100.0,1962.0,Vitória,1974.0,Vasco da Gama,2,1,0,1,2,0,1.0,Estádio Manoel Barradas,Salvador,Wilton Pereira Sampaio,Jair Ventura,Renato Portaluppi,3.0,0.0,True
+13473416,2025,8,2025-05-10 16:00,100.0,2020.0,Fortaleza,1980.0,Juventude,5,0,1,0,4,0,1.0,Estádio Presidente Vargas,Fortaleza,Lucas Paulo Torezin,Thiago Carpini,Mauricio Barbieri,3.0,0.0,True
+13473417,2025,8,2025-05-11 16:00,100.0,1959.0,Sport Recife,1954.0,Cruzeiro,0,4,0,3,0,1,2.0,Ilha do Retiro,Recife,Raphael Claus,Márcio Goiano,Artur Jorge,0.0,3.0,True
+13473418,2025,9,2025-05-18 18:30,100.0,5981.0,Flamengo,1958.0,Botafogo,0,0,0,0,0,0,3.0,Estádio do Maracanã,Rio de Janeiro,Bruno Arleu de Araujo,Leonardo Jardim,Franclim Carvalho,1.0,1.0,True
+13473419,2025,9,2025-05-17 18:30,100.0,1974.0,Vasco da Gama,2020.0,Fortaleza,3,0,1,0,2,0,1.0,Estádio São Januário,Rio de Janeiro,Anderson Daronco,Renato Portaluppi,Thiago Carpini,3.0,0.0,True
+13473420,2025,9,2025-05-18 16:00,100.0,1957.0,Corinthians,1968.0,Santos,1,0,0,0,1,0,1.0,Neo Química Arena,Sao Paulo,Raphael Claus,Fernando Diniz,Cuca,3.0,0.0,True
+13473421,2025,9,2025-05-17 21:00,100.0,1981.0,São Paulo,5926.0,Grêmio,2,1,0,1,2,0,1.0,MorumBIS,Sao Paulo,Rodrigo Jose Pereira de Lima,Dorival Júnior,Luís Castro,3.0,0.0,True
+13473422,2025,9,2025-05-18 18:30,100.0,1999.0,Red Bull Bragantino,1963.0,Palmeiras,1,2,1,0,0,2,2.0,Estádio Cícero de Souza Marques,Bragança Paulista,Marcelo de Lima Henrique,Vagner Mancini,Abel Ferreira,0.0,3.0,True
+13473423,2025,9,2025-05-18 20:30,100.0,1954.0,Cruzeiro,1977.0,Atlético Mineiro,0,0,0,0,0,0,3.0,Governador Magalhães Pinto,Belo Horizonte,Flavio Rodrigues De Souza,Artur Jorge,Eduardo Dominguez,1.0,1.0,True
+13473424,2025,9,2025-05-18 20:30,100.0,1966.0,Internacional,21982.0,Mirassol,1,1,0,1,1,0,3.0,Estádio Beira-Rio,Porto Alegre,Wagner do Nascimento Magalhaes,Paulo Pezzolano,Rafael Guanaes,1.0,1.0,True
+13473425,2025,9,2025-05-18 16:00,100.0,1955.0,Bahia,1962.0,Vitória,2,1,1,0,1,1,1.0,Arena Fonte Nova,Salvador,Ramon Abatti Abel,Rogério Ceni,Jair Ventura,3.0,0.0,True
+13473426,2025,9,2025-05-17 16:00,100.0,2001.0,Ceará,1959.0,Sport Recife,2,0,1,0,1,0,1.0,Estádio Governador Plácido Castelo,Fortaleza,Gustavo Ervino Bauermann,Mozart Santos,Márcio Goiano,3.0,0.0,True
+13473427,2025,9,2025-05-18 16:00,100.0,1980.0,Juventude,1961.0,Fluminense,1,1,0,0,1,1,3.0,Estádio Alfredo Jaconi,Caxias do Sul,Wilton Pereira Sampaio,Mauricio Barbieri,Luis Zubeldia,1.0,1.0,True
+13473428,2025,10,2025-05-24 18:30,100.0,1961.0,Fluminense,1974.0,Vasco da Gama,2,1,1,1,1,0,1.0,Estádio do Maracanã,Rio de Janeiro,Rodrigo Jose Pereira de Lima,Luis Zubeldia,Renato Portaluppi,3.0,0.0,True
+13473429,2025,10,2025-05-24 16:00,60.0,1958.0,Botafogo,2001.0,Ceará,0,0,0,0,0,0,3.0,Estádio Nilton Santos,Rio de Janeiro,,Franclim Carvalho,Mozart Santos,1.0,1.0,False
+13473430,2025,10,2025-05-25 16:00,100.0,1963.0,Palmeiras,5981.0,Flamengo,0,2,0,0,0,2,2.0,Nubank Parque,Sao Paulo,Ramon Abatti Abel,Abel Ferreira,Leonardo Jardim,0.0,3.0,True
+13473431,2025,10,2025-05-24 18:30,100.0,1981.0,São Paulo,21982.0,Mirassol,0,2,0,0,0,2,2.0,MorumBIS,Sao Paulo,Alex Gomes Stefano,Dorival Júnior,Rafael Guanaes,0.0,3.0,True
+13473432,2025,10,2025-05-26 20:00,100.0,1999.0,Red Bull Bragantino,1980.0,Juventude,1,0,1,0,0,0,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Lucas Casagrande,Vagner Mancini,Mauricio Barbieri,3.0,0.0,True
+13473434,2025,10,2025-05-24 21:00,100.0,1977.0,Atlético Mineiro,1957.0,Corinthians,0,0,0,0,0,0,3.0,Arena MRV,Belo Horizonte,Rafael Rodrigo Klein,Eduardo Dominguez,Fernando Diniz,1.0,1.0,True
+13473435,2025,10,2025-05-25 11:00,100.0,5926.0,Grêmio,1955.0,Bahia,1,0,0,0,1,0,1.0,Arena do Grêmio,Porto Alegre,Bruno Arleu de Araujo,Luís Castro,Rogério Ceni,3.0,0.0,True
+13473436,2025,10,2025-05-25 18:30,100.0,1962.0,Vitória,1968.0,Santos,0,1,0,1,0,0,2.0,Estádio Manoel Barradas,Salvador,Anderson Daronco,Jair Ventura,Cuca,0.0,3.0,True
+13473437,2025,10,2025-05-25 20:30,100.0,2020.0,Fortaleza,1954.0,Cruzeiro,0,2,0,2,0,0,2.0,Estádio Governador Plácido Castelo,Fortaleza,Joao Vitor Gobi,Thiago Carpini,Artur Jorge,0.0,3.0,True
+13473438,2025,10,2025-05-25 16:00,100.0,1959.0,Sport Recife,1966.0,Internacional,1,1,1,0,0,1,3.0,Ilha do Retiro,Recife,Davi de Oliveira Lacerda,Márcio Goiano,Paulo Pezzolano,1.0,1.0,True
+13788130,2025,10,2025-06-04 20:00,100.0,1958.0,Botafogo,2001.0,Ceará,3,2,1,0,2,2,1.0,Estádio Nilton Santos,Rio de Janeiro,Edina Alves Batista,Franclim Carvalho,Mozart Santos,3.0,0.0,True
+14333880,2025,14,2025-08-20 19:00,100.0,1980.0,Juventude,1974.0,Vasco da Gama,2,0,2,0,0,0,1.0,Estádio Alfredo Jaconi,Caxias do Sul,Matheus Delgado Candançan,Mauricio Barbieri,Renato Portaluppi,3.0,0.0,True
+14543946,2025,16,2025-09-24 19:30,100.0,1974.0,Vasco da Gama,1955.0,Bahia,3,1,1,1,2,0,1.0,Estádio São Januário,Rio de Janeiro,Joao Vitor Gobi,Renato Portaluppi,Rogério Ceni,3.0,0.0,True
+14543948,2025,16,2025-08-24 19:30,60.0,5926.0,Grêmio,1958.0,Botafogo,0,0,0,0,0,0,3.0,Arena do Grêmio,Porto Alegre,,Luís Castro,Franclim Carvalho,1.0,1.0,False
+14549632,2025,16,2025-09-24 19:30,100.0,5926.0,Grêmio,1958.0,Botafogo,1,1,0,0,1,1,3.0,Arena do Grêmio,Porto Alegre,Lucas Paulo Torezin,Luís Castro,Franclim Carvalho,1.0,1.0,True
+14550035,2025,12,2025-09-17 19:30,100.0,1958.0,Botafogo,21982.0,Mirassol,3,3,3,0,0,3,3.0,Estádio Nilton Santos,Rio de Janeiro,Bruno Pereira Vasconcelos,Franclim Carvalho,Rafael Guanaes,1.0,1.0,True
+14689171,2025,13,2025-10-08 21:00,100.0,21982.0,Mirassol,1961.0,Fluminense,2,1,1,0,1,1,1.0,Estádio José Maria de Campos Maia,Mirassol,Rodrigo Jose Pereira de Lima,Rafael Guanaes,Luis Zubeldia,3.0,0.0,True
+14689178,2025,14,2025-10-08 19:00,100.0,1977.0,Atlético Mineiro,1959.0,Sport Recife,3,1,2,0,1,1,1.0,Arena MRV,Belo Horizonte,Alex Gomes Stefano,Eduardo Dominguez,Márcio Goiano,3.0,0.0,True
+14689179,2025,14,2025-10-22 19:00,100.0,1955.0,Bahia,1966.0,Internacional,1,0,1,0,0,0,1.0,Arena Fonte Nova,Salvador,Flavio Rodrigues De Souza,Rogério Ceni,Paulo Pezzolano,3.0,0.0,True
+14693875,2025,12,2025-10-11 19:00,100.0,1963.0,Palmeiras,1980.0,Juventude,4,1,2,0,2,1,1.0,Nubank Parque,Sao Paulo,Davi de Oliveira Lacerda,Abel Ferreira,Mauricio Barbieri,3.0,0.0,True
+14824794,2025,12,2025-10-29 19:00,100.0,1961.0,Fluminense,2001.0,Ceará,1,0,1,0,0,0,1.0,Estádio do Maracanã,Rio de Janeiro,Flavio Rodrigues De Souza,Luis Zubeldia,Mozart Santos,3.0,0.0,True
+14863346,2025,13,2025-11-15 21:00,100.0,1968.0,Santos,1963.0,Palmeiras,1,0,0,0,1,0,1.0,Estádio Urbano Caldeira,Santos,Raphael Claus,Cuca,Abel Ferreira,3.0,0.0,True
+14933649,2025,12,2025-11-15 18:30,100.0,1959.0,Sport Recife,5981.0,Flamengo,1,5,1,1,0,4,2.0,Ilha do Retiro,Recife,Rafael Rodrigo Klein,Márcio Goiano,Leonardo Jardim,0.0,3.0,True
+15011357,2025,16,2025-11-12 20:30,100.0,1977.0,Atlético Mineiro,2020.0,Fortaleza,3,3,2,0,1,3,3.0,Arena MRV,Belo Horizonte,Savio Pereira Sampaio,Eduardo Dominguez,Thiago Carpini,1.0,1.0,True
+15121158,2025,34,2025-12-03 21:30,100.0,1977.0,Atlético Mineiro,1963.0,Palmeiras,0,3,0,2,0,1,2.0,Arena MRV,Belo Horizonte,Rafael Rodrigo Klein,Eduardo Dominguez,Abel Ferreira,0.0,3.0,True
+15121159,2025,34,2025-12-03 19:00,100.0,1999.0,Red Bull Bragantino,1962.0,Vitória,4,0,2,0,2,0,1.0,Estádio Cícero de Souza Marques,Bragança Paulista,Wagner do Nascimento Magalhaes,Vagner Mancini,Jair Ventura,3.0,0.0,True
+15235503,2026,10,,,,Atlético Mineiro,,Athletico,2,1,1,0,1,1,,Arena MRV,,,,,,,True
+15235504,2026,10,,,,São Paulo,,Cruzeiro,4,1,2,0,2,1,,MorumBIS,,,,,,,True
+15235505,2026,10,,,,Grêmio,,Remo,0,0,0,0,0,0,,Arena do Grêmio,,,,,,,True
+15235506,2026,11,,,,Fluminense,,Flamengo,1,2,0,1,1,1,,Estádio do Maracanã,,,,,,,True
+15235507,2026,10,,,,Coritiba,,Fluminense,1,1,0,0,1,1,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15235508,2026,11,,,,Botafogo,,Coritiba,2,2,0,1,2,1,,Estádio Nilton Santos,,,,,,,True
+15235509,2026,10,,,,Corinthians,,Internacional,0,1,0,0,0,1,,Neo Química Arena,,,,,,,True
+15235510,2026,11,,,,Santos,,Atlético Mineiro,1,0,0,0,1,0,,Estádio Urbano Caldeira,,,,,,,True
+15235511,2026,10,,,,Bahia,,Palmeiras,1,2,0,1,1,1,,Arena Fonte Nova,,,,,,,True
+15235512,2026,11,,,,Corinthians,,Palmeiras,0,0,0,0,0,0,,Neo Química Arena,,,,,,,True
+15235513,2026,10,,,,Chapecoense,,Vitória,1,1,0,0,1,1,,Arena Condá,,,,,,,True
+15235514,2026,10,,,,Vasco da Gama,,Botafogo,1,2,0,0,1,2,,Estádio São Januário,,,,,,,True
+15235515,2026,11,,,,Mirassol,,Bahia,1,2,1,0,0,2,,Estádio José Maria de Campos Maia,,,,,,,True
+15235516,2026,11,,,,Cruzeiro,,Red Bull Bragantino,2,1,1,1,1,0,,Governador Magalhães Pinto,,,,,,,True
+15235517,2026,11,,,,Vitória,,São Paulo,2,0,1,0,1,0,,Estádio Manoel Barradas,,,,,,,True
+15235518,2026,10,,,,Mirassol,,Red Bull Bragantino,0,1,0,0,0,1,,Estádio José Maria de Campos Maia,,,,,,,True
+15235519,2026,12,,,,Flamengo,,Bahia,2,0,1,0,1,0,,Estádio do Maracanã,,,,,,,True
+15235520,2026,12,,,,Vasco da Gama,,São Paulo,2,1,0,1,2,0,,Estádio São Januário,,,,,,,True
+15235521,2026,12,,,,Red Bull Bragantino,,Remo,4,2,2,2,2,0,,Estádio Cícero de Souza Marques,,,,,,,True
+15235522,2026,12,,,,Santos,,Fluminense,2,3,1,1,1,2,,Estádio Urbano Caldeira,,,,,,,True
+15235523,2026,12,,,,Internacional,,Mirassol,1,2,0,2,1,0,,Estádio Beira-Rio,,,,,,,True
+15235524,2026,12,,,,Coritiba,,Atlético Mineiro,2,0,1,0,1,0,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15235525,2026,12,,,,Vitória,,Corinthians,0,0,0,0,0,0,,Estádio Manoel Barradas,,,,,,,True
+15235526,2026,12,,,,Chapecoense,,Botafogo,1,4,1,3,0,1,,Arena Condá,,,,,,,True
+15235527,2026,13,,,,Fluminense,,Chapecoense,2,1,0,0,2,1,,Estádio do Maracanã,,,,,,,True
+15235528,2026,12,,,,Cruzeiro,,Grêmio,2,0,0,0,2,0,,Governador Magalhães Pinto,,,,,,,True
+15235529,2026,13,,,,Botafogo,,Internacional,2,2,0,0,2,2,,Arena BRB Mané Garrincha,,,,,,,True
+15235530,2026,13,,,,São Paulo,,Mirassol,1,0,0,0,1,0,,Estádio Brinco de Ouro da Princesa,,,,,,,True
+15235531,2026,13,,,,Corinthians,,Vasco da Gama,1,0,1,0,0,0,,Neo Química Arena,,,,,,,True
+15235532,2026,13,,,,Red Bull Bragantino,,Palmeiras,0,1,0,1,0,0,,Estádio Cícero de Souza Marques,,,,,,,True
+15235533,2026,13,,,,Atlético Mineiro,,Flamengo,0,4,0,3,0,1,,Arena MRV,,,,,,,True
+15235534,2026,13,,,,Grêmio,,Coritiba,1,0,1,0,0,0,,Arena do Grêmio,,,,,,,True
+15235535,2026,13,,,,Athletico,,Vitória,3,1,1,1,2,0,,Arena da Baixada,,,,,,,True
+15235536,2026,13,,,,Remo,,Cruzeiro,0,1,0,1,0,0,,Mangueirão,,,,,,,True
+15235537,2026,13,,,,Bahia,,Santos,2,2,0,2,2,0,,Arena Fonte Nova,,,,,,,True
+15235538,2026,14,,,,Flamengo,,Vasco da Gama,2,2,1,0,1,2,,Estádio do Maracanã,,,,,,,True
+15235539,2026,14,,,,São Paulo,,Bahia,2,2,1,0,1,2,,Estádio Cícero de Souza Marques,,,,,,,True
+15235540,2026,14,,,,Palmeiras,,Santos,1,1,0,1,1,0,,Nubank Parque,,,,,,,True
+15235541,2026,14,,,,Botafogo,,Remo,1,2,1,0,0,2,,Estádio Nilton Santos,,,,,,,True
+15235542,2026,11,,,,Remo,,Vasco da Gama,1,1,0,0,1,1,,Mangueirão,,,,,,,True
+15235543,2026,11,,,,Athletico,,Chapecoense,2,0,0,0,2,0,,Arena da Baixada,,,,,,,True
+15235544,2026,14,,,,Mirassol,,Corinthians,2,1,2,0,0,1,,Estádio José Maria de Campos Maia,,,,,,,True
+15235545,2026,14,,,,Internacional,,Fluminense,2,0,1,0,1,0,,Estádio Beira-Rio,,,,,,,True
+15235546,2026,11,,,,Internacional,,Grêmio,0,0,0,0,0,0,,Estádio Beira-Rio,,,,,,,True
+15235547,2026,15,,,,Fluminense,,Vitória,2,2,1,0,1,2,,Estádio do Maracanã,,,,,,,True
+15235548,2026,14,,,,Cruzeiro,,Atlético Mineiro,1,3,0,2,1,1,,Governador Magalhães Pinto,,,,,,,True
+15235549,2026,14,,,,Chapecoense,,Red Bull Bragantino,1,2,1,1,0,1,,Arena Condá,,,,,,,True
+15235550,2026,12,,,,Palmeiras,,Athletico,1,0,1,0,0,0,,Nubank Parque,,,,,,,True
+15235551,2026,14,,,,Vitória,,Coritiba,4,1,2,1,2,0,,Estádio Manoel Barradas,,,,,,,True
+15235552,2026,15,,,,Vasco da Gama,,Athletico,1,0,1,0,0,0,,Estádio São Januário,,,,,,,True
+15235553,2026,14,,,,Athletico,,Grêmio,0,0,0,0,0,0,,Arena da Baixada,,,,,,,True
+15235554,2026,15,,,,Corinthians,,São Paulo,3,2,1,1,2,1,,Neo Química Arena,,,,,,,True
+15235555,2026,15,,,,Grêmio,,Flamengo,0,1,0,0,0,1,,Arena do Grêmio,,,,,,,True
+15235556,2026,15,,,,Coritiba,,Internacional,2,2,1,0,1,2,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15235557,2026,15,,,,Santos,,Red Bull Bragantino,2,0,1,0,1,0,,Estádio Urbano Caldeira,,,,,,,True
+15235558,2026,15,,,,Atlético Mineiro,,Botafogo,1,1,1,0,0,1,,Arena MRV,,,,,,,True
+15235559,2026,15,,,,Bahia,,Cruzeiro,1,2,1,1,0,1,,Arena Fonte Nova,,,,,,,True
+15235560,2026,16,,,,Fluminense,,São Paulo,2,1,2,0,0,1,,Estádio do Maracanã,,,,,,,True
+15235561,2026,16,,,,Botafogo,,Corinthians,3,1,2,1,1,0,,Estádio Nilton Santos,,,,,,,True
+15235562,2026,16,,,,Santos,,Coritiba,0,3,0,3,0,0,,Neo Química Arena,,,,,,,True
+15235563,2026,15,,,,Mirassol,,Chapecoense,1,1,0,0,1,1,,Estádio José Maria de Campos Maia,,,,,,,True
+15235564,2026,16,,,,Palmeiras,,Cruzeiro,1,1,1,1,0,0,,Nubank Parque,,,,,,,True
+15235565,2026,15,,,,Remo,,Palmeiras,1,1,1,1,0,0,,Mangueirão,,,,,,,True
+15235566,2026,16,,,,Atlético Mineiro,,Mirassol,3,1,1,1,2,0,,Arena MRV,,,,,,,True
+15235567,2026,16,,,,Internacional,,Vasco da Gama,4,1,2,0,2,1,,Estádio Beira-Rio,,,,,,,True
+15235568,2026,16,,,,Chapecoense,,Remo,2,3,1,1,1,2,,Arena Condá,,,,,,,True
+15235573,2026,16,,,,Bahia,,Grêmio,1,1,0,0,1,1,,Arena Fonte Nova,,,,,,,True
+15235587,2026,16,,,,Red Bull Bragantino,,Vitória,2,0,1,0,1,0,,Estádio Cícero de Souza Marques,,,,,,,True
+15235588,2026,16,,,,Athletico,,Flamengo,1,1,1,0,0,1,,Arena da Baixada,,,,,,,True
+15235602,2026,9,,,,Chapecoense,,Atlético Mineiro,0,4,0,3,0,1,,Arena Condá,,,,,,,True
+15235603,2026,10,,,,Flamengo,,Santos,3,1,0,0,3,1,,Estádio do Maracanã,,,,,,,True
+15237884,2026,1,,,,Fluminense,,Grêmio,2,1,0,0,2,1,,Estádio do Maracanã,,,,,,,True
+15237885,2026,1,,,,Botafogo,,Cruzeiro,4,0,0,0,4,0,,Estádio Nilton Santos,,,,,,,True
+15237886,2026,1,,,,São Paulo,,Flamengo,2,1,0,0,2,1,,MorumBIS,,,,,,,True
+15237887,2026,1,,,,Corinthians,,Bahia,1,2,1,2,0,0,,Estádio Urbano Caldeira,,,,,,,True
+15237888,2026,1,,,,Mirassol,,Vasco da Gama,2,1,1,1,1,0,,Estádio José Maria de Campos Maia,,,,,,,True
+15237889,2026,1,,,,Atlético Mineiro,,Palmeiras,2,2,1,1,1,1,,Arena MRV,,,,,,,True
+15237890,2026,1,,,,Internacional,,Athletico,0,1,0,1,0,0,,Estádio Beira-Rio,,,,,,,True
+15237891,2026,1,,,,Coritiba,,Red Bull Bragantino,0,1,0,0,0,1,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15237892,2026,1,,,,Vitória,,Remo,2,0,0,0,2,0,,Estádio Manoel Barradas,,,,,,,True
+15237893,2026,1,,,,Chapecoense,,Santos,4,2,1,1,3,1,,Arena Condá,,,,,,,True
+15237894,2026,2,,,,Flamengo,,Internacional,1,1,0,1,1,0,,Estádio do Maracanã,,,,,,,True
+15237895,2026,2,,,,Vasco da Gama,,Chapecoense,1,1,0,0,1,1,,Estádio São Januário,,,,,,,True
+15237896,2026,2,,,,Santos,,São Paulo,1,1,1,0,0,1,,Estádio Urbano Caldeira,,,,,,,True
+15237897,2026,2,,,,Palmeiras,,Vitória,5,1,3,0,2,1,,Arena Barueri,,,,,,,True
+15237898,2026,2,,,,Red Bull Bragantino,,Atlético Mineiro,1,0,1,0,0,0,,Estádio Cícero de Souza Marques,,,,,,,True
+15237899,2026,2,,,,Cruzeiro,,Coritiba,1,2,1,1,0,1,,Governador Magalhães Pinto,,,,,,,True
+15237900,2026,2,,,,Grêmio,,Botafogo,5,3,1,2,4,1,,Arena do Grêmio,,,,,,,True
+15237901,2026,2,,,,Athletico,,Corinthians,0,0,0,0,0,0,,Arena da Baixada,,,,,,,False
+15237902,2026,2,,,,Bahia,,Fluminense,1,1,0,1,1,0,,Arena Fonte Nova,,,,,,,True
+15237903,2026,2,,,,Remo,,Mirassol,2,2,2,0,0,2,,Mangueirão,,,,,,,True
+15237904,2026,3,,,,Fluminense,,Botafogo,1,0,0,0,1,0,,Estádio do Maracanã,,,,,,,True
+15237905,2026,3,,,,Vasco da Gama,,Bahia,0,1,0,1,0,0,,Estádio São Januário,,,,,,,True
+15237906,2026,3,,,,São Paulo,,Grêmio,2,0,1,0,1,0,,MorumBIS,,,,,,,True
+15237907,2026,3,,,,Corinthians,,Red Bull Bragantino,2,0,0,0,2,0,,Neo Química Arena,,,,,,,True
+15237908,2026,3,,,,Mirassol,,Cruzeiro,2,2,1,1,1,1,,Estádio José Maria de Campos Maia,,,,,,,True
+15237909,2026,3,,,,Atlético Mineiro,,Remo,3,3,1,1,2,2,,Arena MRV,,,,,,,True
+15237910,2026,3,,,,Internacional,,Palmeiras,1,3,1,1,0,2,,Estádio Beira-Rio,,,,,,,True
+15237911,2026,3,,,,Athletico,,Santos,2,1,1,1,1,0,,Arena da Baixada,,,,,,,True
+15237912,2026,3,,,,Vitória,,Flamengo,1,2,0,2,1,0,,Estádio Manoel Barradas,,,,,,,True
+15237913,2026,3,,,,Chapecoense,,Coritiba,3,3,1,1,2,2,,Arena Condá,,,,,,,True
+15237914,2026,4,,,,Flamengo,,Mirassol,0,0,0,0,0,0,,Estádio do Maracanã,,,,,,,False
+15237915,2026,4,,,,Botafogo,,Vitória,0,0,0,0,0,0,,Estádio Nilton Santos,,,,,,,False
+15237916,2026,4,,,,Santos,,Vasco da Gama,2,1,1,1,1,0,,Estádio Urbano Caldeira,,,,,,,True
+15237917,2026,4,,,,Palmeiras,,Fluminense,2,1,2,1,0,0,,Arena Barueri,,,,,,,True
+15237918,2026,4,,,,Red Bull Bragantino,,Athletico,1,1,1,0,0,1,,Estádio Cícero de Souza Marques,,,,,,,True
+15237919,2026,4,,,,Cruzeiro,,Corinthians,1,1,1,0,0,1,,Governador Magalhães Pinto,,,,,,,True
+15237921,2026,4,,,,Grêmio,,Atlético Mineiro,2,1,0,0,2,1,,Arena do Grêmio,,,,,,,True
+15237922,2026,4,,,,Coritiba,,São Paulo,0,1,0,0,0,1,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15237923,2026,4,,,,Bahia,,Chapecoense,0,0,0,0,0,0,,Arena Fonte Nova,,,,,,,False
+15237924,2026,4,,,,Remo,,Internacional,1,1,1,1,0,0,,Mangueirão,,,,,,,True
+15237925,2026,5,,,,Flamengo,,Cruzeiro,2,0,1,0,1,0,,Estádio do Maracanã,,,,,,,True
+15237926,2026,5,,,,Vasco da Gama,,Palmeiras,2,1,0,1,2,0,,Estádio São Januário,,,,,,,True
+15237927,2026,5,,,,São Paulo,,Chapecoense,2,0,0,0,2,0,,Estádio Doutor Oswaldo Teixeira Duarte,,,,,,,True
+15237928,2026,5,,,,Corinthians,,Coritiba,0,2,0,1,0,1,,Neo Química Arena,,,,,,,True
+15237929,2026,5,,,,Mirassol,,Santos,2,2,1,0,1,2,,Estádio José Maria de Campos Maia,,,,,,,True
+15237930,2026,5,,,,Atlético Mineiro,,Internacional,1,0,1,0,0,0,,Arena MRV,,,,,,,True
+15237931,2026,5,,,,Grêmio,,Red Bull Bragantino,1,1,1,0,0,1,,Arena do Grêmio,,,,,,,True
+15237932,2026,5,,,,Athletico,,Botafogo,0,0,0,0,0,0,,Arena da Baixada,,,,,,,False
+15237933,2026,5,,,,Bahia,,Vitória,1,1,1,1,0,0,,Arena Fonte Nova,,,,,,,True
+15237934,2026,5,,,,Remo,,Fluminense,0,2,0,1,0,1,,Mangueirão,,,,,,,True
+15237935,2026,6,,,,Fluminense,,Athletico,3,2,2,1,1,1,,Estádio do Maracanã,,,,,,,True
+15237936,2026,6,,,,Botafogo,,Flamengo,0,3,0,2,0,1,,Estádio Nilton Santos,,,,,,,True
+15237937,2026,6,,,,Santos,,Corinthians,1,1,1,1,0,0,,Estádio Urbano Caldeira,,,,,,,True
+15237938,2026,6,,,,Palmeiras,,Mirassol,1,0,1,0,0,0,,Nubank Parque,,,,,,,True
+15237939,2026,6,,,,Red Bull Bragantino,,São Paulo,1,2,1,0,0,2,,Estádio Cícero de Souza Marques,,,,,,,True
+15237940,2026,6,,,,Cruzeiro,,Vasco da Gama,3,3,1,0,2,3,,Governador Magalhães Pinto,,,,,,,True
+15237941,2026,6,,,,Internacional,,Bahia,0,1,0,1,0,0,,Estádio Beira-Rio,,,,,,,True
+15237942,2026,6,,,,Coritiba,,Remo,1,0,1,0,0,0,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15237943,2026,6,,,,Vitória,,Atlético Mineiro,2,0,1,0,1,0,,Estádio Manoel Barradas,,,,,,,True
+15237944,2026,6,,,,Chapecoense,,Grêmio,1,1,1,1,0,0,,Arena Condá,,,,,,,True
+15237945,2026,7,,,,Flamengo,,Remo,3,0,1,0,2,0,,Estádio do Maracanã,,,,,,,True
+15237946,2026,7,,,,Vasco da Gama,,Fluminense,3,2,0,1,3,1,,Estádio do Maracanã,,,,,,,True
+15237947,2026,7,,,,Santos,,Internacional,1,2,0,0,1,2,,Estádio Urbano Caldeira,,,,,,,True
+15237948,2026,7,,,,Palmeiras,,Botafogo,2,1,1,0,1,1,,Nubank Parque,,,,,,,True
+15237949,2026,7,,,,Mirassol,,Coritiba,0,1,0,0,0,1,,Estádio José Maria de Campos Maia,,,,,,,True
+15237950,2026,7,,,,Atlético Mineiro,,São Paulo,1,0,0,0,1,0,,Arena MRV,,,,,,,True
+15237951,2026,7,,,,Grêmio,,Vitória,2,0,1,0,1,0,,Arena do Grêmio,,,,,,,True
+15237952,2026,7,,,,Athletico,,Cruzeiro,2,1,2,0,0,1,,Arena da Baixada,,,,,,,True
+15237953,2026,7,,,,Bahia,,Red Bull Bragantino,2,0,2,0,0,0,,Arena Fonte Nova,,,,,,,True
+15237954,2026,7,,,,Chapecoense,,Corinthians,0,0,0,0,0,0,,Arena Condá,,,,,,,True
+15237955,2026,8,,,,Fluminense,,Atlético Mineiro,1,0,1,0,0,0,,Estádio do Maracanã,,,,,,,True
+15237956,2026,8,,,,Vasco da Gama,,Grêmio,2,1,2,1,0,0,,Estádio São Januário,,,,,,,True
+15237957,2026,8,,,,São Paulo,,Palmeiras,0,1,0,1,0,0,,MorumBIS,,,,,,,True
+15237958,2026,8,,,,Corinthians,,Flamengo,1,1,1,1,0,0,,Neo Química Arena,,,,,,,True
+15237959,2026,8,,,,Red Bull Bragantino,,Botafogo,1,2,1,1,0,1,,Estádio Cícero de Souza Marques,,,,,,,True
+15237960,2026,8,,,,Cruzeiro,,Santos,0,0,0,0,0,0,,Governador Magalhães Pinto,,,,,,,True
+15237961,2026,8,,,,Internacional,,Chapecoense,2,0,1,0,1,0,,Estádio Beira-Rio,,,,,,,True
+15237962,2026,8,,,,Athletico,,Coritiba,2,0,1,0,1,0,,Arena da Baixada,,,,,,,True
+15237963,2026,8,,,,Vitória,,Mirassol,1,0,1,0,0,0,,Estádio Manoel Barradas,,,,,,,True
+15237964,2026,8,,,,Remo,,Bahia,4,1,1,1,3,0,,Mangueirão,,,,,,,True
+15237965,2026,9,,,,Fluminense,,Corinthians,3,1,2,0,1,1,,Estádio do Maracanã,,,,,,,True
+15237966,2026,9,,,,Botafogo,,Mirassol,3,2,2,1,1,1,,Estádio Nilton Santos,,,,,,,True
+15237967,2026,9,,,,Santos,,Remo,2,0,1,0,1,0,,Estádio Urbano Caldeira,,,,,,,True
+15237968,2026,9,,,,Palmeiras,,Grêmio,2,1,1,0,1,1,,Arena Barueri,,,,,,,True
+15237969,2026,9,,,,Red Bull Bragantino,,Flamengo,3,0,2,0,1,0,,Estádio Cícero de Souza Marques,,,,,,,True
+15237970,2026,9,,,,Cruzeiro,,Vitória,3,0,3,0,0,0,,Governador Magalhães Pinto,,,,,,,True
+15237971,2026,9,,,,Internacional,,São Paulo,1,1,1,0,0,1,,Estádio Beira-Rio,,,,,,,True
+15237972,2026,9,,,,Coritiba,,Vasco da Gama,1,1,0,1,1,0,,Estádio Major Antônio Couto Pereira,,,,,,,True
+15237973,2026,9,,,,Bahia,,Athletico,3,0,2,0,1,0,,Arena Fonte Nova,,,,,,,True
+15369877,2026,2,,,,Athletico,,Corinthians,0,1,0,1,0,0,,Arena da Baixada,,,,,,,True
+15651590,2026,5,,,,Athletico,,Botafogo,4,1,2,1,2,0,,Arena da Baixada,,,,,,,True
